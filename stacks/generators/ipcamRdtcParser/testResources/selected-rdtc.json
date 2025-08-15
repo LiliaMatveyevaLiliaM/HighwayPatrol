@@ -1,0 +1,9 @@
+{
+    "notes": "Options are mp4, on, off, or decoy"
+  , "selections": {
+      "15": "mp4"
+    , "4": "decoy"
+    , "5": "decoy"
+    , "20": "decoy"
+    }
+}

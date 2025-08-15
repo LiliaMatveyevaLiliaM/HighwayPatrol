@@ -1,0 +1,279 @@
+{
+	"citycam": {
+		"(191820).bazanet6-26130db97a": {
+			"title": "Молочное ул. Мира д.9",
+			"marker": {
+				"latitude": "59.294610516509344",
+				"longitude": "39.674463272094734",
+				"angle": 90
+			},
+			"dvr": {
+				"camera_name": "(191820).bazanet6-26130db97a",
+				"token": "3.5cawRgUgAAAAAAAAABYABhEuHYz015M4NMV8yMTAsh8Q1kwD_SHO_-Ce",
+				"server": "dvr5.baza.net"
+			},
+			"additional": {
+				"dtp_counts": 0,
+				"album_id": 0,
+				"location": "molochnoe",
+				"location_title": "Молочное"
+			}
+		},
+		"(194235-2).cam01.novgorodskaya.37a-e8a5940119": {
+			"title": "Стадион Новгородская 37а (CAM1)",
+			"marker": {
+				"latitude": "59.193929",
+				"longitude": "39.871134",
+				"angle": 70
+			},
+			"dvr": {
+				"camera_name": "(194235-2).cam01.novgorodskaya.37a-e8a5940119",
+				"token": "3.5cawRgUgAAAAAAAAABYABhEuHYz0154x9i37A-07txFf5_SKcczsT32q",
+				"server": "dvr7.baza.net"
+			},
+			"additional": {
+				"dtp_counts": 0,
+				"album_id": 0,
+				"location": "vologda",
+				"location_title": "Вологда"
+			}
+		},
+		"(194235-2).cam02.novgorodskaya.37a-c90c7d47ca": {
+			"title": "Стадион Новгородская 37а (CAM2)",
+			"marker": {
+				"latitude": "59.193765",
+				"longitude": "39.871901",
+				"angle": 60
+			},
+			"dvr": {
+				"camera_name": "(194235-2).cam02.novgorodskaya.37a-c90c7d47ca",
+				"token": "3.5cawRgUgAAAAAAAAABYABhEuHYz01wRLk99XN70bMZgtU_2fiPIj72qd",
+				"server": "dvr7.baza.net"
+			},
+			"additional": {
+				"dtp_counts": 0,
+				"album_id": 0,
+				"location": "vologda",
+				"location_title": "Вологда"
+			}
+		},
+		"(194235-2).cam03.novgorodskaya.37a-7b1920eb94": {
+			"title": "Стадион Новгородская 37а (CAM3)",
+			"marker": {
+				"latitude": "59.194047",
+				"longitude": "39.871270",
+				"angle": 150
+			},
+			"dvr": {
+				"camera_name": "(194235-2).cam03.novgorodskaya.37a-7b1920eb94",
+				"token": "3.5cawRgUgAAAAAAAAABYABhEuHYz012RUPYu78JwlczKIrRLvbqbdLr-3",
+				"server": "dvr7.baza.net"
+			},
+			"additional": {
+				"dtp_counts": 0,
+				"album_id": 0,
+				"location": "vologda",
+				"location_title": "Вологда"
+			}
+		},
+		"(194235-2).cam04.novgorodskaya.37a-4a2387f5fb": {
+			"title": "Стадион Новгородская 37а (CAM4)",
+			"marker": {
+				"latitude": "59.193818",
+				"longitude": "39.871743",
+				"angle": 290
+			},
+			"dvr": {
+				"camera_name": "(194235-2).cam04.novgorodskaya.37a-4a2387f5fb",
+				"token": "3.5cawRgUgAAAAAAAAABYABhEuHYz010muRVu5CLnXYD1wdZHG9mITwbO3",
+				"server": "dvr7.baza.net"
+			},
+			"additional": {
+				"dtp_counts": 0,
+				"album_id": 0,
+				"location": "vologda",
+				"location_title": "Вологда"
+			}
+		},
+		"(194235-3).cam01.molochnoe.shmidta.3-7abd1a8888": {
+			"title": "Стадион Шмидта 3 (CAM1)",
+			"marker": {
+				"latitude": "59.287100",
+				"longitude": "39.677857",
+				"angle": 270
+			},
+			"dvr": {
+				"camera_name": "(194235-3).cam01.molochnoe.shmidta.3-7abd1a8888",
+				"token": "3.5cawRgUgAAAAAAAAABYABhEuHYz019kebcjxbXeY00ufH2pQXW-2jaP8",
+				"server": "dvr7.baza.net"
+			},
+			"additional": {
+				"dtp_counts": 0,
+				"album_id": 0,
+				"location": "molochnoe",
+				"location_title": "Молочное"
+			}
+		},
+		"(194235-3).cam02.molochnoe.shmidta.3-4b6385fae4": {
+			"title": "Стадион Шмидта 3 (CAM2)",
+			"marker": {
+				"latitude": "59.287297",
+				"longitude": "39.677066",
+				"angle": 200
+			},
+			"dvr": {
+				"camera_name": "(194235-3).cam02.molochnoe.shmidta.3-4b6385fae4",
+				"token": "3.5cawRgUgAAAAAAAAABYABhEuHYz01w5p-a1mSkMhUo00IsAiEge0KyQD",
+				"server": "dvr7.baza.net"
+			},
+			"additional": {
+				"dtp_counts": 0,
+				"album_id": 0,
+				"location": "molochnoe",
+				"location_title": "Молочное"
+			}
+		},
+		"(194235-3).cam03.molochnoe.shmidta.3-22aae5aa11": {
+			"title": "Стадион Шмидта 3 (CAM3)",
+			"marker": {
+				"latitude": "59.287313",
+				"longitude": "39.677286",
+				"angle": 170
+			},
+			"dvr": {
+				"camera_name": "(194235-3).cam03.molochnoe.shmidta.3-22aae5aa11",
+				"token": "3.5cawRgUgAAAAAAAAABYABhEuHYz0192YBGkSd7jcM3K8NHIrsFsxs5pK",
+				"server": "dvr7.baza.net"
+			},
+			"additional": {
+				"dtp_counts": 0,
+				"album_id": 0,
+				"location": "molochnoe",
+				"location_title": "Молочное"
+			}
+		},
+		"zosimovskaya-sovetskij.prospekt-e3fe6eb756": {
+			"title": "Зосимовская - Советский проспект",
+			"marker": {
+				"latitude": "59.214224323221494",
+				"longitude": "39.90021944046021",
+				"angle": 0
+			},
+			"dvr": {
+				"camera_name": "zosimovskaya-sovetskij.prospekt-e3fe6eb756",
+				"token": "3.5cawRgUgAAAAAAAAABYABhEuHYz01xFi0TK7ykNEj3XpOssNwUvSQ5An",
+				"server": "dvr7.baza.net"
+			},
+			"additional": {
+				"dtp_counts": 0,
+				"album_id": 0,
+				"location": "vologda",
+				"location_title": "Вологда"
+			}
+		},
+		"zosimovskaya.-.kozlenskaya-c6858511f0": {
+			"title": "Зосимовская - Козленская",
+			"marker": {
+				"latitude": "59.21291736025887",
+				"longitude": "39.89732265472412",
+				"angle": 180
+			},
+			"dvr": {
+				"camera_name": "zosimovskaya.-.kozlenskaya-c6858511f0",
+				"token": "3.5cawRgUgAAAAAAAAABYABhEuHYz0108wrqW8L86YhjMpug_vbjfxPRNQ",
+				"server": "dvr3.baza.net"
+			},
+			"additional": {
+				"dtp_counts": 33,
+				"album_id": 32,
+				"location": "vologda",
+				"location_title": "Вологда"
+			}
+		}
+	},
+	"safehome": {
+		"(193185-1).cam1.m..popovicha.26-00de5a6c30": {
+			"title": "Вологда, Михаила Поповича (ул.), 26",
+			"marker": {
+				"latitude": "59.24958392622682",
+				"longitude": "39.84109282493592",
+				"angle": 251
+			},
+			"dvr": {
+				"camera_name": "(193185-1).cam1.m..popovicha.26-00de5a6c30"
+			}
+		},
+		"193818.cam01.severnaya.32-f71cab1084": {
+			"title": "Майский, Северная (ул.), 32",
+			"marker": {
+				"latitude": "59.267624185227206",
+				"longitude": "39.72915351390839",
+				"angle": 137
+			},
+			"dvr": {
+				"camera_name": "193818.cam01.severnaya.32-f71cab1084"
+			}
+		}
+	},
+	"locations": [
+		{
+			"title": "Белозерск",
+			"left_top_lat": "60.04034649",
+			"left_top_lon": "37.77708807",
+			"right_bottom_lat": "60.01428500",
+			"right_bottom_lon": "37.83328500",
+			"center": "60.0273, 37.8052",
+			"location": "belozersk"
+		},
+		{
+			"title": "Вологда",
+			"left_top_lat": "59.27580800",
+			"left_top_lon": "39.80134247",
+			"right_bottom_lat": "59.16501300",
+			"right_bottom_lon": "40.00533300",
+			"center": "59.2204, 39.9033",
+			"location": "vologda"
+		}
+	],
+	"domofon": [
+		{
+			"title": "Вологда Луначарского (ул.) 12",
+			"marker": {
+				"latitude": "59.2459986168275",
+				"longitude": "39.829984528",
+				"angle": 0
+			},
+			"additional": {
+				"location": "vologda",
+				"location_title": "Вологда",
+				"domofon_vendor": "sputnik"
+			}
+		},
+		{
+			"title": "Вологда Залинейная (ул.) 24",
+			"marker": {
+				"latitude": "59.2392263279229",
+				"longitude": "39.844349850",
+				"angle": 0
+			},
+			"additional": {
+				"location": "vologda",
+				"location_title": "Вологда",
+				"domofon_vendor": "sputnik"
+			}
+		},
+		{
+			"title": "Майский Ягодная (ул.) 34",
+			"marker": {
+				"latitude": "59.265709",
+				"longitude": "39.731919",
+				"angle": 0
+			},
+			"additional": {
+				"location": "majskij",
+				"location_title": "Майский",
+				"domofon_vendor": "sputnik"
+			}
+		}
+	]
+}

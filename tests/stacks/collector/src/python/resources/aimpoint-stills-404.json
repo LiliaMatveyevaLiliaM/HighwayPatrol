@@ -1,0 +1,8 @@
+{
+  "deviceID": "testID1",
+  "accessUrl": "404",
+  "filenameBase": "testStillError",
+  "collectionType": "STILLS",
+  "pollFrequency": 999,
+  "bucketPrefixTemplate": "stillsTest"
+}

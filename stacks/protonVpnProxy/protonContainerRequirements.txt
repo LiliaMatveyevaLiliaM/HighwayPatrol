@@ -1,0 +1,8 @@
+pytz
+s3path
+tzlocal
+urllib3
+filetype
+requests
+ec2_metadata
+fake_useragent

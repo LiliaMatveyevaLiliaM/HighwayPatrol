@@ -1,0 +1,42 @@
+{
+    "deviceID": "24"
+  , "enabled": true
+  , "collRegions": ["eu-central-1"]
+  , "collectionType": "FIRSTCONTACT"
+  , "firstContactData": { "subtype": "regexReplace", "group": 0, "oldString": "rtsp", "newString": "hls", "suffix": "/playlist.m3u8" }
+  , "accessUrl": "https://video.lanoptic.ru/site/embed.html?id=24&html5=true&logo=&w=100%&h=100%&ids="
+  , "playlistRegex": "https?://[a-zA-Z0-9\\-\\.]+(?::\\d+)?/rtsp(/\\w*/\\w*)*"
+  , "pollFrequency": 192
+  , "concatenate": false
+  , "convertToMP4": true
+  , "singleCollector": false
+  , "filenameBase": "{deviceID}"
+  , "finalFileSuffix": "_{year}-{month}-{day}-{hour}-{mins}-{secs}"
+  , "bucketPrefixTemplate": "ru/lanoptic/{deviceID}/{year}/{month}/{day}"
+  , "deliveryKey": "up"
+  , "longLat": [0, 0]
+  , "headers": {
+      "Host": "video.lanoptic.ru"
+    , "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0"
+    , "Accept": "*/*"
+    , "Accept-Encoding": "gzip, deflate, br, zstd"
+    , "Referer": "https://lanoptic.ru/"
+    , "Sec-Fetch-Dest": "iframe"
+    , "Sec-Fetch-Site": "same-site"
+    , "Sec-Fetch-Mode": "navigate"
+    , "Sec-GPC": "1"
+    , "Connection": "keep-alive"
+    , "Accept-Language": "en-US,en;q=0.5"
+    , "DNT": "1"
+    , "Upgrade-Insecure-Requests": "1"
+    , "Priority": "u=0"
+    , "Cache-Control": "no-cache"
+    , "Pragma": "no-cache"
+  }
+  , "devNotes": {
+        "givenUrl": "https://lanoptic.ru/videonablyudenie/web-cams/"
+      , "startedOn": "11.25.24"
+      , "missionTLDN": "ru"
+      , "setBy": "christopher16"
+  }
+}

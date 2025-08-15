@@ -1,0 +1,13 @@
+{
+    "notes": "Options are on, off, or decoy",
+    "selections": {
+      "144": "decoy"
+    , "149": "decoy"
+    , "25": "on"
+    , "27": "decoy"
+    , "39": "on"
+    , "137": "decoy"
+    , "100": "decoy"
+    , "95": "decoy"
+    }
+}

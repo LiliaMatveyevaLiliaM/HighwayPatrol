@@ -1,0 +1,45 @@
+{
+    "deviceID": "C01503",
+    "deviceIdList": [
+        "C0150301",
+        "C0150302",
+        "C0150309"
+    ],
+    "enabled": true,
+    "collRegions": [
+        "eu-north-1"
+    ],
+    "collectionType": "FSTLLS",
+    "accessUrl": "https://weathercam.digitraffic.fi/C0150309.jpg",
+    "accessUrlList": [
+        "https://weathercam.digitraffic.fi/C0150301.jpg",
+        "https://weathercam.digitraffic.fi/C0150302.jpg",
+        "https://weathercam.digitraffic.fi/C0150309.jpg"
+    ],
+    "pollFrequency": 300,
+    "filenameBase": "fluorine-C0150309",
+    "filenameBaseList": [
+        "fluorine-C01503-01",
+        "fluorine-C01503-02",
+        "fluorine-C01503-09"
+    ],
+    "finalFileSuffix": "_{year}-{month}-{day}",
+    "bucketPrefixTemplate": "aTest/{deviceID}/{year}{month}",
+    "longLat": [
+        60.05374,
+        23.99616
+    ],
+    "headers": {
+        "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:91.0) Gecko/20100101 Firefox/91.0",
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
+        "Accept-Encoding": "gzip, deflate",
+        "Accept-Language": "en-US,en;q=0.5",
+        "Cache-Control": "max-age=0",
+        "Connection": "keep-alive"
+    },
+    "devNotes": {
+        "givenURL": "https://tie.digitraffic.fi/api/weathercam/v1/stations",
+        "startedOn": "December 2023",
+        "setBy": "edward22"
+    }
+}

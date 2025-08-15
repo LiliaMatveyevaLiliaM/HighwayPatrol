@@ -1,0 +1,34 @@
+{
+    "deviceID": "007"
+  , "enabled": true
+  , "collRegions": ["us-east-1"]
+  , "collectionType": "STILLS"
+  , "accessUrl": "https://webkamera.atlas.vegvesen.no/public/kamera?id=0100007_1"
+  , "pollFrequency": 180
+  , "longLat": [11.745235, 59.484623]
+  , "concatenate": false
+  , "filenameBase": "norStills{deviceID}"
+  , "finalFileSuffix": "_{year}_{month}_{day}"
+  , "bucketPrefixTemplate": "aTest/{year}{month}{day}/{deviceID}"
+  , "headers": {
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:91.0) Gecko/20100101 Firefox/91.0"
+    , "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8"
+    , "Accept-Encoding": "gzip, deflate, br"
+    , "Accept-Language": "en-US,en;q=0.5"
+    , "Host": "webkamera.atlas.vegvesen.no"
+    , "Sec-Fetch-Dest": "document"
+    , "Sec-Fetch-Mode": "navigate"
+    , "Sec-Fetch-Site": "none"
+    , "Connection": "keep-alive"
+    , "Referer": "https://www.vegvesen.no/"
+    , "DNT": "1"
+    }
+  , "devNotes": {
+      "givenUrl": "https://www.vegvesen.no"
+    , "startedOn": "August 2022"
+    , "country": "norway"
+    , "region": "several"
+    , "setBy": "reynaldn"
+    , "notes": "On 08.29.22 noted that cameras 793995 and 3062836 are updating every 3mins (180s)"
+    }
+}

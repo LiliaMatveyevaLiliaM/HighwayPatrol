@@ -1,0 +1,34 @@
+[project]
+name = "orangeDevUtils"
+version = "1.0.0"
+authors = [
+  { name="reynaldn", email="reynaldn@opensource.gov" },
+]
+description = "This is an amalgamation of different modules used on many of our taskings."
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+dependencies = [
+    "base36",
+    "boto3",
+    "keyring",
+    "requests"
+]
+
+[project.urls]
+"Homepage" = "https://git.opensource.gov/Mendeleev/orangeDevUtils"
+"Bug Tracker" = "https://git.opensource.gov/Mendeleev/orangeDevUtils/issues"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build]
+sources = ["src"]
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/orangeDevUtils"]

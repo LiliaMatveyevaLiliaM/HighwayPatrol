@@ -1,0 +1,10 @@
+{
+    "notes": "Options are on, off, decoy, or {JSON aimpoint settings}"
+  , "selections": {
+      "1500-1041": "on" 
+    , "1500-1039": "on"
+    , "1500-1038": "on"
+    , "1500-1030": "decoy"
+    , "1500-1044": "decoy"
+  }
+}

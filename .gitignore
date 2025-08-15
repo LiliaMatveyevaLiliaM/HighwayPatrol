@@ -1,0 +1,17 @@
+*.swp
+*.pyc
+.env
+.vscode
+__pycache__
+*.egg-info
+myScratchPad
+.pytest_cache
+package-lock.json
+
+# CDK asset staging directory
+cdk.out
+.cdk.staging
+.lambdaBuild
+.pycurlDependency
+.lambdaDependencies
+.lambdaYtdlpDependency

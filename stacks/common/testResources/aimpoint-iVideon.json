@@ -1,0 +1,36 @@
+{
+    "deviceID": "someDevice"
+  , "enabled": false
+  , "collRegions": ["us-east-1"]
+  , "collectionType": "IVIDEO"
+  , "accessUrl": "https://open.ivideon.com/embed/v2/?server=100-7a5c7c5223b3770d0ac81c3bb3f91ee4&camera=0&width=&height=&lang=en&ap=&noibw="
+  , "pollFrequency": 20
+  , "concatenate": true
+  , "singleCollector": false
+  , "filenameBase": "renee"
+  , "finalFileSuffix": "_{epoch}"
+  , "bucketPrefixTemplate": "aTest/{deviceID}/{year}{month}{day}"
+  , "longLat": [0, 0]
+  , "headers": {
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:91.0) Gecko/20100101 Firefox/91.0"
+    , "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8"
+    , "Host": "open.ivideon.com"
+    , "Sec-Fetch-Site": "none"
+    , "Sec-Fetch-Mode": "navigate"
+    , "Connection": "keep-alive"
+    , "sec-ch-ua": "\"Chromium\";v=\"88\", \"Google Chrome\";v=\"88\", \";Not A Brand\";v=\"99\""
+    , "Sec-Fetch-Dest": "document"
+    , "Sec-Fetch-User": "?1"
+    , "Accept-Encoding": "gzip, deflate, br"
+    , "upgrade-insecure-requests":"1"
+    , "Accept-Language": "en-US,en;q=0.5"
+    , "DNT": "1"
+    }
+  , "devNotes": {
+      "givenURL": ""
+    , "startedOn": ""
+    , "country": "ukraine"
+    , "region": "renee"
+    , "setBy": ""
+    }
+}

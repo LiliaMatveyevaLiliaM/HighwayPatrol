@@ -1,0 +1,10 @@
+{
+    "notes": "Options are on, off, mp4, or decoy"
+  , "selections": {
+      "SXJ000000010417": "on"
+    , "SXJ000000010344": "off"
+    , "SXJ000000010607": "mp4"
+    , "SXJ000000010405": "on"
+    , "SXJ000000010413": "decoy"
+    }
+}

@@ -1,0 +1,73 @@
+# Use a Microsoft Playwright image
+FROM mcr.microsoft.com/playwright/python:v1.43.0-jammy AS build-image
+
+# Ensure logs are flushed immediately
+ENV PYTHONUNBUFFERED=1
+
+# Set working directory
+ARG FUNCTION_DIR="/var/task"
+
+WORKDIR ${FUNCTION_DIR}
+
+ENV PLAYWRIGHT_BROWSERS_PATH=0
+
+# Install system dependencies required for Playwright and general builds
+RUN apt-get update && apt-get install -y \
+    g++ \
+    vim \
+    curl \
+    make \
+    wget \
+    cmake \
+    unzip \
+    gnupg \
+    libnss3 \
+    libnss-unknown \
+    ca-certificates \
+    libcurl4-openssl-dev \
+    && rm -rf /var/lib/apt/lists/*
+
+# Install Playwright and dependencies
+RUN pip install --upgrade pip wheel
+RUN pip install playwright==1.43.0
+RUN pip install setuptools
+RUN pip install --target ${FUNCTION_DIR} awslambdaric
+RUN pip install playwright-stealth==1.0.6
+RUN playwright install chromium
+
+# Install branded chrome - firefox installs easier but doesn't run =^..^=
+RUN wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | apt-key add - \ 
+    && echo "deb http://dl.google.com/linux/chrome/deb/ stable main" >> /etc/apt/sources.list.d/google.list
+RUN apt-get update && apt-get -y install google-chrome-stable
+
+# Copy dependencies first to leverage caching
+COPY devRequirements.txt ${FUNCTION_DIR}
+COPY addons ${FUNCTION_DIR}/addons
+COPY orangeUtils ${FUNCTION_DIR}/orangeUtils
+COPY utils ${FUNCTION_DIR}/utils
+COPY *.py ${FUNCTION_DIR}
+
+# Only for testing - can uncomment for testing
+# COPY avk-wellcom-68.json ${FUNCTION_DIR}
+
+# Install Python dependencies
+RUN pip install -r ${FUNCTION_DIR}/devRequirements.txt
+
+# This is a duplicate....... but it makes it work so, no sleep lost
+RUN playwright install chromium
+
+# Define output volume
+VOLUME ["${FUNCTION_DIR}/output"]
+
+# These are for local testing of the Docker container
+# ENTRYPOINT [ "/bin/bash", "-l"]
+# CMD ["python", "playwrightWebsocketTest.py"]
+
+# Set the Runtime Interface Client (RIC) as the default command
+ENTRYPOINT [ "python", "-m", "awslambdaric"]
+# Pass the name of the function handler as an argument to the runtime
+CMD [ "main.lambdaHandler" ]
+
+# Test the websocket without hpatrol
+# ENTRYPOINT [ "python", "-m", "awslambdaric"]
+# CMD [ "playwrightWebsocketTest.lambdaHandler" ]

@@ -1,0 +1,16 @@
+# This file lists libraries required by the lambdas
+# This is used in the individual stack files during lambda buildup
+# Notice that more libraries are used for development; those are in devRequirements.txt
+
+bs4
+m3u8
+pytz
+boto3
+brotli
+base36
+certifi
+keyring
+requests
+xmltodict
+pyopenssl
+fake_useragent

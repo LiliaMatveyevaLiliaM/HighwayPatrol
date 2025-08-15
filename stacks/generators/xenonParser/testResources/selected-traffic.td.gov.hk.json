@@ -1,0 +1,8 @@
+{
+    "notes": "Options are on, off, or decoy"
+  , "selections": {
+      "SW103F": "on"
+    , "NH115F": "on"
+    , "K107F": "on"
+    }
+}

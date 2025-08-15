@@ -1,0 +1,4782 @@
+[
+    {
+        "id": 87,
+        "name": "Стадион \"Юность\"",
+        "img": "https://s2.moidom-stream.ru/s/public/0000000087_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s2.moidom-stream.ru/s/public/0000000087.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/87",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.787464,
+        "longitude": 34.37876,
+        "incident": false,
+        "angle": 245,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 88,
+        "name": "Площадь Кирова",
+        "img": "https://s3.moidom-stream.ru/s/public/0000000088_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s3.moidom-stream.ru/s/public/0000000088.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/88",
+        "audio": false,
+        "rotate": 10,
+        "latitude": 61.787575,
+        "longitude": 34.379855,
+        "incident": false,
+        "angle": 97,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 89,
+        "name": "Памятник О.В. Куусинену",
+        "img": "https://s3.moidom-stream.ru/s/public/0000000089_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s3.moidom-stream.ru/s/public/0000000089.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/89",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.793754,
+        "longitude": 34.375838,
+        "incident": false,
+        "angle": 309,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 103,
+        "name": "Набережная Онежского озера",
+        "img": "https://s3.moidom-stream.ru/s/public/0000000103_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s3.moidom-stream.ru/s/public/0000000103.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/103",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.793797,
+        "longitude": 34.37653,
+        "incident": false,
+        "angle": 35,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 192,
+        "name": "Древлянское кольцо",
+        "img": "https://s3.moidom-stream.ru/s/public/0000000192_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s3.moidom-stream.ru/s/public/0000000192.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/192",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.764798,
+        "longitude": 34.320387,
+        "incident": false,
+        "angle": 12,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 212,
+        "name": "Ключевая ул. - Судостроительная ул",
+        "img": "https://s3.moidom-stream.ru/s/public/0000000212_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s3.moidom-stream.ru/s/public/0000000212.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/212",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.762507,
+        "longitude": 34.443179,
+        "incident": false,
+        "angle": 93,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 418,
+        "name": "Пешеходный переход у \"Столицы\"",
+        "img": "https://s3.moidom-stream.ru/s/public/0000000418_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s3.moidom-stream.ru/s/public/0000000418.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/418",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.76502,
+        "longitude": 34.313507,
+        "incident": false,
+        "angle": 100,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 521,
+        "name": "Ротонда на Онежской набережной",
+        "img": "https://s3.moidom-stream.ru/s/public/0000000521_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s3.moidom-stream.ru/s/public/0000000521.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/521",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.793941,
+        "longitude": 34.376332,
+        "incident": false,
+        "angle": 354,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 683,
+        "name": "Мини-зоопарк Эколого-биологического центра",
+        "img": "https://s2.moidom-stream.ru/s/public/0000000683_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s2.moidom-stream.ru/s/public/0000000683.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/683",
+        "audio": false,
+        "rotate": 10,
+        "latitude": 61.779883,
+        "longitude": 34.357137,
+        "incident": false,
+        "angle": null,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 969,
+        "name": "Ровио ул. - Комсомольский пр.",
+        "img": "https://s2.moidom-stream.ru/s/public/0000000969_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s2.moidom-stream.ru/s/public/0000000969.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/969",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.763555,
+        "longitude": 34.360335,
+        "incident": false,
+        "angle": 230,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 973,
+        "name": "А. Невского пр. - Правды ул.",
+        "img": "https://s2.moidom-stream.ru/s/public/0000000973_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s2.moidom-stream.ru/s/public/0000000973.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/973",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.781984,
+        "longitude": 34.385173,
+        "incident": false,
+        "angle": 95,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 975,
+        "name": "Чапаева ул. - Ватутина ул.",
+        "img": "https://s2.moidom-stream.ru/s/public/0000000975_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s2.moidom-stream.ru/s/public/0000000975.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/975",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.783648,
+        "longitude": 34.327136,
+        "incident": false,
+        "angle": 355,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 1037,
+        "name": "Шотмана ул. - Ленина пр.",
+        "img": "https://s2.moidom-stream.ru/s/public/0000001037_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s2.moidom-stream.ru/s/public/0000001037.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/1037",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.785558,
+        "longitude": 34.347123,
+        "incident": false,
+        "angle": 241,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 1039,
+        "name": "Красноармейская ул. - Ленина пр.",
+        "img": "https://s2.moidom-stream.ru/s/public/0000001039_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s2.moidom-stream.ru/s/public/0000001039.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/1039",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.785081,
+        "longitude": 34.347866,
+        "incident": false,
+        "angle": 228,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 1097,
+        "name": "Ледовый дворец \"Луми\": камера 1",
+        "img": "https://s2.moidom-stream.ru/s/public/0000001097_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s2.moidom-stream.ru/s/public/0000001097.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/1097",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.793023,
+        "longitude": 34.358141,
+        "incident": false,
+        "angle": null,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 1099,
+        "name": "Ледовый дворец \"Луми\": камера 2",
+        "img": "https://s2.moidom-stream.ru/s/public/0000001099_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s2.moidom-stream.ru/s/public/0000001099.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/1099",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.79299,
+        "longitude": 34.358812,
+        "incident": false,
+        "angle": null,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 1101,
+        "name": "Детская площадка на Кукковке",
+        "img": "https://s3.moidom-stream.ru/s/public/0000001101_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s3.moidom-stream.ru/s/public/0000001101.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/1101",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.761158,
+        "longitude": 34.368933,
+        "incident": false,
+        "angle": 322,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 1109,
+        "name": "Спортивный зал в ТЦ \"Десяточка\"",
+        "img": "https://s2.moidom-stream.ru/s/public/0000001109_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s2.moidom-stream.ru/s/public/0000001109.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/1109",
+        "audio": true,
+        "rotate": 7,
+        "latitude": 61.76027,
+        "longitude": 34.438489,
+        "incident": false,
+        "angle": null,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 1113,
+        "name": "Спортивный зал в Доме бокса",
+        "img": "https://s2.moidom-stream.ru/s/public/0000001113_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s2.moidom-stream.ru/s/public/0000001113.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/1113",
+        "audio": true,
+        "rotate": 10,
+        "latitude": 61.795667,
+        "longitude": 34.33498,
+        "incident": false,
+        "angle": null,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 1197,
+        "name": "А. Невского пр. - Комсомольский пр.",
+        "img": "https://s3.moidom-stream.ru/s/public/0000001197_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s3.moidom-stream.ru/s/public/0000001197.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/1197",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.773958,
+        "longitude": 34.358946,
+        "incident": false,
+        "angle": 187,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 1199,
+        "name": "Чкалова ул. - Чапаева ул.",
+        "img": "https://s2.moidom-stream.ru/s/public/0000001199_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s2.moidom-stream.ru/s/public/0000001199.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/1199",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.783763,
+        "longitude": 34.322611,
+        "incident": false,
+        "angle": 182,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 1201,
+        "name": "Первомайский пр. - Ленинградская ул.",
+        "img": "https://s2.moidom-stream.ru/s/public/0000001201_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s2.moidom-stream.ru/s/public/0000001201.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/1201",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.792655,
+        "longitude": 34.346664,
+        "incident": false,
+        "angle": 85,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 1203,
+        "name": "Древлянка ул. - Лесной пр.",
+        "img": "https://s2.moidom-stream.ru/s/public/0000001203_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s2.moidom-stream.ru/s/public/0000001203.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/1203",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.770675,
+        "longitude": 34.316561,
+        "incident": false,
+        "angle": 7,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 1213,
+        "name": "Пешеходный переход на Лососинском шоссе",
+        "img": "https://s2.moidom-stream.ru/s/public/0000001213_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s2.moidom-stream.ru/s/public/0000001213.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/1213",
+        "audio": false,
+        "rotate": 10,
+        "latitude": 61.763789,
+        "longitude": 34.30893,
+        "incident": false,
+        "angle": 97,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 1235,
+        "name": "Антикайнена ул. - Красная ул.",
+        "img": "https://s2.moidom-stream.ru/s/public/0000001235_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s2.moidom-stream.ru/s/public/0000001235.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/1235",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.788411,
+        "longitude": 34.352397,
+        "incident": false,
+        "angle": 21,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 1239,
+        "name": "Лыжная ул. - Ровио ул.",
+        "img": "https://s2.moidom-stream.ru/s/public/0000001239_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s2.moidom-stream.ru/s/public/0000001239.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/1239",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.766115,
+        "longitude": 34.389241,
+        "incident": false,
+        "angle": 226,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 1241,
+        "name": "Кукковское кольцо",
+        "img": "https://s3.moidom-stream.ru/s/public/0000001241_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s3.moidom-stream.ru/s/public/0000001241.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/1241",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.758014,
+        "longitude": 34.360966,
+        "incident": false,
+        "angle": 237,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 1265,
+        "name": "Анохина ул. - Гоголя ул.",
+        "img": "https://s2.moidom-stream.ru/s/public/0000001265_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s2.moidom-stream.ru/s/public/0000001265.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/1265",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.78184,
+        "longitude": 34.355835,
+        "incident": false,
+        "angle": 103,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 1267,
+        "name": "Антикайнена ул. - Гоголя ул.",
+        "img": "https://s2.moidom-stream.ru/s/public/0000001267_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s2.moidom-stream.ru/s/public/0000001267.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/1267",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.783384,
+        "longitude": 34.360362,
+        "incident": false,
+        "angle": 184,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 1269,
+        "name": "Ленина пр. - Герцена ул.",
+        "img": "https://s2.moidom-stream.ru/s/public/0000001269_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s2.moidom-stream.ru/s/public/0000001269.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/1269",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.788293,
+        "longitude": 34.358469,
+        "incident": false,
+        "angle": 299,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 1271,
+        "name": "Ленина пр. - Фридриха Энгельса ул.",
+        "img": "https://s2.moidom-stream.ru/s/public/0000001271_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s2.moidom-stream.ru/s/public/0000001271.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/1271",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.788475,
+        "longitude": 34.360239,
+        "incident": false,
+        "angle": 348,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 1277,
+        "name": "Ленина пр. - Антикайнена ул.",
+        "img": "https://s2.moidom-stream.ru/s/public/0000001277_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s2.moidom-stream.ru/s/public/0000001277.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/1277",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.787223,
+        "longitude": 34.353006,
+        "incident": false,
+        "angle": 93,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 1281,
+        "name": "Ленина пр. - Анохина ул.",
+        "img": "https://s2.moidom-stream.ru/s/public/0000001281_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s2.moidom-stream.ru/s/public/0000001281.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/1281",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.785986,
+        "longitude": 34.350259,
+        "incident": false,
+        "angle": 6,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 1283,
+        "name": "Ленина пр. - Кирова ул.",
+        "img": "https://s2.moidom-stream.ru/s/public/0000001283_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s2.moidom-stream.ru/s/public/0000001283.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/1283",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.791935,
+        "longitude": 34.369342,
+        "incident": false,
+        "angle": 22,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 1299,
+        "name": "Ленина пр. - Куйбышева ул.",
+        "img": "https://s2.moidom-stream.ru/s/public/0000001299_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s2.moidom-stream.ru/s/public/0000001299.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/1299",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.793101,
+        "longitude": 34.373948,
+        "incident": false,
+        "angle": 290,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 1301,
+        "name": "Ленина пр. - Андропова ул.",
+        "img": "https://s1.moidom-stream.ru/s/public/0000001301_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s1.moidom-stream.ru/s/public/0000001301.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/1301",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.790368,
+        "longitude": 34.364524,
+        "incident": false,
+        "angle": 291,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 1307,
+        "name": "Ленина пр. - Дзержинского ул.",
+        "img": "https://s2.moidom-stream.ru/s/public/0000001307_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s2.moidom-stream.ru/s/public/0000001307.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/1307",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.790965,
+        "longitude": 34.366401,
+        "incident": false,
+        "angle": 5,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 1321,
+        "name": "Пешеходный переход на ул. Ровио",
+        "img": "https://s2.moidom-stream.ru/s/public/0000001321_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s2.moidom-stream.ru/s/public/0000001321.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/1321",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.76285,
+        "longitude": 34.363482,
+        "incident": false,
+        "angle": 241,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 1327,
+        "name": "Чапаева ул. - Пархоменко ул.",
+        "img": "https://s3.moidom-stream.ru/s/public/0000001327_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s3.moidom-stream.ru/s/public/0000001327.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/1327",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.781464,
+        "longitude": 34.320371,
+        "incident": false,
+        "angle": 292,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 1379,
+        "name": "Лыжная ул. - Балтийская ул.",
+        "img": "https://s2.moidom-stream.ru/s/public/0000001379_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s2.moidom-stream.ru/s/public/0000001379.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/1379",
+        "audio": false,
+        "rotate": 10,
+        "latitude": 61.767877,
+        "longitude": 34.386875,
+        "incident": false,
+        "angle": 68,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 1381,
+        "name": "Первомайский пр. - Мелентьевой ул.",
+        "img": "https://s1.moidom-stream.ru/s/public/0000001381_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s1.moidom-stream.ru/s/public/0000001381.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/1381",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.800776,
+        "longitude": 34.313319,
+        "incident": false,
+        "angle": 144,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 1391,
+        "name": "Верхнее чапаевское кольцо",
+        "img": "https://s2.moidom-stream.ru/s/public/0000001391_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s2.moidom-stream.ru/s/public/0000001391.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/1391",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.78052,
+        "longitude": 34.309835,
+        "incident": false,
+        "angle": 216,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 1415,
+        "name": "Варкауса наб. - Мурманская ул.",
+        "img": "https://s1.moidom-stream.ru/s/public/0000001415_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s1.moidom-stream.ru/s/public/0000001415.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/1415",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.806679,
+        "longitude": 34.339212,
+        "incident": false,
+        "angle": 96,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 1419,
+        "name": "Улица Гвардейская",
+        "img": "https://s2.moidom-stream.ru/s/public/0000001419_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s2.moidom-stream.ru/s/public/0000001419.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/1419",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.753891,
+        "longitude": 34.437478,
+        "incident": false,
+        "angle": 161,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 1425,
+        "name": "Ленинградская ул. - Октябрьский пр.",
+        "img": "https://s2.moidom-stream.ru/s/public/0000001425_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s2.moidom-stream.ru/s/public/0000001425.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/1425",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.796397,
+        "longitude": 34.353929,
+        "incident": false,
+        "angle": 87,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 1427,
+        "name": "Московская ул. - Октябрьский пр.",
+        "img": "https://s2.moidom-stream.ru/s/public/0000001427_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s2.moidom-stream.ru/s/public/0000001427.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/1427",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.800132,
+        "longitude": 34.344941,
+        "incident": false,
+        "angle": 263,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 1429,
+        "name": "Мелентьевой ул. - Октябрьский пр.",
+        "img": "https://s2.moidom-stream.ru/s/public/0000001429_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s2.moidom-stream.ru/s/public/0000001429.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/1429",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.806974,
+        "longitude": 34.32472,
+        "incident": false,
+        "angle": 263,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 1471,
+        "name": "Гиперборея - пр. Ленина",
+        "img": "https://s2.moidom-stream.ru/s/public/0000001471_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s2.moidom-stream.ru/s/public/0000001471.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/1471",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.794386,
+        "longitude": 34.37358,
+        "incident": false,
+        "angle": 104,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 1531,
+        "name": "Студенческий бульвар",
+        "img": "https://s3.moidom-stream.ru/s/public/0000001531_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s3.moidom-stream.ru/s/public/0000001531.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/1531",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.787394,
+        "longitude": 34.351202,
+        "incident": false,
+        "angle": 270,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 1533,
+        "name": "Фонтан \"Молекула\"",
+        "img": "https://s3.moidom-stream.ru/s/public/0000001533_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s3.moidom-stream.ru/s/public/0000001533.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/1533",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.787264,
+        "longitude": 34.351336,
+        "incident": false,
+        "angle": 195,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 1591,
+        "name": "Ледовый дворец \"Луми\": камера 3",
+        "img": "https://s2.moidom-stream.ru/s/public/0000001591_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s2.moidom-stream.ru/s/public/0000001591.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/1591",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.792932,
+        "longitude": 34.358422,
+        "incident": false,
+        "angle": null,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 1987,
+        "name": "ул. Гвардейская - ул. Ключевая",
+        "img": "https://s2.moidom-stream.ru/s/public/0000001987_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s2.moidom-stream.ru/s/public/0000001987.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/1987",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.756161,
+        "longitude": 34.429872,
+        "incident": false,
+        "angle": 236,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 1993,
+        "name": "ул. Ключевая - ул. Репникова",
+        "img": "https://s2.moidom-stream.ru/s/public/0000001993_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s2.moidom-stream.ru/s/public/0000001993.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/1993",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.756391,
+        "longitude": 34.429891,
+        "incident": false,
+        "angle": 287,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 1995,
+        "name": "А. Невского пр. - Калинина ул.",
+        "img": "https://s2.moidom-stream.ru/s/public/0000001995_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s2.moidom-stream.ru/s/public/0000001995.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/1995",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.779609,
+        "longitude": 34.37524,
+        "incident": false,
+        "angle": 118,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 1997,
+        "name": "А. Невского пр. - М.Мерецкова ул.",
+        "img": "https://s2.moidom-stream.ru/s/public/0000001997_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s2.moidom-stream.ru/s/public/0000001997.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/1997",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.776273,
+        "longitude": 34.36891,
+        "incident": false,
+        "angle": 5,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 2045,
+        "name": "Бульвар Интернационалистов",
+        "img": "https://s2.moidom-stream.ru/s/public/0000002045_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s2.moidom-stream.ru/s/public/0000002045.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/2045",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.762685,
+        "longitude": 34.315183,
+        "incident": false,
+        "angle": 208,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 2047,
+        "name": "Красноармейская ул. - Гоголя ул",
+        "img": "https://s3.moidom-stream.ru/s/public/0000002047_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s3.moidom-stream.ru/s/public/0000002047.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/2047",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.780678,
+        "longitude": 34.353154,
+        "incident": false,
+        "angle": 268,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 2063,
+        "name": "Октябрьский пр. - Мурманская ул.",
+        "img": "https://s2.moidom-stream.ru/s/public/0000002063_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s2.moidom-stream.ru/s/public/0000002063.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/2063",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.802689,
+        "longitude": 34.334744,
+        "incident": false,
+        "angle": 9,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 2077,
+        "name": "Первомайский пр. - Московская ул.",
+        "img": "https://s3.moidom-stream.ru/s/public/0000002077_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s3.moidom-stream.ru/s/public/0000002077.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/2077",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.796291,
+        "longitude": 34.339111,
+        "incident": false,
+        "angle": 340,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 2079,
+        "name": "Зайцева ул. - Мелентьевой ул.",
+        "img": "https://s3.moidom-stream.ru/s/public/0000002079_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s3.moidom-stream.ru/s/public/0000002079.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/2079",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.809466,
+        "longitude": 34.32831,
+        "incident": false,
+        "angle": 243,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 2081,
+        "name": "Шотмана ул. - Разина ул.",
+        "img": "https://s3.moidom-stream.ru/s/public/0000002081_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s3.moidom-stream.ru/s/public/0000002081.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/2081",
+        "audio": false,
+        "rotate": 10,
+        "latitude": 61.798075,
+        "longitude": 34.324095,
+        "incident": false,
+        "angle": 243,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 2123,
+        "name": "Шотмана ул. - Железнодорожная ул.",
+        "img": "https://s3.moidom-stream.ru/s/public/0000002123_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s3.moidom-stream.ru/s/public/0000002123.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/2123",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.793136,
+        "longitude": 34.339468,
+        "incident": false,
+        "angle": 270,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 2149,
+        "name": "Спортивный зал в ТЦ \" Десяточка\", табло",
+        "img": "https://s3.moidom-stream.ru/s/public/0000002149_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s3.moidom-stream.ru/s/public/0000002149.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/2149",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.76027,
+        "longitude": 34.438489,
+        "incident": false,
+        "angle": null,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 2169,
+        "name": "Карла Маркса пр. - Правды ул.",
+        "img": "https://s3.moidom-stream.ru/s/public/0000002169_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s3.moidom-stream.ru/s/public/0000002169.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/2169",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.787732,
+        "longitude": 34.379788,
+        "incident": false,
+        "angle": 65,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 2173,
+        "name": "Ровио ул. - Парфенова ул.",
+        "img": "https://s2.moidom-stream.ru/s/public/0000002173_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s2.moidom-stream.ru/s/public/0000002173.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/2173",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.765384,
+        "longitude": 34.379166,
+        "incident": false,
+        "angle": 324,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 2179,
+        "name": "Варкауса наб. - Московская ул.",
+        "img": "https://s3.moidom-stream.ru/s/public/0000002179_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s3.moidom-stream.ru/s/public/0000002179.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/2179",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.802666,
+        "longitude": 34.349026,
+        "incident": false,
+        "angle": 6,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 2201,
+        "name": "Чапаева ул. - Муезерская ул.",
+        "img": "https://s1.moidom-stream.ru/s/public/0000002201_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s1.moidom-stream.ru/s/public/0000002201.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/2201",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.78847,
+        "longitude": 34.336176,
+        "incident": false,
+        "angle": 86,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 2207,
+        "name": "Детская площадка у \"Столицы\", камера 1",
+        "img": "https://s3.moidom-stream.ru/s/public/0000002207_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s3.moidom-stream.ru/s/public/0000002207.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/2207",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.765535,
+        "longitude": 34.314462,
+        "incident": false,
+        "angle": 221,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 2209,
+        "name": "Детская площадка у \"Столицы\", камера 2",
+        "img": "https://s3.moidom-stream.ru/s/public/0000002209_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s3.moidom-stream.ru/s/public/0000002209.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/2209",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.765632,
+        "longitude": 34.314349,
+        "incident": false,
+        "angle": 268,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 2223,
+        "name": "Стадион Машиностроитель",
+        "img": "https://s3.moidom-stream.ru/s/public/0000002223_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s3.moidom-stream.ru/s/public/0000002223.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/2223",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.803789,
+        "longitude": 34.32598,
+        "incident": false,
+        "angle": 235,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 2253,
+        "name": "Лососинское ш. - Попова ул.",
+        "img": "https://s3.moidom-stream.ru/s/public/0000002253_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s3.moidom-stream.ru/s/public/0000002253.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/2253",
+        "audio": false,
+        "rotate": 10,
+        "latitude": 61.763209,
+        "longitude": 34.305996,
+        "incident": false,
+        "angle": 207,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 2273,
+        "name": "Въезд в ЖК Скандинавия",
+        "img": "https://s3.moidom-stream.ru/s/public/0000002273_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s3.moidom-stream.ru/s/public/0000002273.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/2273",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.758225,
+        "longitude": 34.302601,
+        "incident": false,
+        "angle": 38,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 2323,
+        "name": "Первомайский пр. - Мурманская ул.",
+        "img": "https://s3.moidom-stream.ru/s/public/0000002323_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s3.moidom-stream.ru/s/public/0000002323.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/2323",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.799067,
+        "longitude": 34.328288,
+        "incident": false,
+        "angle": 185,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 2363,
+        "name": "Физкультурно-оздоровительный комплекс, камера 1",
+        "img": "https://s1.moidom-stream.ru/s/public/0000002363_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s1.moidom-stream.ru/s/public/0000002363.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/2363",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.76097,
+        "longitude": 34.44143,
+        "incident": false,
+        "angle": null,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 2369,
+        "name": "Физкультурно-оздоровительный комплекс, камера 2",
+        "img": "https://s1.moidom-stream.ru/s/public/0000002369_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s1.moidom-stream.ru/s/public/0000002369.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/2369",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.76087,
+        "longitude": 34.44122,
+        "incident": false,
+        "angle": null,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 2385,
+        "name": "Спортивный комплекс \"Koral\", камера 1",
+        "img": "https://s1.moidom-stream.ru/s/public/0000002385_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s1.moidom-stream.ru/s/public/0000002385.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/2385",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.810681,
+        "longitude": 34.266398,
+        "incident": false,
+        "angle": null,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 2387,
+        "name": "Спортивный комплекс \"Koral\", камера 2",
+        "img": "https://s1.moidom-stream.ru/s/public/0000002387_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s1.moidom-stream.ru/s/public/0000002387.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/2387",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.810962,
+        "longitude": 34.266875,
+        "incident": false,
+        "angle": null,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 2425,
+        "name": "Древлянка ул. - Березовая аллея ул.",
+        "img": "https://s3.moidom-stream.ru/s/public/0000002425_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s3.moidom-stream.ru/s/public/0000002425.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/2425",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.768686,
+        "longitude": 34.310893,
+        "incident": false,
+        "angle": 234,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 2449,
+        "name": "Бассейн Физкультурно-оздоровительного комплекса, камера 1",
+        "img": "https://s1.moidom-stream.ru/s/public/0000002449_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s1.moidom-stream.ru/s/public/0000002449.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/2449",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.760842,
+        "longitude": 34.440946,
+        "incident": false,
+        "angle": null,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 2503,
+        "name": "Железнодорожный вокзал",
+        "img": "https://s1.moidom-stream.ru/s/public/0000002503_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s1.moidom-stream.ru/s/public/0000002503.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/2503",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.780515,
+        "longitude": 34.344088,
+        "incident": false,
+        "angle": 10,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 2505,
+        "name": "Гоголевский мост",
+        "img": "https://s1.moidom-stream.ru/s/public/0000002505_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s1.moidom-stream.ru/s/public/0000002505.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/2505",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.77822,
+        "longitude": 34.342026,
+        "incident": false,
+        "angle": 103,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 2517,
+        "name": "М. Мерецкова ул. - Лососинская наб.",
+        "img": "https://s3.moidom-stream.ru/s/public/0000002517_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s3.moidom-stream.ru/s/public/0000002517.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/2517",
+        "audio": true,
+        "rotate": 10,
+        "latitude": 61.779283,
+        "longitude": 34.366307,
+        "incident": false,
+        "angle": 269,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 2527,
+        "name": "Бассейн Физкультурно-оздоровительного комплекса, камера 2",
+        "img": "https://s1.moidom-stream.ru/s/public/0000002527_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s1.moidom-stream.ru/s/public/0000002527.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/2527",
+        "audio": true,
+        "rotate": 7,
+        "latitude": 61.760763,
+        "longitude": 34.441187,
+        "incident": false,
+        "angle": null,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 2691,
+        "name": "Карла Маркса пр. - Кирова ул.",
+        "img": "https://s2.moidom-stream.ru/s/public/0000002691_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s2.moidom-stream.ru/s/public/0000002691.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/2691",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.788104,
+        "longitude": 34.376432,
+        "incident": false,
+        "angle": 250,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 2701,
+        "name": "Пешеходный переход у ЖК \"Каскад\"",
+        "img": "https://s3.moidom-stream.ru/s/public/0000002701_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s3.moidom-stream.ru/s/public/0000002701.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/2701",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.768276,
+        "longitude": 34.299429,
+        "incident": false,
+        "angle": 223,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 2767,
+        "name": "Физкультурно-оздоровительный комплекс, зал для занятий борьбой",
+        "img": "https://s1.moidom-stream.ru/s/public/0000002767_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s1.moidom-stream.ru/s/public/0000002767.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/2767",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.761172,
+        "longitude": 34.441311,
+        "incident": false,
+        "angle": null,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 2823,
+        "name": "Ключевая ул. - Сусанина ул.",
+        "img": "https://s3.moidom-stream.ru/s/public/0000002823_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s3.moidom-stream.ru/s/public/0000002823.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/2823",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.757551,
+        "longitude": 34.432459,
+        "incident": false,
+        "angle": 25,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 2835,
+        "name": "А. Невского пр. - Машезерская ул.",
+        "img": "https://s3.moidom-stream.ru/s/public/0000002835_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s3.moidom-stream.ru/s/public/0000002835.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/2835",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.77794,
+        "longitude": 34.372017,
+        "incident": false,
+        "angle": 104,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 2837,
+        "name": "А. Невского пр. - Станционная ул.",
+        "img": "https://s1.moidom-stream.ru/s/public/0000002837_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s1.moidom-stream.ru/s/public/0000002837.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/2837",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.775919,
+        "longitude": 34.365379,
+        "incident": false,
+        "angle": 205,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 2857,
+        "name": "Антикайнена ул. - М.Горького ул.",
+        "img": "https://s3.moidom-stream.ru/s/public/0000002857_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s3.moidom-stream.ru/s/public/0000002857.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/2857",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.785017,
+        "longitude": 34.357223,
+        "incident": false,
+        "angle": 119,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 2865,
+        "name": "Кирова ул. - Еремеева ул.",
+        "img": "https://s1.moidom-stream.ru/s/public/0000002865_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s1.moidom-stream.ru/s/public/0000002865.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/2865",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.792803,
+        "longitude": 34.368256,
+        "incident": false,
+        "angle": 7,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 2869,
+        "name": "Куйбышева ул. -  Титова ул.",
+        "img": "https://s3.moidom-stream.ru/s/public/0000002869_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s3.moidom-stream.ru/s/public/0000002869.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/2869",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.790389,
+        "longitude": 34.37753,
+        "incident": false,
+        "angle": 193,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 2871,
+        "name": "А. Невского пр. - Луначарского ул.",
+        "img": "https://s3.moidom-stream.ru/s/public/0000002871_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s3.moidom-stream.ru/s/public/0000002871.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/2871",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.783846,
+        "longitude": 34.392753,
+        "incident": false,
+        "angle": 295,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 2897,
+        "name": "Лесной пр. - Боровая ул",
+        "img": "https://s3.moidom-stream.ru/s/public/0000002897_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s3.moidom-stream.ru/s/public/0000002897.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/2897",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.797272,
+        "longitude": 34.302267,
+        "incident": false,
+        "angle": 307,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 2915,
+        "name": "Попова ул. (конечная)",
+        "img": "https://s1.moidom-stream.ru/s/public/0000002915_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s1.moidom-stream.ru/s/public/0000002915.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/2915",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.764912,
+        "longitude": 34.30352,
+        "incident": false,
+        "angle": 162,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 2971,
+        "name": "Правды ул. - Промышленная ул.",
+        "img": "https://s1.moidom-stream.ru/s/public/0000002971_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s1.moidom-stream.ru/s/public/0000002971.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/2971",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.776475,
+        "longitude": 34.390469,
+        "incident": false,
+        "angle": 45,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 3023,
+        "name": "Анохина ул. - М.Горького ул.",
+        "img": "https://s3.moidom-stream.ru/s/public/0000003023_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s3.moidom-stream.ru/s/public/0000003023.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/3023",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.783985,
+        "longitude": 34.353225,
+        "incident": false,
+        "angle": 128,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 3029,
+        "name": "Красноармейская ул. - М. Горького ул.",
+        "img": "https://s3.moidom-stream.ru/s/public/0000003029_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s3.moidom-stream.ru/s/public/0000003029.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/3029",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.782468,
+        "longitude": 34.350704,
+        "incident": false,
+        "angle": 256,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 3031,
+        "name": "Ровио ул. Пешеходный переход у \"Магнита\"",
+        "img": "https://s2.moidom-stream.ru/s/public/0000003031_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s2.moidom-stream.ru/s/public/0000003031.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/3031",
+        "audio": true,
+        "rotate": 7,
+        "latitude": 61.763944,
+        "longitude": 34.369862,
+        "incident": false,
+        "angle": 103,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 3141,
+        "name": "Пешеходный переход у Хлебокомбината",
+        "img": "https://s3.moidom-stream.ru/s/public/0000003141_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s3.moidom-stream.ru/s/public/0000003141.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/3141",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.777933,
+        "longitude": 34.408597,
+        "incident": false,
+        "angle": 92,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 3171,
+        "name": "Лесной пр. - Хейкконена ул.",
+        "img": "https://s3.moidom-stream.ru/s/public/0000003171_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s3.moidom-stream.ru/s/public/0000003171.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/3171",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.761951,
+        "longitude": 34.322384,
+        "incident": false,
+        "angle": 112,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 3173,
+        "name": "Первомайский пр. - Достоевского ул.",
+        "img": "https://s3.moidom-stream.ru/s/public/0000003173_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s3.moidom-stream.ru/s/public/0000003173.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/3173",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.8016,
+        "longitude": 34.30879,
+        "incident": false,
+        "angle": 259,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 3201,
+        "name": "Лесной пр. - Ругозерский пер.",
+        "img": "https://s3.moidom-stream.ru/s/public/0000003201_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s3.moidom-stream.ru/s/public/0000003201.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/3201",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.784109,
+        "longitude": 34.306879,
+        "incident": false,
+        "angle": 301,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 3267,
+        "name": "Комсомольский проспект",
+        "img": "https://s3.moidom-stream.ru/s/public/0000003267_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s3.moidom-stream.ru/s/public/0000003267.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/3267",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.761931,
+        "longitude": 34.359636,
+        "incident": false,
+        "angle": 303,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 3273,
+        "name": "Ровио ул. - Ген. Фролова ул.",
+        "img": "https://s1.moidom-stream.ru/s/public/0000003273_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s1.moidom-stream.ru/s/public/0000003273.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/3273",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.764729,
+        "longitude": 34.371912,
+        "incident": false,
+        "angle": 111,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 3275,
+        "name": "Лыжная ул. - Торнева ул.",
+        "img": "https://s3.moidom-stream.ru/s/public/0000003275_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s3.moidom-stream.ru/s/public/0000003275.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/3275",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.762013,
+        "longitude": 34.386052,
+        "incident": false,
+        "angle": 220,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 3285,
+        "name": "Ключевая ул. - Нойбранденбургская ул.",
+        "img": "https://s2.moidom-stream.ru/s/public/0000003285_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s2.moidom-stream.ru/s/public/0000003285.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/3285",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.759821,
+        "longitude": 34.441117,
+        "incident": false,
+        "angle": 27,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 3355,
+        "name": "Красноармейская ул., мост через Лососинку",
+        "img": "https://s3.moidom-stream.ru/s/public/0000003355_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s3.moidom-stream.ru/s/public/0000003355.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/3355",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.779308,
+        "longitude": 34.355054,
+        "incident": false,
+        "angle": 192,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 3359,
+        "name": "Чапаева ул. - Островского ул",
+        "img": "https://s2.moidom-stream.ru/s/public/0000003359_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s2.moidom-stream.ru/s/public/0000003359.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/3359",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.786382,
+        "longitude": 34.331776,
+        "incident": false,
+        "angle": 224,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 3361,
+        "name": "Чапаева ул. - Гражданская ул.",
+        "img": "https://s3.moidom-stream.ru/s/public/0000003361_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s3.moidom-stream.ru/s/public/0000003361.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/3361",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.786464,
+        "longitude": 34.331959,
+        "incident": false,
+        "angle": 118,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 3387,
+        "name": "Пешеходный переход у Кургана",
+        "img": "https://s3.moidom-stream.ru/s/public/0000003387_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s3.moidom-stream.ru/s/public/0000003387.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/3387",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.765397,
+        "longitude": 34.360808,
+        "incident": false,
+        "angle": 310,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 3417,
+        "name": "Кирова ул. - Малая Слободская ул.",
+        "img": "https://s3.moidom-stream.ru/s/public/0000003417_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s3.moidom-stream.ru/s/public/0000003417.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/3417",
+        "audio": false,
+        "rotate": 10,
+        "latitude": 61.794095,
+        "longitude": 34.366351,
+        "incident": false,
+        "angle": 10,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 3709,
+        "name": "Спортивная площадка ЖК Чистый город",
+        "img": "https://s2.moidom-stream.ru/s/public/0000003709_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s2.moidom-stream.ru/s/public/0000003709.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/3709",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.760356,
+        "longitude": 34.29153,
+        "incident": false,
+        "angle": 37,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 3711,
+        "name": "Сквер 70-летия Победы",
+        "img": "https://s3.moidom-stream.ru/s/public/0000003711_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s3.moidom-stream.ru/s/public/0000003711.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/3711",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.779556,
+        "longitude": 34.379353,
+        "incident": false,
+        "angle": 216,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 3773,
+        "name": "Аллея 300-летия Петрозаводска",
+        "img": "https://s2.moidom-stream.ru/s/public/0000003773_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s2.moidom-stream.ru/s/public/0000003773.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/3773",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.788299,
+        "longitude": 34.346167,
+        "incident": false,
+        "angle": 326,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 3775,
+        "name": "Мичуринская ул. -  Ватутина ул.",
+        "img": "https://s1.moidom-stream.ru/s/public/0000003775_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s1.moidom-stream.ru/s/public/0000003775.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/3775",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.780376,
+        "longitude": 34.332115,
+        "incident": false,
+        "angle": 219,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 3777,
+        "name": "Мичуринская ул. -  Черняховского ул.",
+        "img": "https://s2.moidom-stream.ru/s/public/0000003777_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s2.moidom-stream.ru/s/public/0000003777.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/3777",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.780361,
+        "longitude": 34.333059,
+        "incident": false,
+        "angle": 150,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 3781,
+        "name": "Мурманская ул. - Советская ул",
+        "img": "https://s2.moidom-stream.ru/s/public/0000003781_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s2.moidom-stream.ru/s/public/0000003781.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/3781",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.801033,
+        "longitude": 34.331049,
+        "incident": false,
+        "angle": 156,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 3805,
+        "name": "Калинина ул. - Загородная ул.",
+        "img": "https://s3.moidom-stream.ru/s/public/0000003805_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s3.moidom-stream.ru/s/public/0000003805.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/3805",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.774899,
+        "longitude": 34.382779,
+        "incident": false,
+        "angle": 189,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 3807,
+        "name": "Комсомольский пр. - Лизы Чайкиной ул.",
+        "img": "https://s1.moidom-stream.ru/s/public/0000003807_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s1.moidom-stream.ru/s/public/0000003807.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/3807",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.775424,
+        "longitude": 34.355801,
+        "incident": false,
+        "angle": 124,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 3831,
+        "name": "Анохина ул. - Красная ул.",
+        "img": "https://s1.moidom-stream.ru/s/public/0000003831_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s1.moidom-stream.ru/s/public/0000003831.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/3831",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.787323,
+        "longitude": 34.349255,
+        "incident": false,
+        "angle": 289,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 3847,
+        "name": " Пешеходный переход на ул. М. Мерецкова",
+        "img": "https://s1.moidom-stream.ru/s/public/0000003847_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s1.moidom-stream.ru/s/public/0000003847.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/3847",
+        "audio": true,
+        "rotate": 7,
+        "latitude": 61.778143,
+        "longitude": 34.366531,
+        "incident": false,
+        "angle": 111,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 3849,
+        "name": "Кирова ул. - Свердлова ул.",
+        "img": "https://s3.moidom-stream.ru/s/public/0000003849_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s3.moidom-stream.ru/s/public/0000003849.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/3849",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.790364,
+        "longitude": 34.372494,
+        "incident": false,
+        "angle": 300,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 3851,
+        "name": "Дзержинского ул. - Свердлова ул.",
+        "img": "https://s1.moidom-stream.ru/s/public/0000003851_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s1.moidom-stream.ru/s/public/0000003851.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/3851",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.789486,
+        "longitude": 34.369137,
+        "incident": false,
+        "angle": 291,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 4051,
+        "name": "Красная ул. - Андропова ул.",
+        "img": "https://s1.moidom-stream.ru/s/public/0000004051_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s1.moidom-stream.ru/s/public/0000004051.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/4051",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.791467,
+        "longitude": 34.362207,
+        "incident": false,
+        "angle": 35,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 4053,
+        "name": "Лесной пр. - Суоярвское шоссе",
+        "img": "https://s1.moidom-stream.ru/s/public/0000004053_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s1.moidom-stream.ru/s/public/0000004053.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/4053",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.79713,
+        "longitude": 34.302176,
+        "incident": false,
+        "angle": 215,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 4179,
+        "name": "Лесной пр. 31, пешеходный переход",
+        "img": "https://s3.moidom-stream.ru/s/public/0000004179_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s3.moidom-stream.ru/s/public/0000004179.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/4179",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.769284,
+        "longitude": 34.318198,
+        "incident": false,
+        "angle": 112,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 4239,
+        "name": "Пешеходный переход Черняховского, 51",
+        "img": "https://s1.moidom-stream.ru/s/public/0000004239_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s1.moidom-stream.ru/s/public/0000004239.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/4239",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.77711,
+        "longitude": 34.337117,
+        "incident": false,
+        "angle": 268,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 4283,
+        "name": "Ровио ул. - Сортавальская ул.",
+        "img": "https://s3.moidom-stream.ru/s/public/0000004283_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s3.moidom-stream.ru/s/public/0000004283.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/4283",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.763165,
+        "longitude": 34.366869,
+        "incident": false,
+        "angle": 197,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 4285,
+        "name": "Пешеходный переход у ТЦ \"Ритм\"",
+        "img": "https://s3.moidom-stream.ru/s/public/0000004285_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s3.moidom-stream.ru/s/public/0000004285.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/4285",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.763186,
+        "longitude": 34.367241,
+        "incident": false,
+        "angle": 112,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 4293,
+        "name": "Ватутина ул - 2-я Северная ул.",
+        "img": "https://s1.moidom-stream.ru/s/public/0000004293_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s1.moidom-stream.ru/s/public/0000004293.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/4293",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.782604,
+        "longitude": 34.33022,
+        "incident": false,
+        "angle": 188,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 4303,
+        "name": " Карельский пр. - Сортавальская ул.",
+        "img": "https://s3.moidom-stream.ru/s/public/0000004303_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s3.moidom-stream.ru/s/public/0000004303.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/4303",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.75773,
+        "longitude": 34.368084,
+        "incident": false,
+        "angle": 232,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 4345,
+        "name": "Зайцева ул. - Григорьева  ул.",
+        "img": "https://s3.moidom-stream.ru/s/public/0000004345_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s3.moidom-stream.ru/s/public/0000004345.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/4345",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.810311,
+        "longitude": 34.324914,
+        "incident": false,
+        "angle": 255,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 4393,
+        "name": "Лотос Plaza, Нижняя парковка",
+        "img": "https://s3.moidom-stream.ru/s/public/0000004393_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s3.moidom-stream.ru/s/public/0000004393.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/4393",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.774938,
+        "longitude": 34.308876,
+        "incident": false,
+        "angle": 123,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 4417,
+        "name": "Лососинское шоссе, ост. Хейкконена",
+        "img": "https://s3.moidom-stream.ru/s/public/0000004417_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s3.moidom-stream.ru/s/public/0000004417.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/4417",
+        "audio": false,
+        "rotate": 10,
+        "latitude": 61.763572,
+        "longitude": 34.307989,
+        "incident": false,
+        "angle": 203,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 4501,
+        "name": "Октябрьский пр. - Инженерная ул.",
+        "img": "https://s3.moidom-stream.ru/s/public/0000004501_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s3.moidom-stream.ru/s/public/0000004501.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/4501",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.808812,
+        "longitude": 34.318777,
+        "incident": false,
+        "angle": 160,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 4505,
+        "name": "Репникова ул. - Антонова ул.",
+        "img": "https://s3.moidom-stream.ru/s/public/0000004505_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s3.moidom-stream.ru/s/public/0000004505.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/4505",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.759824,
+        "longitude": 34.425761,
+        "incident": false,
+        "angle": 287,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 4513,
+        "name": "Мелентьевой ул. - Советская ул.",
+        "img": "https://s2.moidom-stream.ru/s/public/0000004513_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s2.moidom-stream.ru/s/public/0000004513.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/4513",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.804396,
+        "longitude": 34.31987,
+        "incident": false,
+        "angle": 99,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 4561,
+        "name": "Октябрьский пр. - Краснофлотская ул.",
+        "img": "https://s1.moidom-stream.ru/s/public/0000004561_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s1.moidom-stream.ru/s/public/0000004561.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/4561",
+        "audio": false,
+        "rotate": 10,
+        "latitude": 61.804912,
+        "longitude": 34.330307,
+        "incident": false,
+        "angle": 255,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 4635,
+        "name": "Лососинское ш. - Черняховского ул.",
+        "img": "https://s3.moidom-stream.ru/s/public/0000004635_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s3.moidom-stream.ru/s/public/0000004635.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/4635",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.776501,
+        "longitude": 34.337796,
+        "incident": false,
+        "angle": 173,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 4639,
+        "name": "Варкауса наб. - Мелентьевой ул.",
+        "img": "https://s1.moidom-stream.ru/s/public/0000004639_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s1.moidom-stream.ru/s/public/0000004639.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/4639",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.809959,
+        "longitude": 34.329324,
+        "incident": false,
+        "angle": 339,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 4667,
+        "name": "Пешеходный переход на набережной Варкауса",
+        "img": "https://s3.moidom-stream.ru/s/public/0000004667_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s3.moidom-stream.ru/s/public/0000004667.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/4667",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.809621,
+        "longitude": 34.330442,
+        "incident": false,
+        "angle": 105,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 4673,
+        "name": "Cпортивная площадка на ул. Чапаева",
+        "img": "https://s3.moidom-stream.ru/s/public/0000004673_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s3.moidom-stream.ru/s/public/0000004673.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/4673",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.781106,
+        "longitude": 34.312003,
+        "incident": false,
+        "angle": 79,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 4695,
+        "name": "Пешеходный переход на Скандинавском",
+        "img": "https://s3.moidom-stream.ru/s/public/0000004695_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s3.moidom-stream.ru/s/public/0000004695.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/4695",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.754937,
+        "longitude": 34.304125,
+        "incident": false,
+        "angle": 219,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 4767,
+        "name": "Парк Ивана Царевича",
+        "img": "https://s3.moidom-stream.ru/s/public/0000004767_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s3.moidom-stream.ru/s/public/0000004767.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/4767",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.758682,
+        "longitude": 34.288968,
+        "incident": false,
+        "angle": 255,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 4851,
+        "name": "Красная ул. - Герцена ул.",
+        "img": "https://s1.moidom-stream.ru/s/public/0000004851_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s1.moidom-stream.ru/s/public/0000004851.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/4851",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.789941,
+        "longitude": 34.356412,
+        "incident": false,
+        "angle": 200,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 4853,
+        "name": "Красная ул. - Энгельса ул.",
+        "img": "https://s3.moidom-stream.ru/s/public/0000004853_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s3.moidom-stream.ru/s/public/0000004853.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/4853",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.790148,
+        "longitude": 34.35712,
+        "incident": false,
+        "angle": 96,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 4887,
+        "name": "Лососинское ш. - Скандинавский пр-д.",
+        "img": "https://s2.moidom-stream.ru/s/public/0000004887_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s2.moidom-stream.ru/s/public/0000004887.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/4887",
+        "audio": false,
+        "rotate": 10,
+        "latitude": 61.763096,
+        "longitude": 34.305939,
+        "incident": false,
+        "angle": 220,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 5013,
+        "name": "Пешеходный переход Пограничная, 7",
+        "img": "https://s3.moidom-stream.ru/s/public/0000005013_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s3.moidom-stream.ru/s/public/0000005013.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/5013",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.800321,
+        "longitude": 34.292306,
+        "incident": false,
+        "angle": 353,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 5879,
+        "name": "Краснофлотская ул. - Кутузова ул.",
+        "img": "https://s2.moidom-stream.ru/s/public/0000005879_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s2.moidom-stream.ru/s/public/0000005879.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/5879",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.80148,
+        "longitude": 34.32435,
+        "incident": false,
+        "angle": 76,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 5943,
+        "name": "Московская ул. - Советская ул.",
+        "img": "https://s3.moidom-stream.ru/s/public/0000005943_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s3.moidom-stream.ru/s/public/0000005943.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/5943",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.797324,
+        "longitude": 34.340651,
+        "incident": false,
+        "angle": 344,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 5947,
+        "name": "Мурманская ул. - Зайцева ул.",
+        "img": "https://s3.moidom-stream.ru/s/public/0000005947_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s3.moidom-stream.ru/s/public/0000005947.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/5947",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.805475,
+        "longitude": 34.339382,
+        "incident": false,
+        "angle": 309,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 5991,
+        "name": "Попова ул. - Сыктывкарская ул.",
+        "img": "https://s2.moidom-stream.ru/s/public/0000005991_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s2.moidom-stream.ru/s/public/0000005991.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/5991",
+        "audio": true,
+        "rotate": 7,
+        "latitude": 61.7693,
+        "longitude": 34.298029,
+        "incident": false,
+        "angle": 313,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 6111,
+        "name": "Шотмана ул. - Сорокская ул.",
+        "img": "https://s3.moidom-stream.ru/s/public/0000006111_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s3.moidom-stream.ru/s/public/0000006111.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/6111",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.791961,
+        "longitude": 34.340254,
+        "incident": false,
+        "angle": 227,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 6113,
+        "name": "Пархоменко ул. - Сыктывкарская ул.",
+        "img": "https://s2.moidom-stream.ru/s/public/0000006113_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s2.moidom-stream.ru/s/public/0000006113.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/6113",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.779044,
+        "longitude": 34.323893,
+        "incident": false,
+        "angle": 145,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 6173,
+        "name": "Первомайский пр. - Железнодорожная ул.",
+        "img": "https://s3.moidom-stream.ru/s/public/0000006173_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s3.moidom-stream.ru/s/public/0000006173.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/6173",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.794327,
+        "longitude": 34.344772,
+        "incident": false,
+        "angle": 109,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 6207,
+        "name": "Правды ул. - Варламова ул.",
+        "img": "https://s3.moidom-stream.ru/s/public/0000006207_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s3.moidom-stream.ru/s/public/0000006207.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/6207",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.773567,
+        "longitude": 34.393306,
+        "incident": false,
+        "angle": 280,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 6359,
+        "name": "Березовая аллея, фонтан",
+        "img": "https://s3.moidom-stream.ru/s/public/0000006359_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s3.moidom-stream.ru/s/public/0000006359.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/6359",
+        "audio": false,
+        "rotate": 10,
+        "latitude": 61.768459,
+        "longitude": 34.31088,
+        "incident": false,
+        "angle": 0,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 6403,
+        "name": " Первомайский пр-т - Кондопожская ул.",
+        "img": "https://s1.moidom-stream.ru/s/public/0000006403_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s1.moidom-stream.ru/s/public/0000006403.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/6403",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.795573,
+        "longitude": 34.344144,
+        "incident": false,
+        "angle": 167,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 6563,
+        "name": "Пешеходный переход на Комсомольском проспекте",
+        "img": "https://s3.moidom-stream.ru/s/public/0000006563_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s3.moidom-stream.ru/s/public/0000006563.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/6563",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.758862,
+        "longitude": 34.358829,
+        "incident": false,
+        "angle": 331,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 6567,
+        "name": "Советская ул. - Краснофлотская ул.",
+        "img": "https://s3.moidom-stream.ru/s/public/0000006567_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s3.moidom-stream.ru/s/public/0000006567.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/6567",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.802255,
+        "longitude": 34.325368,
+        "incident": false,
+        "angle": 80,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 6579,
+        "name": "Сортавальская ул. - Питкярантская ул.",
+        "img": "https://s1.moidom-stream.ru/s/public/0000006579_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s1.moidom-stream.ru/s/public/0000006579.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/6579",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.760776,
+        "longitude": 34.36811,
+        "incident": false,
+        "angle": 310,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 6959,
+        "name": "Пешеходный переход на Лесном проспекте",
+        "img": "https://s3.moidom-stream.ru/s/public/0000006959_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s3.moidom-stream.ru/s/public/0000006959.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/6959",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.782685,
+        "longitude": 34.307142,
+        "incident": false,
+        "angle": 257,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 7005,
+        "name": "Балтийская ул. - Парфенова ул.",
+        "img": "https://s1.moidom-stream.ru/s/public/0000007005_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s1.moidom-stream.ru/s/public/0000007005.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/7005",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.768468,
+        "longitude": 34.379348,
+        "incident": false,
+        "angle": 334,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 7007,
+        "name": "Первомайский пр. - Разина ул.",
+        "img": "https://s1.moidom-stream.ru/s/public/0000007007_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s1.moidom-stream.ru/s/public/0000007007.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/7007",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.799078,
+        "longitude": 34.324938,
+        "incident": false,
+        "angle": 353,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 7073,
+        "name": "Свердлова ул. - Куйбышева ул.",
+        "img": "https://s3.moidom-stream.ru/s/public/0000007073_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s3.moidom-stream.ru/s/public/0000007073.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/7073",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.791578,
+        "longitude": 34.375674,
+        "incident": false,
+        "angle": 258,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 7145,
+        "name": "Пешеходный переход на ул. Гвардейская",
+        "img": "https://s2.moidom-stream.ru/s/public/0000007145_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s2.moidom-stream.ru/s/public/0000007145.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/7145",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.752891,
+        "longitude": 34.439652,
+        "incident": false,
+        "angle": 271,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 7149,
+        "name": "Шотмана ул. - Краснофлотская ул.",
+        "img": "https://s3.moidom-stream.ru/s/public/0000007149_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s3.moidom-stream.ru/s/public/0000007149.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/7149",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.798627,
+        "longitude": 34.320778,
+        "incident": false,
+        "angle": 174,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 7151,
+        "name": "Пешеходный переход на ул. Репникова",
+        "img": "https://s3.moidom-stream.ru/s/public/0000007151_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s3.moidom-stream.ru/s/public/0000007151.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/7151",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.762887,
+        "longitude": 34.419557,
+        "incident": false,
+        "angle": 165,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 7277,
+        "name": "Луначарского ул. - Промышленная ул.",
+        "img": "https://s2.moidom-stream.ru/s/public/0000007277_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s2.moidom-stream.ru/s/public/0000007277.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/7277",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.779349,
+        "longitude": 34.399596,
+        "incident": false,
+        "angle": 245,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 7281,
+        "name": "Пограничная ул. - Сулажгорские Высоты ул.",
+        "img": "https://s3.moidom-stream.ru/s/public/0000007281_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s3.moidom-stream.ru/s/public/0000007281.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/7281",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.810342,
+        "longitude": 34.266938,
+        "incident": false,
+        "angle": 155,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 7283,
+        "name": "Улица Труда",
+        "img": "https://s2.moidom-stream.ru/s/public/0000007283_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s2.moidom-stream.ru/s/public/0000007283.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/7283",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.84907,
+        "longitude": 34.34193,
+        "incident": false,
+        "angle": 184,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 7315,
+        "name": "Андропова ул. - Свердлова ул.",
+        "img": "https://s1.moidom-stream.ru/s/public/0000007315_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s1.moidom-stream.ru/s/public/0000007315.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/7315",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.789098,
+        "longitude": 34.366122,
+        "incident": false,
+        "angle": 161,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 7341,
+        "name": "Ригачина ул. - Радищева ул.",
+        "img": "https://s2.moidom-stream.ru/s/public/0000007341_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s2.moidom-stream.ru/s/public/0000007341.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/7341",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.77701,
+        "longitude": 34.410388,
+        "incident": false,
+        "angle": 90,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 7615,
+        "name": "Пушкинская ул. - Г.Титова ул.",
+        "img": "https://s2.moidom-stream.ru/s/public/0000007615_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s2.moidom-stream.ru/s/public/0000007615.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/7615",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.790944,
+        "longitude": 34.380221,
+        "incident": false,
+        "angle": 121,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 7831,
+        "name": "Луначарского ул. - Гюллинга наб.",
+        "img": "https://s2.moidom-stream.ru/s/public/0000007831_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s2.moidom-stream.ru/s/public/0000007831.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/7831",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.7852,
+        "longitude": 34.390909,
+        "incident": false,
+        "angle": 274,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 7905,
+        "name": "Кирова ул. - Г. Титова ул.",
+        "img": "https://s3.moidom-stream.ru/s/public/0000007905_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s3.moidom-stream.ru/s/public/0000007905.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/7905",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.789027,
+        "longitude": 34.374118,
+        "incident": false,
+        "angle": 188,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 7917,
+        "name": "Первомайский пр-кт - Грибоедова ул.",
+        "img": "https://s3.moidom-stream.ru/s/public/0000007917_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s3.moidom-stream.ru/s/public/0000007917.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/7917",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.797849,
+        "longitude": 34.333674,
+        "incident": false,
+        "angle": 153,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 7919,
+        "name": "Боровая ул. -Тупиковая ул.",
+        "img": "https://s2.moidom-stream.ru/s/public/0000007919_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s2.moidom-stream.ru/s/public/0000007919.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/7919",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.79718,
+        "longitude": 34.308261,
+        "incident": false,
+        "angle": 216,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 8047,
+        "name": "Судостроительная ул. - Кемская ул.",
+        "img": "https://s1.moidom-stream.ru/s/public/0000008047_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s1.moidom-stream.ru/s/public/0000008047.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/8047",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.755827,
+        "longitude": 34.452421,
+        "incident": false,
+        "angle": 1,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 8049,
+        "name": "Зеленая ул. - Ругозерский пер.",
+        "img": "https://s3.moidom-stream.ru/s/public/0000008049_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s3.moidom-stream.ru/s/public/0000008049.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/8049",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.784789,
+        "longitude": 34.310619,
+        "incident": false,
+        "angle": 143,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 8083,
+        "name": "Красноармейская ул. - Ла-Рошель наб.",
+        "img": "https://s1.moidom-stream.ru/s/public/0000008083_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s1.moidom-stream.ru/s/public/0000008083.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/8083",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.776151,
+        "longitude": 34.356871,
+        "incident": false,
+        "angle": 278,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 8085,
+        "name": "Невского пр. - Ригачина ул.",
+        "img": "https://s1.moidom-stream.ru/s/public/0000008085_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s1.moidom-stream.ru/s/public/0000008085.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/8085",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.784783,
+        "longitude": 34.395821,
+        "incident": false,
+        "angle": 20,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 8407,
+        "name": "Пешеходный переход на ул. Антонова",
+        "img": "https://s1.moidom-stream.ru/s/public/0000008407_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s1.moidom-stream.ru/s/public/0000008407.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/8407",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.760944,
+        "longitude": 34.426126,
+        "incident": false,
+        "angle": 98,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 8409,
+        "name": "Пешеходный переход на ул. Московская",
+        "img": "https://s1.moidom-stream.ru/s/public/0000008409_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s1.moidom-stream.ru/s/public/0000008409.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/8409",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.80168,
+        "longitude": 34.347153,
+        "incident": false,
+        "angle": 323,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 8621,
+        "name": "Пешеходный переход на ул. Анохина",
+        "img": "https://s1.moidom-stream.ru/s/public/0000008621_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s1.moidom-stream.ru/s/public/0000008621.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/8621",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.787934,
+        "longitude": 34.347424,
+        "incident": false,
+        "angle": 23,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 8631,
+        "name": "Пешеходный переход на ул. Антонова, 10",
+        "img": "https://s3.moidom-stream.ru/s/public/0000008631_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s3.moidom-stream.ru/s/public/0000008631.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/8631",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.761846,
+        "longitude": 34.428127,
+        "incident": false,
+        "angle": 118,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 8847,
+        "name": "Кирова ул. - Вольная ул.",
+        "img": "https://s3.moidom-stream.ru/s/public/0000008847_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s3.moidom-stream.ru/s/public/0000008847.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/8847",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.795668,
+        "longitude": 34.364879,
+        "incident": false,
+        "angle": 204,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 8853,
+        "name": "Подземный переход на ул. Фурманова, камера 1",
+        "img": "https://s1.moidom-stream.ru/s/public/0000008853_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s1.moidom-stream.ru/s/public/0000008853.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/8853",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.781507,
+        "longitude": 34.344916,
+        "incident": false,
+        "angle": 180,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 8855,
+        "name": "Подземный переход на ул. Фурманова, камера 2",
+        "img": "https://s1.moidom-stream.ru/s/public/0000008855_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s1.moidom-stream.ru/s/public/0000008855.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/8855",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.781285,
+        "longitude": 34.345383,
+        "incident": false,
+        "angle": 276,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 8857,
+        "name": "Подземный переход на ул. Фурманова, камера 3",
+        "img": "https://s1.moidom-stream.ru/s/public/0000008857_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s1.moidom-stream.ru/s/public/0000008857.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/8857",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.781267,
+        "longitude": 34.345484,
+        "incident": false,
+        "angle": 92,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 8859,
+        "name": "Подземный переход на ул. Фурманова, камера 4",
+        "img": "https://s1.moidom-stream.ru/s/public/0000008859_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s1.moidom-stream.ru/s/public/0000008859.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/8859",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.78127,
+        "longitude": 34.345896,
+        "incident": false,
+        "angle": 84,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 9097,
+        "name": "Скандинавский пр-д. - Шведская ал.",
+        "img": "https://s2.moidom-stream.ru/s/public/0000009097_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s2.moidom-stream.ru/s/public/0000009097.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/9097",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.7561,
+        "longitude": 34.30254,
+        "incident": false,
+        "angle": 72,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 9169,
+        "name": "Спортивная площадка в Соломенном",
+        "img": "https://s2.moidom-stream.ru/s/public/0000009169_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s2.moidom-stream.ru/s/public/0000009169.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/9169",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.847884,
+        "longitude": 34.342831,
+        "incident": false,
+        "angle": 157,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 9341,
+        "name": " Пешеходный переход на пр. А. Невского",
+        "img": "https://s2.moidom-stream.ru/s/public/0000009341_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s2.moidom-stream.ru/s/public/0000009341.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/9341",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.7739,
+        "longitude": 34.359018,
+        "incident": false,
+        "angle": 150,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 9343,
+        "name": "Чернышевского ул. - Ригачина ул.",
+        "img": "https://s2.moidom-stream.ru/s/public/0000009343_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s2.moidom-stream.ru/s/public/0000009343.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/9343",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.778456,
+        "longitude": 34.407359,
+        "incident": false,
+        "angle": 0,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 9787,
+        "name": "Лицей N1",
+        "img": "https://s2.moidom-stream.ru/s/public/0000009787_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s2.moidom-stream.ru/s/public/0000009787.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/9787",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.771135,
+        "longitude": 34.3077,
+        "incident": false,
+        "angle": 150,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 10085,
+        "name": "Пешеходный переход на ул. Судостроительной",
+        "img": "https://s2.moidom-stream.ru/s/public/0000010085_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s2.moidom-stream.ru/s/public/0000010085.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/10085",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.761535,
+        "longitude": 34.445293,
+        "incident": false,
+        "angle": 40,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 10199,
+        "name": "Спортивная площадка на Скандинавском",
+        "img": "https://s3.moidom-stream.ru/s/public/0000010199_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s3.moidom-stream.ru/s/public/0000010199.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/10199",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.7557,
+        "longitude": 34.30388,
+        "incident": false,
+        "angle": 350,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 10453,
+        "name": "Пешеходный переход на б-р. Интернационалистов",
+        "img": "https://s2.moidom-stream.ru/s/public/0000010453_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s2.moidom-stream.ru/s/public/0000010453.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/10453",
+        "audio": false,
+        "rotate": 10,
+        "latitude": 61.7603,
+        "longitude": 34.316687,
+        "incident": false,
+        "angle": 192,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 10455,
+        "name": "Пешеходный переход у школы N 46",
+        "img": "https://s2.moidom-stream.ru/s/public/0000010455_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s2.moidom-stream.ru/s/public/0000010455.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/10455",
+        "audio": false,
+        "rotate": 10,
+        "latitude": 61.76025,
+        "longitude": 34.317451,
+        "incident": false,
+        "angle": 178,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 10489,
+        "name": "Пешеходный переход на ул. Зайцева",
+        "img": "https://s2.moidom-stream.ru/s/public/0000010489_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s2.moidom-stream.ru/s/public/0000010489.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/10489",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.808181,
+        "longitude": 34.330682,
+        "incident": false,
+        "angle": 210,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 10491,
+        "name": "Парковка на просп. Ленина",
+        "img": "https://s2.moidom-stream.ru/s/public/0000010491_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s2.moidom-stream.ru/s/public/0000010491.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/10491",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.789922,
+        "longitude": 34.361566,
+        "incident": false,
+        "angle": 121,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 10493,
+        "name": "Парковка у ЖД вокзала",
+        "img": "https://s2.moidom-stream.ru/s/public/0000010493_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s2.moidom-stream.ru/s/public/0000010493.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/10493",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.785084,
+        "longitude": 34.344481,
+        "incident": false,
+        "angle": 121,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 10495,
+        "name": "Парковка на ул. Анохина",
+        "img": "https://s2.moidom-stream.ru/s/public/0000010495_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s2.moidom-stream.ru/s/public/0000010495.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/10495",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.787109,
+        "longitude": 34.34935,
+        "incident": false,
+        "angle": 176,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 88265,
+        "name": "Промышленная ул. - Коммунистов ул.",
+        "img": "https://s2.moidom-stream.ru/s/public/0000088265_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s2.moidom-stream.ru/s/public/0000088265.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/88265",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.77846264526896,
+        "longitude": 34.39503077971493,
+        "incident": false,
+        "angle": 111,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 88357,
+        "name": "Остановка на пр. Ленина",
+        "img": "https://s2.moidom-stream.ru/s/public/0000088357_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s2.moidom-stream.ru/s/public/0000088357.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/88357",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.788207,
+        "longitude": 34.357802,
+        "incident": false,
+        "angle": 296,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 88377,
+        "name": "Пешеходный переход на пр. Ленина, 26",
+        "img": "https://s2.moidom-stream.ru/s/public/0000088377_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s2.moidom-stream.ru/s/public/0000088377.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/88377",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.78754553689733,
+        "longitude": 34.35348005421441,
+        "incident": false,
+        "angle": 71,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 88387,
+        "name": "Спортивный зал каратэ на ул. Кирова",
+        "img": "https://s2.moidom-stream.ru/s/public/0000088387_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s2.moidom-stream.ru/s/public/0000088387.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/88387",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.7881772603782,
+        "longitude": 34.37536826686475,
+        "incident": false,
+        "angle": 0,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 88549,
+        "name": "Реконструкция молодежного клуба \"Алые паруса\"",
+        "img": "https://s2.moidom-stream.ru/s/public/0000088549_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s2.moidom-stream.ru/s/public/0000088549.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/88549",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.79712136936722,
+        "longitude": 34.30230293254084,
+        "incident": false,
+        "angle": 180,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 88733,
+        "name": "Пешеходный переход на б-р. Интернационалистов, камера 2",
+        "img": "https://s2.moidom-stream.ru/s/public/0000088733_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s2.moidom-stream.ru/s/public/0000088733.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/88733",
+        "audio": false,
+        "rotate": 10,
+        "latitude": 61.760205,
+        "longitude": 34.3167063,
+        "incident": false,
+        "angle": 185,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 88735,
+        "name": "Пешеходный переход у ТРЦ \"Тетрис\"",
+        "img": "https://s2.moidom-stream.ru/s/public/0000088735_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s2.moidom-stream.ru/s/public/0000088735.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/88735",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.7762579,
+        "longitude": 34.3689191,
+        "incident": false,
+        "angle": 353,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 88773,
+        "name": "Пешеходный переход у финно-угорской школы",
+        "img": "https://s3.moidom-stream.ru/s/public/0000088773_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s3.moidom-stream.ru/s/public/0000088773.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/88773",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.785844,
+        "longitude": 34.361318,
+        "incident": false,
+        "angle": 345,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 89451,
+        "name": "Петрова ул. - Кемская ул.",
+        "img": "https://s2.moidom-stream.ru/s/public/0000089451_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s2.moidom-stream.ru/s/public/0000089451.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/89451",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.7539255,
+        "longitude": 34.446627,
+        "incident": false,
+        "angle": 166,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 89845,
+        "name": "Пешеходный переход на ул. Чкалова",
+        "img": "https://s2.moidom-stream.ru/s/public/0000089845_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s2.moidom-stream.ru/s/public/0000089845.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/89845",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.7808635,
+        "longitude": 34.3252295,
+        "incident": false,
+        "angle": 110,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 90135,
+        "name": "ЖК Речка Стройплощадка Камера 4",
+        "img": "https://s3.moidom-stream.ru/s/public/0000090135_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s3.moidom-stream.ru/s/public/0000090135.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/90135",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.785383,
+        "longitude": 34.370495,
+        "incident": false,
+        "angle": null,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 90353,
+        "name": "Финский пр. - Маршала Толбухина ул.",
+        "img": "https://s2.moidom-stream.ru/s/public/0000090353_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s2.moidom-stream.ru/s/public/0000090353.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/90353",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.749982,
+        "longitude": 34.3103295,
+        "incident": false,
+        "angle": 233,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 90439,
+        "name": "Зал бокса на Кирова",
+        "img": "https://s2.moidom-stream.ru/s/public/0000090439_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s2.moidom-stream.ru/s/public/0000090439.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/90439",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.7881645,
+        "longitude": 34.3754085,
+        "incident": false,
+        "angle": null,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 90627,
+        "name": "Площадь Ленинградское кольцо",
+        "img": "https://s2.moidom-stream.ru/s/public/0000090627_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s2.moidom-stream.ru/s/public/0000090627.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/90627",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.7997825,
+        "longitude": 34.358384,
+        "incident": false,
+        "angle": 78,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 91447,
+        "name": "Сквер \"Берёзка\"",
+        "img": "https://s2.moidom-stream.ru/s/public/0000091447_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s2.moidom-stream.ru/s/public/0000091447.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/91447",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.7700625,
+        "longitude": 34.308664,
+        "incident": false,
+        "angle": null,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 91944,
+        "name": "Пешеходный переход на Водолазном переулке",
+        "img": "https://s3.moidom-stream.ru/s/public/0000091944_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s3.moidom-stream.ru/s/public/0000091944.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/91944",
+        "audio": false,
+        "rotate": 10,
+        "latitude": 61.765935,
+        "longitude": 34.3021975,
+        "incident": false,
+        "angle": 193,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 92494,
+        "name": "Пешеходный переход у школы N 55",
+        "img": "https://s3.moidom-stream.ru/s/public/0000092494_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s3.moidom-stream.ru/s/public/0000092494.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/92494",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.753934,
+        "longitude": 34.3041725,
+        "incident": false,
+        "angle": 219,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 92581,
+        "name": "Древлянка 4-4, камера 1",
+        "img": "https://s3.moidom-stream.ru/s/public/0000092581_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s3.moidom-stream.ru/s/public/0000092581.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/92581",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.7710875,
+        "longitude": 34.310795,
+        "incident": false,
+        "angle": 288,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 92582,
+        "name": "Древлянка 4-4, камера 2",
+        "img": "https://s3.moidom-stream.ru/s/public/0000092582_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s3.moidom-stream.ru/s/public/0000092582.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/92582",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.7711775,
+        "longitude": 34.311135,
+        "incident": false,
+        "angle": 227,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 92611,
+        "name": "Талоярви 1",
+        "img": "https://s3.moidom-stream.ru/s/public/0000092611_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s3.moidom-stream.ru/s/public/0000092611.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/92611",
+        "audio": false,
+        "rotate": 14,
+        "latitude": 61.816375,
+        "longitude": 34.314476,
+        "incident": false,
+        "angle": null,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 92612,
+        "name": "Талоярви 2",
+        "img": "https://s3.moidom-stream.ru/s/public/0000092612_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s3.moidom-stream.ru/s/public/0000092612.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/92612",
+        "audio": false,
+        "rotate": 14,
+        "latitude": 61.816375,
+        "longitude": 34.314476,
+        "incident": false,
+        "angle": null,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 92627,
+        "name": "Дорога Резервный камера 1",
+        "img": "https://s3.moidom-stream.ru/s/public/0000092627_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s3.moidom-stream.ru/s/public/0000092627.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/92627",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.76821,
+        "longitude": 34.274205999999,
+        "incident": false,
+        "angle": 39,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 92628,
+        "name": "Дорога Резервный камера 2",
+        "img": "https://s3.moidom-stream.ru/s/public/0000092628_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s3.moidom-stream.ru/s/public/0000092628.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/92628",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.76813,
+        "longitude": 34.273865999999,
+        "incident": false,
+        "angle": 253,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 92629,
+        "name": "Спортивная площадка на ул. Крылова",
+        "img": "https://s3.moidom-stream.ru/s/public/0000092629_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s3.moidom-stream.ru/s/public/0000092629.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/92629",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.785817,
+        "longitude": 34.3104155,
+        "incident": false,
+        "angle": 85,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 92660,
+        "name": "Стройка, ЖК Аристократ кам. 1 ",
+        "img": "https://s3.moidom-stream.ru/s/public/0000092660_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s3.moidom-stream.ru/s/public/0000092660.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/92660",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.7900105,
+        "longitude": 34.356715,
+        "incident": false,
+        "angle": null,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 93010,
+        "name": "Казарменская стройка",
+        "img": "https://s3.moidom-stream.ru/s/public/0000093010_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s3.moidom-stream.ru/s/public/0000093010.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/93010",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.782618,
+        "longitude": 34.374223,
+        "incident": false,
+        "angle": null,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 93049,
+        "name": "Стройка, ЖК Аристократ кам. 2",
+        "img": "https://s3.moidom-stream.ru/s/public/0000093049_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s3.moidom-stream.ru/s/public/0000093049.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/93049",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.7881855,
+        "longitude": 34.3559155,
+        "incident": false,
+        "angle": null,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 93122,
+        "name": "ЖК Флотилия",
+        "img": "https://s3.moidom-stream.ru/s/public/0000093122_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s3.moidom-stream.ru/s/public/0000093122.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/93122",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.768782,
+        "longitude": 34.4326405,
+        "incident": false,
+        "angle": null,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 93123,
+        "name": "ЖК Флотилия",
+        "img": "https://s3.moidom-stream.ru/s/public/0000093123_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s3.moidom-stream.ru/s/public/0000093123.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/93123",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.768782,
+        "longitude": 34.4326405,
+        "incident": false,
+        "angle": null,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 93186,
+        "name": "Каскад Ракурс 12 дом",
+        "img": "https://s3.moidom-stream.ru/s/public/0000093186_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s3.moidom-stream.ru/s/public/0000093186.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/93186",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.766611,
+        "longitude": 34.2955035,
+        "incident": false,
+        "angle": null,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 93188,
+        "name": "Каскад, ракурс на 12 дом",
+        "img": "https://s3.moidom-stream.ru/s/public/0000093188_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s3.moidom-stream.ru/s/public/0000093188.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/93188",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.766058,
+        "longitude": 34.2913265,
+        "incident": false,
+        "angle": null,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 93442,
+        "name": "ООО \"Северная Усадьба\"",
+        "img": "https://s3.moidom-stream.ru/s/public/0000093442_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s3.moidom-stream.ru/s/public/0000093442.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/93442",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.809265,
+        "longitude": 34.3185815,
+        "incident": false,
+        "angle": null,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 93818,
+        "name": "Оборонная ул. - Новоселов ул.",
+        "img": "https://s2.moidom-stream.ru/s/public/0000093818_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s2.moidom-stream.ru/s/public/0000093818.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/93818",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.7538405,
+        "longitude": 34.3058075,
+        "incident": false,
+        "angle": 128,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    },
+    {
+        "id": 94125,
+        "name": "Монумент Паровая машина",
+        "img": "https://s3.moidom-stream.ru/s/public/0000094125_360.jpg?version=f8582f3b1969a4eefbd166f57d25230f",
+        "src": "https://s3.moidom-stream.ru/s/public/0000094125.m3u8",
+        "download": "",
+        "nopreroll": "",
+        "shared_link": "https://moidom.citylink.pro/pub/94125",
+        "audio": false,
+        "rotate": 7,
+        "latitude": 61.7842525,
+        "longitude": 34.375118499999,
+        "incident": false,
+        "angle": 348,
+        "city": {
+            "id": 1,
+            "key": "ptz",
+            "name": "Петрозаводск"
+        }
+    }
+]

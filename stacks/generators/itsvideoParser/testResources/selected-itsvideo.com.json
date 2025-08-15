@@ -1,0 +1,9 @@
+{
+    "notes": "Options are on, off, or decoy"
+  , "selections": {
+      "cam20": "on"
+    , "cam69": "on"
+    , "cam110": "off"
+    , "cam280": "decoy"
+    }
+}

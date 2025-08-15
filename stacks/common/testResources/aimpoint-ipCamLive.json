@@ -1,0 +1,39 @@
+{
+    "deviceID": "ocean-city-mackys"
+  , "enabled": true
+  , "collRegions": ["us-east-1"]
+  , "collectionType": "IPLIVE"
+  , "accessUrl": "https://g1.ipcamlive.com/player/player.php?alias=mackys"
+  , "pollFrequency": 10
+  , "concatenate": false
+  , "convertToMP4": false
+  , "longLat": [0, 0]
+  , "filenameBase": "ipcamlive_{deviceID}"
+  , "finalFileSuffix": "_{epoch}"
+  , "bucketPrefixTemplate": "taffy-aTest/{deviceID}/{year}{month}{day}"
+  , "headers": {
+      "User-Agent": "User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:91.0) Gecko/20100101 Firefox/91.0"
+    , "Accept": "*/*"
+    , "Origin": ""
+    , "Sec-Fetch-Site": "none"
+    , "Sec-Fetch-Mode": "navigate"
+    , "Connection": "keep-alive"
+    , "Accept-Language": "en-US,en;q=0.9"
+    , "sec-ch-ua": "\"Chromium\";v=\"88\", \"Google Chrome\";v=\"88\", \";Not A Brand\";v=\"99\""
+    , "sec-ch-ua-mobile": "?0"
+    , "Sec-Fetch-Dest": "document"
+    , "Referer": "https://oceancitylive.com/ocean-city-webcams/mackys-bayside"
+    , "Accept-Encoding": "gzip, deflate, br"
+    , "DNT": "1"
+    , "Pragma": "no-cache"
+    , "Cache-Control": "no-cache"
+    }
+  , "devNotes": {
+      "givenUrl": "https://oceancitylive.com/ocean-city-webcams/mackys-bayside"
+    , "startedOn": ""
+    , "country": ""
+    , "region": ""
+    , "setBy": ""
+    , "notes": "from analysis on the browser's dev console; followed HAR file flow to find that the accessUrl we're using gives us a nice little HTML document with the necessary tokens to create the playlist URL"
+    }
+}

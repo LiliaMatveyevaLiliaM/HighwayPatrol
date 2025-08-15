@@ -1,0 +1,863 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta name="yandex-verification" content="1c0952596853b124" />
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" type="image/x-icon" href="/local/templates/ru_gtk/favicon.ico">
+    <title>Веб-камеры</title>
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="таможня рб, гтк рб, растаможка авто в беларуси, таможенный калькулятор республики беларусь, калькулятор растаможки беларусь, растаможка в беларуси, Минская центральная таможня, Минская региональная таможня, Оперативная таможня, Витебская таможня, Могилевская таможня, Гомельская таможня, Гродненская таможня, Брестская таможня, таможня руководство" />
+<meta name="description" content="Официальный сайт таможенных органов Республики Беларусь. Здесь вы найдёте всю интересующую вас информацию на таможенную тематику в нашей стране." />
+<link href="/bitrix/cache/css/s1/ru_gtk/page_4f2563f77b860d4ca57aa5e88317d392/page_4f2563f77b860d4ca57aa5e88317d392_v1.css?16929793257666" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/cache/css/s1/ru_gtk/template_3ed9344a5eafd622789e9dafce011b4e/template_3ed9344a5eafd622789e9dafce011b4e_v1.css?1692979309156598" type="text/css"  data-template-style="true" rel="stylesheet" />
+<meta http-equiv="Cache-Control" content="no-cache"/>
+
+
+
+<script type="text/javascript"  src="/bitrix/cache/js/s1/ru_gtk/template_41a0a5ffb5af6cec576aa203f6740473/template_41a0a5ffb5af6cec576aa203f6740473_v1.js?1692979309207789"></script>
+<script type="text/javascript">var _ba = _ba || []; _ba.push(["aid", "1381d389801be8957c58abd140760f07"]); _ba.push(["host", "www.customs.gov.by"]); (function() {var ba = document.createElement("script"); ba.type = "text/javascript"; ba.async = true;ba.src = (document.location.protocol == "https:" ? "https://" : "http://") + "bitrix.info/ba.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ba, s);})();</script>
+
+
+	
+</head>
+<body>
+<!-- <div class="marquee">
+      		<span><a href="/xiii-mezhdunarodnaya-nauchno-prakticheskaya-konferentsiya-ustoychivost-tsepi-postavok-innovatsii-v-l/">15 сентября 2022 года в г. Минске состоятся Xlll международная научно-практическая конференция "Устойчивость цепи поставок: инновации в логистике и таможне" и выставка инновационных технологий в сфере таможенного дела</a></span>
+      </div> -->
+<!--<div class="marquee" style="padding: 8px 0; font-weight: bold; color: black; font-size: 16px;">
+	<span><a style="color:#000" href="/uploads/06-07-23-18.png" target="_blank">19 сентября 2023 года состоится XIV Международная научно-практическая конференция «Перспективы евразийской экономической интеграции в условиях новых вызовов и угроз: таможенное измерение»</a></span>
+ </div>--><div id="panel"></div>
+<!-------navbar-------->
+<nav class="navbar" id="navbar">
+    <div class="wrapper">
+   
+    <!-----burger line------>
+    <div class="navbar-burger burger">
+        <span class="burger-icon"><img src="/local/templates/ru_gtk/img/icons/burger_icon.svg" alt="burger"></span>
+    </div>
+
+    <!----contacts show----->
+    <div class="contacts-show">Контакты<img src="/local/templates/ru_gtk/img/icons/icon_arrow_header.svg" alt="arrow"></div>
+
+    <!----contacts navbar----->
+    <div class="contacts-navbar">
+        <span class="mail">
+            <img src="/local/templates/ru_gtk/img/icons/icon_mail.svg" alt="icon-mail" title="Электронный адрес">
+			<a href="mailto:gtk@customs.gov.by" title="Электронный адрес" target="_blank">gtk@customs.gov.by</a>                 
+        </span>
+        <span class="phone">
+            <img src="/local/templates/ru_gtk/img/icons/icon_phone.svg" alt="icon-phone" title="Позвонить">
+			<a href="tel:+375172189000" title="Позвонить">+375 (17) 218&#8208;90&#8208;00</a>        </span>
+        <span class="address">
+            <img src="/local/templates/ru_gtk/img/icons/icon_address.svg" alt="icon-address" title="Посмотреть на карте">
+			<a href="https://goo.gl/maps/BovM5MtafDLEuSDn7" title="Посмотреть на карте" target="_blank">г. Минск, ул. Могилевская, 45/1</a>        </span>
+    </div>
+    <!----lang-navbar---->
+    <div class="lang-navbar">
+		<a class="specialButton" href="#" class="grey">
+    <img src="/local/templates/ru_gtk/img/icons/icon_eye.svg" alt="eye" title="Версия для слабовидящих">
+</a>
+    </div>
+
+
+
+        <div class="navbar-menu one">
+		
+                       
+
+<div class="navbar-menu__item">
+	<div class="navbar-menu__title">Таможенные органы <img src="/local/templates/ru_gtk/img/icons/icon_arrow_header.svg" alt="arrow"></div>
+	<div class="menu menu-organy">
+		<div class="wrapper">
+			<ul class="menu-organy__nav">
+								<li class="menu-organy__item">
+						<a href="/tamozhennye-organy/rukovodstvo/">Руководство</a>
+					</li>
+									<li class="menu-organy__item">
+						<a href="/tamozhennye-organy/struktura/">Структура</a>
+					</li>
+									<li class="menu-organy__item">
+						<a href="/tamozhennye-organy/zadachi-i-funktsii/">Задачи и функции</a>
+					</li>
+									<li class="menu-organy__item">
+						<a href="/tamozhennye-organy/tamozhennaya-geraldika/">Таможенная геральдика</a>
+					</li>
+									<li class="menu-organy__item">
+						<a href="/tamozhennye-organy/sotrudnichestvo/">Сотрудничество</a>
+					</li>
+									<li class="menu-organy__item">
+						<a href="javascript:open('https://www.inst.customs.gov.by')">Институт таможенных органов</a>
+					</li>
+							</ul>
+			<img class="img-organy" src="/local/templates/ru_gtk/img/icons/organy_header.jpg" alt="Таможенные органы">
+			<p class="menu-content">
+				<span style="color: #000000;">Беларусь по показателю «Международная торговля» в рейтинге Всемирного банка «Ведение бизнеса» заняла 24-ю позицию среди 190 стран мира, опередив страны - участницы Евразийского экономического союза</span>			</p>
+			<div class="menu-close">
+				<span class="menu-close-line"></span>
+				<span class="menu-close-line"></span>
+			</div>
+		</div>
+	</div>
+</div>   
+
+<div class="navbar-menu__item">
+	<div class="navbar-menu__title">Законодательство <img src="/local/templates/ru_gtk/img/icons/icon_arrow_header.svg" alt="arrow"></div>
+	<div class="menu menu-organy">
+		<div class="wrapper">
+			<ul class="menu-organy__nav">
+								<li class="menu-organy__item">
+						<a href="/zakonodatelstvo/akti/">Акты законодательства Республики Беларусь, в том числе нормативные правовые акты ГТК</a>
+					</li>
+									<li class="menu-organy__item">
+						<a href="http://www.eurasiancommission.org/ru/act/trade/catr/ett/Pages/default.aspx">ТН ВЭД</a>
+					</li>
+									<li class="menu-organy__item">
+						<a href="http://www.eurasiancommission.org/ru/act/tam_sotr/dep_tamoj_zak/Pages/tk_eaes.aspx">Договор о Таможенном кодексе Евразийского экономического союза (ТК ЕАЭС)</a>
+					</li>
+									<li class="menu-organy__item">
+						<a href="https://docs.eaeunion.org/ru-ru/">Нормативная правовая база Евразийской экономической комиссии (ЕЭК)</a>
+					</li>
+									<li class="menu-organy__item">
+						<a href="/zakonodatelstvo/obraztsy-dokumentov/">Образцы документов</a>
+					</li>
+							</ul>
+			<img class="img-organy" src="/local/templates/ru_gtk/img/icons/zacon_header.jpg" alt="Законодательство">
+			<p class="menu-content">
+				<span style="color: #000000;">Республика Беларусь активно реализует таможенную политику, направленную на тесное сотрудничество в таможенной сфере, способствуя тем самым укреплению экономического пространства, обеспечению свободного движения товаров, проведению согласованной политики в таможенных связях и унификации таможенного законодательства и таможенных процедур.</span>			</p>
+			<div class="menu-close">
+				<span class="menu-close-line"></span>
+				<span class="menu-close-line"></span>
+			</div>
+		</div>
+	</div>
+</div>   
+
+<div class="navbar-menu__item">
+	<div class="navbar-menu__title">Правоохранительная деятельность <img src="/local/templates/ru_gtk/img/icons/icon_arrow_header.svg" alt="arrow"></div>
+	<div class="menu menu-organy">
+		<div class="wrapper">
+			<ul class="menu-organy__nav">
+								<li class="menu-organy__item">
+						<a href="/pravookhranitelnaya-deyatelnost/pravookhranitelnaya-deyatelnost-za-2021-god/">Правоохранительная деятельность за I полугодие 2023 года</a>
+					</li>
+									<li class="menu-organy__item">
+						<a href="/pravookhranitelnaya-deyatelnost/voprosy-otvetstvennosti-za-narushenie-tamozhennogo-zakonodatelstva/">Вопросы ответственности за нарушение таможенного законодательства</a>
+					</li>
+									<li class="menu-organy__item">
+						<a href="/pravookhranitelnaya-deyatelnost/deyatelnost-tamozhennykh-organov-po-profilaktike-pravonarusheniy/">Деятельность таможенных органов по профилактике правонарушений</a>
+					</li>
+									<li class="menu-organy__item">
+						<a href="/pravookhranitelnaya-deyatelnost/informatsiya-o-deyatelnosti-podrazdeleniy-kinologicheskoy-sluzhby/">Кинологическая служба</a>
+					</li>
+							</ul>
+			<img class="img-organy" src="/local/templates/ru_gtk/img/icons/pravo_header.jpg" alt="Правоохранительная деятельность">
+			<p class="menu-content">
+				<span style="color: #000000;">Таможенными органами реализуется комплекс мероприятий, направленных на предотвращение незаконного перемещения через таможенную границу Евразийского экономического союза культурных ценностей, наркотических и психотропных веществ, оружия и других товаров.</span>			</p>
+			<div class="menu-close">
+				<span class="menu-close-line"></span>
+				<span class="menu-close-line"></span>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="navbar-menu__item">
+	<div class="navbar-menu__title">
+ <a href="/fizicheskim-litsam/">Физическим лицам</a>
+	</div>
+</div>
+<div class="navbar-menu__item">
+	<div class="navbar-menu__title">
+ <a href="/participants-ved/">Участникам ВЭД</a>
+	</div>
+</div>
+<div class="navbar-menu__item">
+	<div class="navbar-menu__title">
+ <a href="/odno-okno/">Одно окно</a>
+	</div>
+</div>
+ <!-----close line------>
+<div class="navbar-nav-close">
+ <span class="navbar-nav-close-line"></span> <span class="navbar-nav-close-line"></span>
+</div>   
+        </div>
+    </div>
+</nav>
+
+
+<!---------header------------>
+<header class="header">
+    <div class="wrapper">
+        <div class="header__logo">
+            <a href="/" title="Главная страница">
+                <img src="/local/templates/ru_gtk/img/logo/logo.png" alt="logo">
+            </a>
+        </div>
+        <div class="header__title">
+            <div class="title">
+				<h1>Таможенные органы Республики Беларусь</h1>            </div>
+            <div class="contacts">
+                <span class="mail">
+                    <img src="/local/templates/ru_gtk/img/icons/icon_mail.svg" alt="icon-mail" title="Электронный адрес">
+                    <a href="mailto:gtk@customs.gov.by" title="Электронный адрес" target="_blank">gtk@customs.gov.by</a>                    
+                </span>
+                <span class="phone">
+                    <img src="/local/templates/ru_gtk/img/icons/icon_phone.svg" alt="icon-phone" title="Позвонить">
+                    <a href="tel:+375172189000" title="Позвонить">+375 (17) 218&#8208;90&#8208;00</a>                </span>
+                <span class="address">
+                    <img src="/local/templates/ru_gtk/img/icons/icon_address.svg" alt="icon-address" title="Посмотреть на карте">
+                    <a href="https://goo.gl/maps/BovM5MtafDLEuSDn7" title="Посмотреть на карте" target="_blank">г. Минск, ул. Могилевская, 45/1</a> 
+                </span>
+            </div>
+        </div>
+        <div class="header__search">
+            <div class="lang">
+				<a class="specialButton" href="#" class="grey">
+    <img src="/local/templates/ru_gtk/img/icons/icon_eye.svg" alt="eye" title="Версия для слабовидящих">
+</a>
+            </div>
+            <div class="search">
+                <form class="first-search" action="/search/" method="get">
+                    <input type="search" placeholder="поиск" name="q" class="search-form" value=""/>
+					<button type="submit"><img src="/local/templates/ru_gtk/img/icons/icon_search_white.svg" alt="Поиск по сайту"></button>              
+                </form>
+                <button type="submit" class="add-search"><img src="/local/templates/ru_gtk/img/icons/icon_search.svg" alt="Поиск по сайту"></button>  
+                <form class="search-hidden" action="/search/" method="get">
+                    <input type="search" placeholder="введите запрос" name="q" class="search-form-hidden" value=""/>
+					<button type="submit"><img src="/local/templates/ru_gtk/img/icons/icon_search.svg" alt="Поиск по сайту"></button>              
+                </form>
+            </div>
+        </div>
+    </div>
+</header>
+
+<!------slider menu------>
+<section class="main-menu light-grey">
+
+	<style>
+/*Тизеры*/
+
+.wrapper-tizers {
+  margin: auto;
+  max-width: 1388px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-flex-wrap: nowrap;
+  -ms-flex-wrap: nowrap;
+  flex-wrap: wrap;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  padding: 0 15px;
+  align-content: center;
+  padding-right: 45px;
+  padding-bottom: 40px;
+  padding-top: 40px;
+}
+
+/* .slider-menu__item {
+  position: relative;
+  background: #fff;
+  box-shadow: 0px 4px 12px rgb(34 10 51 / 30%);
+  border-radius: 16px;
+} */
+.slider-menu__item {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-justify-content: space-around;
+  -ms-flex-pack: distribute;
+  justify-content: space-around;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  min-width: 0;
+  position: relative;
+  width: 230px;
+  height: 112px;
+  -webkit-border-radius: 4px;
+  border-radius: 16px;
+  margin-left: 32px;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  background: #fff;
+  box-shadow: 0px 4px 12px rgb(34 10 51 / 15%);
+  border-radius: 16px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 250px;
+  height: 160px;
+}
+
+.slider-menu__hash:hover {
+  box-shadow: none;
+  text-transform: uppercase;
+  border-radius: 0;
+  width: 250px;
+  height: 160px;
+}
+
+.slider-menu__hash {
+  width: 250px;
+  height: 160px;
+  margin: 30px 5px;
+}
+
+.slider-menu__item:hover {
+  box-shadow: 0px 4px 12px rgb(34 10 51 / 30%);
+}
+
+.slider-menu__title {
+    margin: 20px 17px;
+    text-align: center;
+    -webkit-transition: all 0.4s ease;
+    -o-transition: all 0.4s ease;
+    transition: all 0.4s ease;
+    padding-bottom: 25px;
+}
+/*Тизеры*/
+</style>
+<div class="wrapper-tizers">
+    <!-- <div class="slider-menu"> -->
+	
+			
+
+        <div class="slider-menu__item">
+			<a  href="/contacts/" class="slider-menu__hash">
+				<img style = "padding-top: 42px;" src="/upload/iblock/ac9/1vxs08ibiww6i5wlsm5c224oltcciy0o.svg"/>
+				<p class="slider-menu__title">Контакты</p>
+			</a>
+        </div>
+
+			
+
+        <div class="slider-menu__item">
+			<a  href="/fizicheskim-litsam/" class="slider-menu__hash">
+				<img style = "padding-top: 42px;" src="/upload/iblock/6bf/8f4yy7qmk11gvmxavb4pafmiz99bidez.svg"/>
+				<p class="slider-menu__title">Физическим лицам</p>
+			</a>
+        </div>
+
+			
+
+        <div class="slider-menu__item">
+			<a  href="/participants-ved/" class="slider-menu__hash">
+				<img style = "padding-top: 42px;" src="/upload/iblock/3eb/7727psw1alknkq79u5irljcbl23loo1t.svg"/>
+				<p class="slider-menu__title">Участникам ВЭД</p>
+			</a>
+        </div>
+
+			
+
+        <div class="slider-menu__item">
+			<a  href="/fizicheskim-litsam/zelenyy-koridor/" class="slider-menu__hash">
+				<img style = "padding-top: 42px;" src="/upload/iblock/077/o8ja8l0yvtvwa3d3dvj2x44r5oker2p6.svg"/>
+				<p class="slider-menu__title">«Зеленый» коридор</p>
+			</a>
+        </div>
+
+			
+
+        <div class="slider-menu__item">
+			<a  href="/fizicheskim-litsam/krasnyy-koridor/" class="slider-menu__hash">
+				<img style = "padding-top: 42px;" src="/upload/iblock/61d/1ugurqw1g974kunq0r0lu1kkhukre5ft.svg"/>
+				<p class="slider-menu__title">«Красный» коридор</p>
+			</a>
+        </div>
+
+			
+
+        <div class="slider-menu__item">
+			<a  href="/situatsiya-na-granitse/" class="slider-menu__hash">
+				<img style = "padding-top: 42px;" src="/upload/iblock/497/9kb06ucm7ddqhg209wxianpitpxcwgur.svg"/>
+				<p class="slider-menu__title">Ситуация на границе</p>
+			</a>
+        </div>
+
+			
+
+        <div class="slider-menu__item">
+			<a  href="/odno-okno/" class="slider-menu__hash">
+				<img style = "padding-top: 42px;" src="/upload/iblock/d80/za8khqcj7wiljpnj3rhkrqymv6h2lln0.svg"/>
+				<p class="slider-menu__title">Одно окно</p>
+			</a>
+        </div>
+
+			
+
+        <div class="slider-menu__item">
+			<a  href="/calc/" class="slider-menu__hash">
+				<img style = "padding-top: 42px;" src="/upload/iblock/5fd/kj3lkeq0r8zw1ppxv2b5b0w09uizthk0.svg"/>
+				<p class="slider-menu__title">Таможенный калькулятор</p>
+			</a>
+        </div>
+
+		
+	<!-- </div> -->
+</div>
+</section>
+
+
+<!-------section name-page------->
+					<section class="name-page"><div class="wrapper"><a href="/" class="href-main">Таможенные органы Республики Беларусь  &ensp;&#62;</a><a class="href-novosti-nachalnik">Веб-камеры</a></div></section>
+
+<!-------section main ------->
+<section class="main-ved">
+    <div class="wrapper">
+        <div class="member-ved one">
+            <h3 class="member-ved__title">Веб-камеры</h3>
+			            <div class="d-block">
+						
+
+
+ <p><a href="/veb-kamery#b1">ПОЛЬША</a> <img width="30" height="23" alt="Сбой соединения" style="width: 30px; height: 23px;" src="/uploads/gtk/images/knopki/kamera.png" /> 
+ </p> 
+ 
+ 
+ <p><a href="/veb-kamery/#b2">ЛИТВА
+ </a><img width="30" height="23" alt="Сбой соединения" style="width: 30px; height: 23px;" src="/uploads/gtk/images/knopki/kamera.png" /> 
+ </p>
+ 
+
+ <p><a href="/veb-kamery#b4">ЛАТВИЯ </a><img width="30" height="23" alt="Сбой соединения" style="width: 30px; height: 23px;" src="/uploads/gtk/images/knopki/kamera.png" /> 
+ </p> 
+
+
+<p><a href="/veb-kamery#b3">УКРАИНА </a><img width="30" height="23" alt="Сбой соединения" style="width: 30px; height: 23px;" src="/uploads/gtk/images/knopki/kamera.png" /> 
+</p> 
+
+
+ <table> 
+ <tbody> 
+ <tr> 
+ <th colspan="2" id="b1"> 
+ <p align="center"><b><u>Польша</u></b></p></th> 
+ </tr> 
+ <tr> 
+ <td>Песчатка (выезд из Республики Беларусь)</td> 
+ <td>Песчатка (Въезд в Республику Беларусь)</td> 
+ </tr> 
+ <tr> 
+ <td> 
+ <p><a href="/webcam/brst101_1_c1.jpg" data-lightbox="Peschatka1"><img width="320" alt="Сбой соединения" style="max-width: 100%;" src="/webcam/brst101_1_c1.jpg" /></a> 
+ </p></td> 
+ <td> 
+ <p> <p><a href="/webcam/brst101_2_c1.jpg" data-lightbox="Peschatka2"><img width="320" alt="Сбой соединения" style="max-width: 100%;" src="/webcam/brst101_2_c1.jpg" /></a>
+ </p> </td> 
+ </tr> 
+ <tr> 
+ <td>Домачево (выезд из Республики Беларусь)</td> 
+ <td>Домачево (въезд в Республику Беларусь)</td> 
+ </tr> 
+ <tr> 
+ <td> 
+ <p><a href="/webcam/brst140_1.jpg" data-lightbox="Domachevo1"><img width="320" alt="Сбой соединения" style="max-width: 100%;" src="/webcam/brst140_1.jpg" /></a> 
+ </p></td> 
+ <td> 
+ <p><a href="/webcam/brst140_2.jpg" data-lightbox="Domachevo2"><img width="320" alt="Сбой соединения" style="max-width: 100%;" src="/webcam/brst140_2.jpg" /></a> 
+ </p> </td> 
+ </tr> 
+ <tr> 
+ <td colspan="2">Варшавский мост (въезд в Республику Беларусь)</td> 
+ </tr> 
+ <tr> 
+ <td colspan="2"> 
+ <p class="img_center"> 
+ <p><a href="/webcam/brst112_c1.jpg" data-lightbox="Varshavski"><img width="670" alt="Сбой соединения" style="max-width: 100%;" src="/webcam/brst112_c1.jpg" /></a> 
+ </p> 
+ </p></td> 
+ </tr> 
+ <tr> 
+ <td>Берестовица (выезд из Республики Беларусь)</td> 
+ <td>Берестовица (въезд в Республику Беларусь)</td> 
+ </tr> 
+ <tr> 
+ <td> 
+ <p><a href="/webcam/gr02.jpg?" data-lightbox="Berestovica1"><img width="320" alt="Сбой соединения" style="max-width: 100%;" src="/webcam/gr02.jpg?" /></a> 
+ </p></td> 
+ <td> 
+ <p><a href="/webcam/gr05.jpg" data-lightbox="Berestovica2"><img width="320" alt="Сбой соединения" style="max-width: 100%;" src="/webcam/gr05.jpg" /></a> 
+ </p> </td> 
+ </tr> 
+ <tr> 
+ <td>Брузги (выезд из Республики Беларусь)</td> 
+ <td>Брузги (Въезд в Республику Беларусь)</td> 
+ </tr> 
+ <tr> 
+ <td> 
+ <p><a href="/webcam/gr01.jpg" data-lightbox="Bruzgi1"><img width="320" alt="Сбой соединения" style="max-width: 100%;" src="/webcam/gr01.jpg" /></a> 
+ </p></td> 
+ <td> 
+ <p><a href="/webcam/gr06.jpg" data-lightbox="Bruzgi2"><img width="320" alt="Сбой соединения" style="max-width: 100%;" src="/webcam/gr06.jpg" /></a> 
+ </p> </td> 
+ </tr> 
+ <tr> 
+ <th colspan="2" id="b2"> 
+ <p align="center"><b><u>Литва</u></b></p></th> 
+ </tr> 
+ <tr> 
+ <td>Котловка (выезд из Республики Беларусь)</td> 
+ <td>Котловка (Въезд в Республику Беларусь)</td> 
+ </tr> 
+ <tr> 
+ <td> 
+ <p><a href="/webcam/osh2.jpg" data-lightbox="Kotlovka1"><img width="320" alt="Сбой соединения" style="max-width: 100%;" src="/webcam/osh2.jpg" /></a> 
+ </p></td> 
+ <td> 
+ <p><a href="/webcam/osh3.jpg" data-lightbox="Kotlovka2"><img width="320" alt="Сбой соединения" style="max-width: 100%;" src="/webcam/osh3.jpg" /></a> 
+ </p> </td> 
+ </tr> 
+ <tr> 
+ <td>Каменный Лог (выезд из Республики Беларусь)</td> 
+ <td><br />Каменный Лог (въезд в Республику Беларусь)</td> 
+ </tr> 
+ <tr> 
+ <td> 
+ <p><a href="/webcam/OSH1.jpg" data-lightbox="Kamenni1"><img width="320" alt="Сбой соединения" style="max-width: 100%;" src="/webcam/OSH1.jpg" /></a> 
+ </p></td> 
+ <td> 
+ <p><a href="/webcam/OSH4.jpg" data-lightbox="Kamenni2"><img width="320" alt="Сбой соединения" style="max-width: 100%;" src="/webcam/OSH4.jpg" /></a>
+ </p> </td> 
+ </tr> 
+ <tr> 
+ <td>Привалка (выезд из Республики Беларусь)</td> 
+ <td>Привалка (въезд в Республику Беларусь)</td> 
+ </tr> 
+ <tr> 
+ <td> 
+ <p><a href="/webcam/gr03.jpg" data-lightbox="Privalka1"><img width="320" alt="Сбой соединения" style="max-width: 100%;" src="/webcam/gr03.jpg" /></a> 
+ </p></td> 
+ <td> 
+ <p><a href="/webcam/gr04.jpg" data-lightbox="Privalka2"><img width="320" alt="Сбой соединения" style="max-width: 100%;" src="/webcam/gr04.jpg" /></a> 
+ </p> </td> 
+ </tr> 
+ <tr> 
+ <th colspan="2" id="b3"> 
+ <p align="center"><b><u>Украина</u></b></p></th> 
+ </tr> 
+ <tr> 
+ <td>Мокраны (выезд из Республики Беларусь)</td> 
+ <td>Мокраны (въезд в Республику Беларусь)</td> 
+ </tr> 
+ <tr> 
+ <td> 
+ <p><a href="/webcam/brst116_1.jpg" data-lightbox="Mokrani1"><img width="320" alt="Сбой соединения" style="max-width: 100%;" src="/webcam/brst116_1.jpg" /></a> 
+ </p></td> 
+ <td> 
+ <p><a href="/webcam/brst116_2.jpg" data-lightbox="Mokrani2"><img width="320" alt="Сбой соединения" style="max-width: 100%;" src="/webcam/brst116_2.jpg" /></a> 
+ </p> </td> 
+ </tr> 
+ <tr> 
+ <td colspan="2">Новая Гута (выезд из Республики Беларусь)</td> 
+ </tr> 
+ <tr> 
+ <td colspan="2"> 
+ <p class="img_center"> 
+ <p><a href="/webcam/gml1.jpg" data-lightbox="Guta"><img width="670" alt="Сбой соединения" style="max-width: 100%;" src="/webcam/gml1.jpg" /></a> 
+ </p> 
+ </p></td> 
+ </tr> 
+ <tr> 
+ <th colspan="2" id="b4"> 
+ <p align="center"><b><u>Латвия</u></b></p></th> 
+ </tr> 
+ <tr> 
+ <td>Григоровщина (выезд из Республики Беларусь)</td> 
+ <td>Григоровщина (въезд в Республику Беларусь)</td> 
+ </tr> 
+ <tr> 
+ <td> 
+ <p><a href="/webcam/vt01.jpg" data-lightbox="Grigorovshina1"><img width="320" alt="Сбой соединения" style="max-width: 100%;" src="/webcam/vt01.jpg" /></a> 
+ </p></td> 
+ <td> 
+ <p><a href="/webcam/vt02.jpg" data-lightbox="Grigorovshina2"><img width="320" alt="Сбой соединения" style="max-width: 100%;" src="/webcam/vt02.jpg" /></a>
+ </p> </td> 
+ </tr> 
+ <tr> 
+ <td>Урбаны (выезд из Республики Беларусь)</td> 
+ <td>Урбаны (въезд в Республику Беларусь)</td> 
+ </tr> 
+ <tr> 
+ <td> 
+ <p><a href="/webcam/U01.jpg" data-lightbox="Urbani1"><img width="320" alt="Сбой соединения" style="max-width: 100%;" src="/webcam/U01.jpg" /></a> 
+ </p></td> 
+ <td> 
+ <p><a href="/webcam/U02.jpg" data-lightbox="Urbani2"><img width="320" alt="Сбой соединения" style="max-width: 100%;" src="/webcam/U02.jpg" /></a> 
+ </p></td> 
+ </tr> 
+ </tbody> 
+ </table> 
+				                </div>
+				            </div>
+			
+<!------section slider resourses------>
+
+<div class="vertical-slider-new">
+	<div class="slider-resourses-vertical-new">
+        					<div class="slider-resourses-vertical-new__item-wrapper one-slide">
+						<div class="slider-resourses-vertical-new__item">
+							<a target="_blank" href="https://mon.declarant.by/vpto" class="slider-resourses-vertical-new__link"></a>
+							<div class="slider-resourses-vertical-new__item-image" style="background-image: url('/upload/iblock/92c/9qqtzs3fu625h6w2rcj98oitmr84u93t.svg');"></div>
+							<div class="slider-resourses-vertical-new__item-content">
+								<p>Мониторинг оформления документов в ВПТО</p>
+							</div>
+						</div>
+					</div>
+                    
+                					<div class="slider-resourses-vertical-new__item-wrapper one-slide">
+						<div class="slider-resourses-vertical-new__item">
+							<a target="_blank" href="https://mon.declarant.by/" class="slider-resourses-vertical-new__link"></a>
+							<div class="slider-resourses-vertical-new__item-image" style="background-image: url('/upload/iblock/92c/9qqtzs3fu625h6w2rcj98oitmr84u93t.svg');"></div>
+							<div class="slider-resourses-vertical-new__item-content">
+								<p>Мониторинг оформления в РПТО</p>
+							</div>
+						</div>
+					</div>
+                    
+                					<div class="slider-resourses-vertical-new__item-wrapper one-slide">
+						<div class="slider-resourses-vertical-new__item">
+							<a target="_blank" href="" class="slider-resourses-vertical-new__link"></a>
+							<div class="slider-resourses-vertical-new__item-image" style="background-image: url('/upload/iblock/92c/9qqtzs3fu625h6w2rcj98oitmr84u93t.svg');"></div>
+							<div class="slider-resourses-vertical-new__item-content">
+								<p>Веб-камеры</p>
+							</div>
+						</div>
+					</div>
+                    
+                					<div class="slider-resourses-vertical-new__item-wrapper one-slide">
+						<div class="slider-resourses-vertical-new__item">
+							<a target="_blank" href="https://gpk.gov.by/situation-at-the-border/" class="slider-resourses-vertical-new__link"></a>
+							<div class="slider-resourses-vertical-new__item-image" style="background-image: url('/upload/iblock/92c/9qqtzs3fu625h6w2rcj98oitmr84u93t.svg');"></div>
+							<div class="slider-resourses-vertical-new__item-content">
+								<p>Очереди</p>
+							</div>
+						</div>
+					</div>
+                    
+                
+    </div>
+</div>		
+    </div>
+</section>
+
+
+<!-----section inform-resours slider----->
+
+<section class="inform-resours">
+    <h4 class="inform-resours__title">Информационные ресурсы</h4>
+    <div class="wrapper">      
+        <div class="inform-resours-slider-new-v1">
+
+			
+		<div class="inform-resours__item-wrapper">
+	        <a target="_blank" href="https://president.gov.by/ru" class="inform-resours__item">
+	            <img src="/upload/iblock/f42/5dd0xm2lo2jd5p16sxfvr20v9jsnxu9d.png"/>
+	            <p class="inform-resours__content">Сайт Президента Республики Беларусь</p>
+	        </a>
+		</div>
+			
+		<div class="inform-resours__item-wrapper">
+	        <a target="_blank" href="https://eec.eaeunion.org/" class="inform-resours__item">
+	            <img src="/upload/iblock/4b3/8hj4975p16w0pzznvyba95h2f68kpwdd.png"/>
+	            <p class="inform-resours__content">Евразийская экономическая комиссия</p>
+	        </a>
+		</div>
+			
+		<div class="inform-resours__item-wrapper">
+	        <a target="_blank" href="https://mfa.gov.by/" class="inform-resours__item">
+	            <img src="/upload/iblock/b0c/x3ipgcj21r74obou9q0t1tuvvbhrimto.png"/>
+	            <p class="inform-resours__content">Министерство иностранных дел</p>
+	        </a>
+		</div>
+			
+		<div class="inform-resours__item-wrapper">
+	        <a target="_blank" href="https://gpk.gov.by/" class="inform-resours__item">
+	            <img src="/upload/iblock/637/uthhcgpd49ts2tmk5jhxkwr3px27ugxb.png"/>
+	            <p class="inform-resours__content">Государственный пограничный комитет Республики Беларусь</p>
+	        </a>
+		</div>
+			
+		<div class="inform-resours__item-wrapper">
+	        <a target="_blank" href="https://pravo.by/" class="inform-resours__item">
+	            <img src="/upload/resize_cache/iblock/43d/40_40_0/97aniirqpcjs05kl429m7opspg6dwfy3.png"/>
+	            <p class="inform-resours__content">Национальный правовой Интернет-портал</p>
+	        </a>
+		</div>
+			
+		<div class="inform-resours__item-wrapper">
+	        <a target="_blank" href="https://www.mintrans.gov.by/ru/" class="inform-resours__item">
+	            <img src="/upload/resize_cache/iblock/b14/40_40_0/l18erfkmmy9weonimwsnffzrf9zmjzbt.png"/>
+	            <p class="inform-resours__content">Министерство транспорта и коммуникаций</p>
+	        </a>
+		</div>
+			
+		<div class="inform-resours__item-wrapper">
+	        <a target="_blank" href="https://nces.by/" class="inform-resours__item">
+	            <img src="/upload/resize_cache/iblock/4ed/40_40_0/rkj3oxawg2ntc781f81d08qswf1jjvxf.png"/>
+	            <p class="inform-resours__content">Национальный центр электронных услуг</p>
+	        </a>
+		</div>
+		
+		</div>
+	</div>
+</section>
+<!-------scrollUp------->
+<div class="scrollUp" title="К началу страницы"><img src="/local/templates/ru_gtk/img/icons/scroll_up_icon.svg" alt="scroll"></div>
+
+<!--------footer-------->
+<footer class="footer">
+    <div class="wrapper">
+        <div class="footer__info">
+            <div class="gtk">
+				© Гтк рб, 2023			</div>
+            <div class="socials">
+				<a href="https://www.youtube.com/channel/UCJ5SPgFXRDqCBlq8CAio20A" target="_blank"> <img alt="youtube" src="/local/templates/ru_gtk/img/icons/youtube_icon.svg" title="youtube"> </a> 
+<a href="https://t.me/customs_bel" target="_blank"> <img alt="telegram" src="/local/templates/ru_gtk/img/icons/telegam_icon.png" title="telegram"> </a>
+<a href="https://twitter.com/Customs_RB" target="_blank"> <img alt="twitter" src="/local/templates/ru_gtk/img/icons/twitter_icon.svg" title="twitter"> </a> <a href="https://www.facebook.com/CustomsRB/" target="_blank"> <img alt="facebook" src="/local/templates/ru_gtk/img/icons/facebook_icon.svg" twitter="" title="facebook"> </a> <a href="https://www.instagram.com/customs_rb/" target="_blank"> <img alt="instagram" src="/local/templates/ru_gtk/img/icons/insta_icon.svg" title="instagram"> </a>			
+            </div>
+        </div>
+
+        <div class="footer__menu">
+
+								
+            <div class="menu-footer">
+				<ul class="footer__nav">
+                    <li class="footer__item">
+                        <a href="/tamozhennye-organy/rukovodstvo/" class="footer__link">Руководство</a><img src="/local/templates/ru_gtk/img/icons/arrow_footer.svg" alt="arrow">
+                    </li>
+
+			
+	                    <li class="footer__item">
+                        <a href="/odno-okno/" class="footer__link">Одно окно</a><img src="/local/templates/ru_gtk/img/icons/arrow_footer.svg" alt="arrow">
+                    </li>
+
+			
+	                    <li class="footer__item">
+                        <a href="/contacts/" class="footer__link">Таможни</a><img src="/local/templates/ru_gtk/img/icons/arrow_footer.svg" alt="arrow">
+                    </li>
+
+							</ul>
+				<ul class="footer__nav">
+			
+	                    <li class="footer__item">
+                        <a href="/fizicheskim-litsam/" class="footer__link">Физическим лицам</a><img src="/local/templates/ru_gtk/img/icons/arrow_footer.svg" alt="arrow">
+                    </li>
+
+			
+	                    <li class="footer__item">
+                        <a href="/zakonodatelstvo/" class="footer__link">Законодательство</a><img src="/local/templates/ru_gtk/img/icons/arrow_footer.svg" alt="arrow">
+                    </li>
+
+			
+	                    <li class="footer__item active">
+                        <a href="/veb-kamery/" class="footer__link">Веб-камеры</a><img src="/local/templates/ru_gtk/img/icons/arrow_footer.svg" alt="arrow">
+                    </li>
+
+							</ul>
+				<ul class="footer__nav">
+			
+	                    <li class="footer__item">
+                        <a href="/participants-ved/" class="footer__link">Участникам ВЭД</a><img src="/local/templates/ru_gtk/img/icons/arrow_footer.svg" alt="arrow">
+                    </li>
+
+			
+	                    <li class="footer__item">
+                        <a href="/sitemap/" class="footer__link">Карта сайта</a><img src="/local/templates/ru_gtk/img/icons/arrow_footer.svg" alt="arrow">
+                    </li>
+
+			
+	                    <li class="footer__item">
+                        <a href="/politika/" class="footer__link">Политика в отношении обработки персональных данных в таможенных органах</a><img src="/local/templates/ru_gtk/img/icons/arrow_footer.svg" alt="arrow">
+                    </li>
+
+			
+	                </ul>
+            </div>		
+
+            <div class="footer__search">
+                <form action="/search/" method="get">
+                    <input type="search" placeholder="введите запрос" name="q" class="search-form-footer" value=""/>
+					<button type="submit" class="search-footer"><img src="/local/templates/ru_gtk/img/icons/icon_search.svg" alt="Поиск по сайту"></button>              
+                </form>
+            </div>
+        </div>
+        
+        <div class="footer__new-search">
+            <form action="/search/" method="get">
+                <input type="search" placeholder="введите запрос" name="q" class="search-form-new" value=""/>
+				<button type="submit" class="search-footer-new"><img src="/local/templates/ru_gtk/img/icons/icon_search.svg" alt="Поиск по сайту"></button>              
+            </form>
+        </div>
+		
+        <p class="footer__information">
+			При использовании информации ссылка на единый Интернет-портал таможенных органов обязательна        </p>
+
+    </div>
+</footer>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ZKTLEVPRV0"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-ZKTLEVPRV0');
+</script>
+
+	
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(89907767, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/89907767" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+
+		<script>
+function printPage(){
+	var printhtml = $(".member-ved.one, .novosti-static__row:last").html();
+	var f = document.getElementById('printf');
+	f.contentDocument.write(printhtml);
+	f.contentDocument.close();
+	f.contentWindow.print();
+};
+$(document).ready(function(){
+	$(".member-ved.one, .novosti-static__row:last").append('<p><a class="print" href="javascript:void(0);" onclick="printPage();">Версия для печати</a></p>');
+});
+</script>
+<iframe id="printf" style="display: none;" src="" width="0" height="0" frameborder="0"></iframe>	
+</body>
+</html>

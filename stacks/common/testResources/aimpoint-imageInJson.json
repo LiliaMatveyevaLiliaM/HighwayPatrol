@@ -1,0 +1,36 @@
+{
+    "deviceID": "101046"
+  , "enabled": true
+  , "decoy": false
+  , "collRegions": ["eu-central-1"]
+  , "collectionType": "IMAGEINJSON"
+  , "accessUrl": "https://bezpecnost.praha.eu/Intens.CrisisPortalInfrastructureApp/cameras/101046/image?format=json"
+  , "pollFrequency": 20
+  , "concatenate": false
+  , "transcodeExt": "ts"
+  , "longLat": [0, 0]
+  , "filenameBase": "prahaeu_{deviceID}"
+  , "finalFileSuffix": "_{epoch}"
+  , "bucketPrefixTemplate": "cz/prahaeu/{deviceID}/{year}/{month}/{day}"
+  , "headers": {
+  	  "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0"
+  	, "Accept": "application/json, text/plain, */*"
+    , "Accept-Language": "en-US,en;q=0.5"
+  	, "Accept-Encoding": "gzip, deflate, br, zstd"
+  	, "Referer": "https://bezpecnost.praha.eu/"
+    , "Cache-Control": "no-cache"
+    , "Pragma": "no-cache"
+  	, "DNT": "1"
+  	, "Sec-GPC": "1"
+  	, "Connection": "keep-alive"
+  	, "Sec-Fetch-Dest": "empty"
+  	, "Sec-Fetch-Mode": "cors"
+    , "Sec-Fetch-Site": "same-origin"
+  	}
+  , "devNotes": {
+      "givenUrl": "www.bezpecnynymburk.cz/index.php?sekce=bn&zobraz=bezpecny-nymburk-online-kamery"
+    , "startedOn": "June 2025"
+    , "setBy": "reynaldn"
+    , "missionTLDN": "taffy"
+    }
+}

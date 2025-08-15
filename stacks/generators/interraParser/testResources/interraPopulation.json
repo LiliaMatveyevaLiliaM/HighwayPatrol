@@ -1,0 +1,1172 @@
+[
+    {
+        "id": 108,
+        "full_address": "г. Екатеринбург, перекрёсток Новаторов-Ломоносова",
+        "latitude": "56.909047",
+        "longitude": "60.599775",
+        "coords": [
+            56.909047,
+            60.599775
+        ],
+        "m3u8": "https://video2.interra.ru/glaz.naroda.123-bca74ea03e/index.m3u8?token=3.9CzUU5u-AAAAAAAAAEsAAAAAAAAAAHPv67KPoIKKpWQjks9sAP8egwBd",
+        "thumbnail": "/media/cameras/108.gif?t=1692904187.5551333",
+        "url": "/108/g-ekaterinburg-perekriostok-novatorov-lomonosova/"
+    },
+    {
+        "id": 98,
+        "full_address": "г. Екатеринбург, перекрёсток Коммунистическая - Бакинских комиссаров",
+        "latitude": "56.909416",
+        "longitude": "60.592863",
+        "coords": [
+            56.909416,
+            60.592863
+        ],
+        "m3u8": "https://video2.interra.ru/glaz.naroda.115-021d27caba/index.m3u8?token=3.9CzUU5u-AAAAAAAAAEsAAAAAAAAAAEsmOhMsJ38n5tvsDGjnWBQbg6N_",
+        "thumbnail": "/media/cameras/98.gif?t=1692904187.5556781",
+        "url": "/98/g-ekaterinburg-perekriostok-kommunisticheskaia-bakinskikh-komissarov/"
+    },
+    {
+        "id": 106,
+        "full_address": "г. Екатеринбург, перекрёсток Ломоносова-Коммунистическая",
+        "latitude": "56.907826",
+        "longitude": "60.597998",
+        "coords": [
+            56.907826,
+            60.597998
+        ],
+        "m3u8": "https://video2.interra.ru/glaz.naroda.121-c9e033c05f/index.m3u8?token=3.9CzUU5u-AAAAAAAAAEsAAAAAAAAAAHTKPf595bILj3OTg5Az34JUkT1F",
+        "thumbnail": "/media/cameras/106.gif?t=1692904187.5561175",
+        "url": "/106/g-ekaterinburg-perekriostok-lomonosova-kommunisticheskaia/"
+    },
+    {
+        "id": 109,
+        "full_address": "г. Екатеринбург, перекрёсток Восстания-Ломоносова",
+        "latitude": "56.906035",
+        "longitude": "60.595501",
+        "coords": [
+            56.906035,
+            60.595501
+        ],
+        "m3u8": "https://video2.interra.ru/glaz.naroda.124-b99b1c006b/index.m3u8?token=3.9CzUU5u-AAAAAAAAAEsAAAAAAAAAAHhCJ7yue3rhcd4I9U1D_m65alvJ",
+        "thumbnail": "/media/cameras/109.gif?t=1692904187.556636",
+        "url": "/109/g-ekaterinburg-perekriostok-vosstaniia-lomonosova/"
+    },
+    {
+        "id": 91,
+        "full_address": "г. Екатеринбург, перекрёсток Восстания - 40 лет Октября",
+        "latitude": "56.904251",
+        "longitude": "60.599190",
+        "coords": [
+            56.904251,
+            60.59919
+        ],
+        "m3u8": "https://video2.interra.ru/glaz.naroda.106-95a9721714/index.m3u8?token=3.9CzUU5u-AAAAAAAAAEsAAAAAAAAAAO3XpFjv2anisyiCrapZLkJ8tHWu",
+        "thumbnail": "/media/cameras/91.gif?t=1692904187.5570614",
+        "url": "/91/g-ekaterinburg-perekriostok-vosstaniia-40-let-oktiabria/"
+    },
+    {
+        "id": 112,
+        "full_address": "г. Екатеринбург, Мангалыч",
+        "latitude": "56.904300",
+        "longitude": "60.598793",
+        "coords": [
+            56.9043,
+            60.598793
+        ],
+        "m3u8": "https://video2.interra.ru/ektb.uralmash.mangalych.on-lajn-b19fc606fe/index.m3u8?token=3.9CzUU5u-AAAAAAAAAEsAAAAAAAAAAE3Q1Elcata0QZTtweN13UCRdHuZ",
+        "thumbnail": "/media/cameras/112.gif?t=1692904187.5575144",
+        "url": "/112/g-ekaterinburg-mangalych/"
+    },
+    {
+        "id": 111,
+        "full_address": "г. Екатеринбург, перекрёсток Стахановская-Восстания",
+        "latitude": "56.901801",
+        "longitude": "60.606887",
+        "coords": [
+            56.901801,
+            60.606887
+        ],
+        "m3u8": "https://video2.interra.ru/glaz.naroda.126-b166cc2da0/index.m3u8?token=3.9CzUU5u-AAAAAAAAAEsAAAAAAAAAAIzuAQWCJ-9MSkEl6S3TDdNvI5Q1",
+        "thumbnail": "/media/cameras/111.gif?t=1692904187.5579343",
+        "url": "/111/g-ekaterinburg-perekriostok-stakhanovskaia-vosstaniia/"
+    },
+    {
+        "id": 97,
+        "full_address": "г. Екатеринбург, перекрёсток Ильича-Восстания",
+        "latitude": "56.899909",
+        "longitude": "60.610748",
+        "coords": [
+            56.899909,
+            60.610748
+        ],
+        "m3u8": "https://video2.interra.ru/glaz.naroda.112-dea00a5e37/index.m3u8?token=3.9CzUU5u-AAAAAAAAAEsAAAAAAAAAAPASQXYIWbtJQP53vHF_eoWlKNLd",
+        "thumbnail": "/media/cameras/97.gif?t=1692904187.5585756",
+        "url": "/97/g-ekaterinburg-perekriostok-ilicha-vosstaniia/"
+    },
+    {
+        "id": 87,
+        "full_address": "г. Екатеринбург, перекрёсток Победы - Бакинских комиссаров",
+        "latitude": "56.904177",
+        "longitude": "60.586223",
+        "coords": [
+            56.904177,
+            60.586223
+        ],
+        "m3u8": "https://video2.interra.ru/glaz.naroda.102-3c97eb6767/index.m3u8?token=3.9CzUU5u-AAAAAAAAAEsAAAAAAAAAAEyXWLqtwoGawRMJVZ2avzsVqYy7",
+        "thumbnail": "/media/cameras/87.gif?t=1692904187.5590122",
+        "url": "/87/g-ekaterinburg-perekriostok-pobedy-bakinskikh-komissarov/"
+    },
+    {
+        "id": 85,
+        "full_address": "г. Екатеринбург, перекрёсток Победы-Индустрии",
+        "latitude": "56.899388",
+        "longitude": "60.598577",
+        "coords": [
+            56.899388,
+            60.598577
+        ],
+        "m3u8": "https://video2.interra.ru/glaz.naroda.103-ea7a4cf93b/index.m3u8?token=3.9CzUU5u-AAAAAAAAAEsAAAAAAAAAAImjREzad6ct3QpaSmG-Y1nxOF4q",
+        "thumbnail": "/media/cameras/85.gif?t=1692904187.5594602",
+        "url": "/85/g-ekaterinburg-perekriostok-pobedy-industrii/"
+    },
+    {
+        "id": 90,
+        "full_address": "г. Екатеринбург, перекрёсток Победы-Ломоносова",
+        "latitude": "56.902031",
+        "longitude": "60.591154",
+        "coords": [
+            56.902031,
+            60.591154
+        ],
+        "m3u8": "https://video2.interra.ru/glaz.naroda.101-6ecb4aa047/index.m3u8?token=3.9CzUU5u-AAAAAAAAAEsAAAAAAAAAAJBm247LYhmZJDmRzOQ5knrnqIC0",
+        "thumbnail": "/media/cameras/90.gif?t=1692904187.5598776",
+        "url": "/90/g-ekaterinburg-perekriostok-pobedy-lomonosova/"
+    },
+    {
+        "id": 107,
+        "full_address": "г. Екатеринбург, сквер имени Льва Люльева",
+        "latitude": "56.894016",
+        "longitude": "60.613488",
+        "coords": [
+            56.894016,
+            60.613488
+        ],
+        "m3u8": "https://video2.interra.ru/glaz.naroda.122-e606ba3475/index.m3u8?token=3.9CzUU5u-AAAAAAAAAEsAAAAAAAAAAA6V5Lu8QW7_RRt4iJwe4NVURYHk",
+        "thumbnail": "/media/cameras/107.gif?t=1692904187.5603597",
+        "url": "/107/g-ekaterinburg-skver-imeni-lva-liuleva/"
+    },
+    {
+        "id": 96,
+        "full_address": "г. Екатеринбург, перекрёсток Победы-Космонавтов",
+        "latitude": "56.893504",
+        "longitude": "60.614121",
+        "coords": [
+            56.893504,
+            60.614121
+        ],
+        "m3u8": "https://video2.interra.ru/glaz.naroda.113-9be8bef91d/index.m3u8?token=3.9CzUU5u-AAAAAAAAAEsAAAAAAAAAALUqkp2yyH73BzG0BHmbelU0_JBx",
+        "thumbnail": "/media/cameras/96.gif?t=1692904187.560779",
+        "url": "/96/g-ekaterinburg-perekriostok-pobedy-kosmonavtov/"
+    },
+    {
+        "id": 89,
+        "full_address": "г. Екатеринбург, перекрёсток Уральских Рабочих - Индустрии",
+        "latitude": "56.897118",
+        "longitude": "60.595801",
+        "coords": [
+            56.897118,
+            60.595801
+        ],
+        "m3u8": "https://video2.interra.ru/glaz.naroda.107-bd4deb14c5/index.m3u8?token=3.9CzUU5u-AAAAAAAAAEsAAAAAAAAAAFfEUMIiw0O2FNaOBt-dPW1H1Wdl",
+        "thumbnail": "/media/cameras/89.gif?t=1692904187.5611908",
+        "url": "/89/g-ekaterinburg-perekriostok-uralskikh-rabochikh-industrii/"
+    },
+    {
+        "id": 103,
+        "full_address": "г. Екатеринбург, перекрёсток Стахановская - Уральских рабочих",
+        "latitude": "56.896177",
+        "longitude": "60.599651",
+        "coords": [
+            56.896177,
+            60.599651
+        ],
+        "m3u8": "https://video2.interra.ru/glaz.naroda.116-4a319df9ad/index.m3u8?token=3.9CzUU5u-AAAAAAAAAEsAAAAAAAAAABVt2wtybaJRJnke8rg_HC3dIGWi",
+        "thumbnail": "/media/cameras/103.gif?t=1692904187.5616438",
+        "url": "/103/g-ekaterinburg-perekriostok-stakhanovskaia-uralskikh-rabochikh/"
+    },
+    {
+        "id": 92,
+        "full_address": "г. Екатеринбург, перекрёсток Ильича - Уральских рабочих",
+        "latitude": "56.894276",
+        "longitude": "60.603436",
+        "coords": [
+            56.894276,
+            60.603436
+        ],
+        "m3u8": "https://video2.interra.ru/glaz.naroda.108-a54d7c4cfe/index.m3u8?token=3.9CzUU5u-AAAAAAAAAEsAAAAAAAAAABID_6GpQII_vZ4qBFbLhZjAuEEy",
+        "thumbnail": "/media/cameras/92.gif?t=1692904187.5620542",
+        "url": "/92/g-ekaterinburg-perekriostok-ilicha-uralskikh-rabochikh/"
+    },
+    {
+        "id": 104,
+        "full_address": "г. Екатеринбург, перекрёсток Бакинских комиссаров - Калинина",
+        "latitude": "56.900327",
+        "longitude": "60.580895",
+        "coords": [
+            56.900327,
+            60.580895
+        ],
+        "m3u8": "https://video2.interra.ru/glaz.naroda.117-1d479f3006/index.m3u8?token=3.9CzUU5u-AAAAAAAAAEsAAAAAAAAAADbLVxQr8Qp32Kvig2wuEgiXuRsl",
+        "thumbnail": "/media/cameras/104.gif?t=1692904187.5624647",
+        "url": "/104/g-ekaterinburg-perekriostok-bakinskikh-komissarov-kalinina/"
+    },
+    {
+        "id": 105,
+        "full_address": "г. Екатеринбург, перекрёсток Донбасская - 22 партсъезда",
+        "latitude": "56.891113",
+        "longitude": "60.569242",
+        "coords": [
+            56.891113,
+            60.569242
+        ],
+        "m3u8": "https://video2.interra.ru/glaz.naroda.120-3d4dca67d5/index.m3u8?token=3.9CzUU5u-AAAAAAAAAEsAAAAAAAAAADx6xjcNACYf7jJBpDcZsibdUqz3",
+        "thumbnail": "/media/cameras/105.gif?t=1692904187.5628786",
+        "url": "/105/g-ekaterinburg-perekriostok-donbasskaia-22-partsezda/"
+    },
+    {
+        "id": 101,
+        "full_address": "г. Екатеринбург, перекрёсток Калинина-Стахановская",
+        "latitude": "56.893528",
+        "longitude": "60.596920",
+        "coords": [
+            56.893528,
+            60.59692
+        ],
+        "m3u8": "https://video2.interra.ru/glaz.naroda.118-8a2eb9738a/index.m3u8?token=3.9CzUU5u-AAAAAAAAAEsAAAAAAAAAANDeD_1JuUiz_Yw3uXDTfPMRYzWm",
+        "thumbnail": "/media/cameras/101.gif?t=1692904187.5633166",
+        "url": "/101/g-ekaterinburg-perekriostok-kalinina-stakhanovskaia/"
+    },
+    {
+        "id": 94,
+        "full_address": "г. Екатеринбург, перекрёсток Ильича-Калинина",
+        "latitude": "56.892167",
+        "longitude": "60.600807",
+        "coords": [
+            56.892167,
+            60.600807
+        ],
+        "m3u8": "https://video2.interra.ru/glaz.naroda.110-b35df3a6f3/index.m3u8?token=3.9CzUU5u-AAAAAAAAAEsAAAAAAAAAAAjsdfwmpjTMcQmKreYIRwF06k1i",
+        "thumbnail": "/media/cameras/94.gif?t=1692904187.5637264",
+        "url": "/94/g-ekaterinburg-perekriostok-ilicha-kalinina/"
+    },
+    {
+        "id": 102,
+        "full_address": "г. Екатеринбург, перекрёсток Калинина - Красных борцов",
+        "latitude": "56.891394",
+        "longitude": "60.602875",
+        "coords": [
+            56.891394,
+            60.602875
+        ],
+        "m3u8": "https://video2.interra.ru/glaz.naroda.119-2b4f3189a6/index.m3u8?token=3.9CzUU5u-AAAAAAAAAEsAAAAAAAAAAI3uP3SwHDc1lDRN2eTJEVPVX66Q",
+        "thumbnail": "/media/cameras/102.gif?t=1692904187.5641327",
+        "url": "/102/g-ekaterinburg-perekriostok-kalinina-krasnykh-bortsov/"
+    },
+    {
+        "id": 100,
+        "full_address": "г. Екатеринбург, перекрёсток Кировградская-Орджоникидзе",
+        "latitude": "56.893228",
+        "longitude": "60.590213",
+        "coords": [
+            56.893228,
+            60.590213
+        ],
+        "m3u8": "https://video2.interra.ru/glaz.naroda.114-00c6b9cccc/index.m3u8?token=3.9CzUU5u-AAAAAAAAAEsAAAAAAAAAAO_c5Z6w7LvYWafNIX30AyN6wcjT",
+        "thumbnail": "/media/cameras/100.gif?t=1692904187.5645864",
+        "url": "/100/g-ekaterinburg-perekriostok-kirovgradskaia-ordzhonikidze/"
+    },
+    {
+        "id": 110,
+        "full_address": "г. Екатеринбург, перекрёсток Ильича-Кировградская",
+        "latitude": "56.890742",
+        "longitude": "60.598288",
+        "coords": [
+            56.890742,
+            60.598288
+        ],
+        "m3u8": "https://video2.interra.ru/glaz.naroda.125-407cff734e/index.m3u8?token=3.9CzUU5u-AAAAAAAAAEsAAAAAAAAAAIfzIZ3yabwV2RWSlhrgFfo06EMp",
+        "thumbnail": "/media/cameras/110.gif?t=1692904187.5649934",
+        "url": "/110/g-ekaterinburg-perekriostok-ilicha-kirovgradskaia/"
+    },
+    {
+        "id": 86,
+        "full_address": "г. Екатеринбург, перекрёсток Донбасская-Суворовский",
+        "latitude": "56.885516",
+        "longitude": "60.564004",
+        "coords": [
+            56.885516,
+            60.564004
+        ],
+        "m3u8": "https://video2.interra.ru/glaz.naroda.104-1c924f6654/index.m3u8?token=3.9CzUU5u-AAAAAAAAAEsAAAAAAAAAAN2gcupubO9xDpU6oGa3Ru0QYy3l",
+        "thumbnail": "/media/cameras/86.gif?t=1692904187.5654285",
+        "url": "/86/g-ekaterinburg-perekriostok-donbasskaia-suvorovskii/"
+    },
+    {
+        "id": 95,
+        "full_address": "г. Екатеринбург, перекрёсток Донбасская-Машиностроителей",
+        "latitude": "56.883845",
+        "longitude": "60.561834",
+        "coords": [
+            56.883845,
+            60.561834
+        ],
+        "m3u8": "https://video2.interra.ru/glaz.naroda.111-da1d972e51/index.m3u8?token=3.9CzUU5u-AAAAAAAAAEsAAAAAAAAAAGPAt_ZgOTtWxYY1Q-ubAUHYRzPZ",
+        "thumbnail": "/media/cameras/95.gif?t=1692904187.5658357",
+        "url": "/95/g-ekaterinburg-perekriostok-donbasskaia-mashinostroitelei/"
+    },
+    {
+        "id": 93,
+        "full_address": "г. Екатеринбург, перекрёсток Машиностроителей - 40 лет Октября",
+        "latitude": "56.884739",
+        "longitude": "60.576632",
+        "coords": [
+            56.884739,
+            60.576632
+        ],
+        "m3u8": "https://video2.interra.ru/glaz.naroda.109-f9451b288c/index.m3u8?token=3.9CzUU5u-AAAAAAAAAEsAAAAAAAAAANXkeit71cNxT4L_ABUy9qPsUKU5",
+        "thumbnail": "/media/cameras/93.gif?t=1692904187.566245",
+        "url": "/93/g-ekaterinburg-perekriostok-mashinostroitelei-40-let-oktiabria/"
+    },
+    {
+        "id": 57,
+        "full_address": "г. Первоуральск, перекрёсток Емлина-Ленина",
+        "latitude": "56.915146",
+        "longitude": "59.922544",
+        "coords": [
+            56.915146,
+            59.922544
+        ],
+        "m3u8": "https://video.interra.ru/glaz.naroda.38-e60a533a34/index.m3u8?token=3.9CzUU5u-AAAAAAAAAEsAAAAAAAAAAHz8AV5bAgwb_bq4Q9BexUA3ze2E",
+        "thumbnail": "/media/cameras/57.gif?t=1692904187.5666504",
+        "url": "/57/g-pervouralsk-perekriostok-emlina-lenina/"
+    },
+    {
+        "id": 21,
+        "full_address": "г. Первоуральск, перекрёсток Ленина-Космонавтов",
+        "latitude": "56.914809",
+        "longitude": "59.932792",
+        "coords": [
+            56.914809,
+            59.932792
+        ],
+        "m3u8": "https://video.interra.ru/glaz.naroda.7-719cef05e8/index.m3u8?token=3.9CzUU5u-AAAAAAAAAEsAAAAAAAAAAGSqutK7EdeiLrB7rOERcX3Wts-q",
+        "thumbnail": "/media/cameras/21.gif?t=1692904187.5670562",
+        "url": "/21/g-pervouralsk-perekriostok-lenina-kosmonavtov/"
+    },
+    {
+        "id": 75,
+        "full_address": "г. Первоуральск, городок на Космонавтов 24А",
+        "latitude": "56.912545",
+        "longitude": "59.934142",
+        "coords": [
+            56.912545,
+            59.934142
+        ],
+        "m3u8": "https://video.interra.ru/glaz.naroda.58-325d894e4a/index.m3u8?token=3.9CzUU5u-AAAAAAAAAEsAAAAAAAAAAM2O7iBnjIWi2ybQb1fG-zwj5IvU",
+        "thumbnail": "/media/cameras/75.gif?t=1692904187.5674934",
+        "url": "/75/g-pervouralsk-gorodok-na-kosmonavtov-24a/"
+    },
+    {
+        "id": 42,
+        "full_address": "г. Первоуральск, проспект Космонавтов, д. 19",
+        "latitude": "56.912181",
+        "longitude": "59.932502",
+        "coords": [
+            56.912181,
+            59.932502
+        ],
+        "m3u8": "https://video.interra.ru/glaz.naroda.27-f7e81f7bce/index.m3u8?token=3.9CzUU5u-AAAAAAAAAEsAAAAAAAAAAO8-2_rSX0V2qDVJqjDxFP68eVEC",
+        "thumbnail": "/media/cameras/42.gif?t=1692904187.5679016",
+        "url": "/42/g-pervouralsk-prospekt-kosmonavtov-d-19/"
+    },
+    {
+        "id": 24,
+        "full_address": "г. Первоуральск, перекрёсток у ТЦ МАРС",
+        "latitude": "56.910243",
+        "longitude": "59.932251",
+        "coords": [
+            56.910243,
+            59.932251
+        ],
+        "m3u8": "https://video.interra.ru/glaz.naroda.9-ec155e8f81/index.m3u8?token=3.9CzUU5u-AAAAAAAAAEsAAAAAAAAAABayd-WjYHvATlrPCoSRCB9Qhp7t",
+        "thumbnail": "/media/cameras/24.gif?t=1692904187.568398",
+        "url": "/24/g-pervouralsk-perekriostok-u-tts-mars/"
+    },
+    {
+        "id": 33,
+        "full_address": "г. Первоуральск, перекрёсток Ильича-Космонавтов",
+        "latitude": "56.905359",
+        "longitude": "59.931310",
+        "coords": [
+            56.905359,
+            59.93131
+        ],
+        "m3u8": "https://video.interra.ru/glaz.naroda.14-e22ee71ce0/index.m3u8?token=3.9CzUU5u-AAAAAAAAAEsAAAAAAAAAAFIbXU9oIOtGLTqz6DiX5-QogJFE",
+        "thumbnail": "/media/cameras/33.gif?t=1692904187.568809",
+        "url": "/33/g-pervouralsk-perekriostok-ilicha-kosmonavtov/"
+    },
+    {
+        "id": 43,
+        "full_address": "г. Первоуральск, Набережная пруда",
+        "latitude": "56.914118",
+        "longitude": "59.944164",
+        "coords": [
+            56.914118,
+            59.944164
+        ],
+        "m3u8": "https://video.interra.ru/glaz.naroda.25-4cc98d0789/index.m3u8?token=3.9CzUU5u-AAAAAAAAAEsAAAAAAAAAAHRsHgp_0qihUk_HBzu17ck8D_Mh",
+        "thumbnail": "/media/cameras/43.gif?t=1692904187.5692148",
+        "url": "/43/g-pervouralsk-naberezhnaia-pruda/"
+    },
+    {
+        "id": 70,
+        "full_address": "г. Первоуральск, городок на Ватутина 73А",
+        "latitude": "56.912112",
+        "longitude": "59.939893",
+        "coords": [
+            56.912112,
+            59.939893
+        ],
+        "m3u8": "https://video.interra.ru/glaz.naroda.52-c545c61581/index.m3u8?token=3.9CzUU5u-AAAAAAAAAEsAAAAAAAAAAMwF4vbgklc7SJpvHTc_-PXIDtnG",
+        "thumbnail": "/media/cameras/70.gif?t=1692904187.5696375",
+        "url": "/70/g-pervouralsk-gorodok-na-vatutina-73a/"
+    },
+    {
+        "id": 35,
+        "full_address": "г. Первоуральск, перекрёсток Ватутина-Советская",
+        "latitude": "56.909833",
+        "longitude": "59.943034",
+        "coords": [
+            56.909833,
+            59.943034
+        ],
+        "m3u8": "https://video.interra.ru/glaz.naroda.21-19bcd33f7f/index.m3u8?token=3.9CzUU5u-AAAAAAAAAEsAAAAAAAAAACI80V-ezRrkIeJGCOuiLqMO3L1t",
+        "thumbnail": "/media/cameras/35.gif?t=1692904187.5700438",
+        "url": "/35/g-pervouralsk-perekriostok-vatutina-sovetskaia/"
+    },
+    {
+        "id": 38,
+        "full_address": "г. Первоуральск, Аллея к пруду",
+        "latitude": "56.908155",
+        "longitude": "59.943641",
+        "coords": [
+            56.908155,
+            59.943641
+        ],
+        "m3u8": "https://video.interra.ru/glaz.naroda.29-1c63155041/index.m3u8?token=3.9CzUU5u-AAAAAAAAAEsAAAAAAAAAAAA7leZJfczXfTUxqdcWm1UMTIYE",
+        "thumbnail": "/media/cameras/38.gif?t=1692904187.5704474",
+        "url": "/38/g-pervouralsk-alleia-k-prudu/"
+    },
+    {
+        "id": 23,
+        "full_address": "г. Первоуральск, площадь Победы",
+        "latitude": "56.905064",
+        "longitude": "59.942238",
+        "coords": [
+            56.905064,
+            59.942238
+        ],
+        "m3u8": "https://video.interra.ru/glaz.naroda.8-c53ad07719/index.m3u8?token=3.9CzUU5u-AAAAAAAAAEsAAAAAAAAAAMLD72VML0zTKX93CIDenlWj9dKt",
+        "thumbnail": "/media/cameras/23.gif?t=1692904187.570854",
+        "url": "/23/g-pervouralsk-ploshchad-pobedy/"
+    },
+    {
+        "id": 22,
+        "full_address": "г. Первоуральск, площадь Победы",
+        "latitude": "56.905116",
+        "longitude": "59.943909",
+        "coords": [
+            56.905116,
+            59.943909
+        ],
+        "m3u8": "https://video.interra.ru/glaz.naroda.6-e95ca11965/index.m3u8?token=3.9CzUU5u-AAAAAAAAAEsAAAAAAAAAAERg-Eq8wmNvtnbw14DBkGUbvN4L",
+        "thumbnail": "/media/cameras/22.gif?t=1692904187.571263",
+        "url": "/22/g-pervouralsk-ploshchad-pobedy/"
+    },
+    {
+        "id": 71,
+        "full_address": "г. Первоуральск, городок на Ватутина 39",
+        "latitude": "56.904263",
+        "longitude": "59.941867",
+        "coords": [
+            56.904263,
+            59.941867
+        ],
+        "m3u8": "https://video.interra.ru/glaz.naroda.50-d1594bfcf1/index.m3u8?token=3.9CzUU5u-AAAAAAAAAEsAAAAAAAAAAAMfSyHUIBc1FkZJ7XavAw51GQnn",
+        "thumbnail": "/media/cameras/71.gif?t=1692904187.5716748",
+        "url": "/71/g-pervouralsk-gorodok-na-vatutina-39/"
+    },
+    {
+        "id": 74,
+        "full_address": "г. Первоуральск, городок на Ватутина 31",
+        "latitude": "56.902464",
+        "longitude": "59.941620",
+        "coords": [
+            56.902464,
+            59.94162
+        ],
+        "m3u8": "https://video.interra.ru/glaz.naroda.59-bb4fd0b47a/index.m3u8?token=3.9CzUU5u-AAAAAAAAAEsAAAAAAAAAAA3NsXVHmDdwM3b8mOlIOnqae9Oi",
+        "thumbnail": "/media/cameras/74.gif?t=1692904187.572083",
+        "url": "/74/g-pervouralsk-gorodok-na-vatutina-31/"
+    },
+    {
+        "id": 63,
+        "full_address": "г. Первоуральск, вход в Парк",
+        "latitude": "56.902019",
+        "longitude": "59.940215",
+        "coords": [
+            56.902019,
+            59.940215
+        ],
+        "m3u8": "https://video.interra.ru/glaz.naroda.49-8793eb0dfd/index.m3u8?token=3.9CzUU5u-AAAAAAAAAEsAAAAAAAAAAGjW16v09aaEopwcTjZLvfXQJM6m",
+        "thumbnail": "/media/cameras/63.gif?t=1692904187.5725653",
+        "url": "/63/g-pervouralsk-vkhod-v-park/"
+    },
+    {
+        "id": 62,
+        "full_address": "г. Первоуральск, перекрёсток Ватутина-Герцена",
+        "latitude": "56.901902",
+        "longitude": "59.942693",
+        "coords": [
+            56.901902,
+            59.942693
+        ],
+        "m3u8": "https://video.interra.ru/glaz.naroda.46-b14600392b/index.m3u8?token=3.9CzUU5u-AAAAAAAAAEsAAAAAAAAAAHpTPCtN6QpR7RIyY4vRpTA9_ny7",
+        "thumbnail": "/media/cameras/62.gif?t=1692904187.5729766",
+        "url": "/62/g-pervouralsk-perekriostok-vatutina-gertsena/"
+    },
+    {
+        "id": 61,
+        "full_address": "г. Первоуральск, перекрёсток Ватутина-Папанинцев",
+        "latitude": "56.899564",
+        "longitude": "59.942200",
+        "coords": [
+            56.899564,
+            59.9422
+        ],
+        "m3u8": "https://video.interra.ru/glaz.naroda.47-f3ebf6b95c/index.m3u8?token=3.9CzUU5u-AAAAAAAAAEsAAAAAAAAAAJwfkzSpW2cCjiundMLGdO1LI5XW",
+        "thumbnail": "/media/cameras/61.gif?t=1692904187.573385",
+        "url": "/61/g-pervouralsk-perekriostok-vatutina-papanintsev/"
+    },
+    {
+        "id": 60,
+        "full_address": "г. Первоуральск, перекрёсток Ватутина-Володарского",
+        "latitude": "56.896605",
+        "longitude": "59.941728",
+        "coords": [
+            56.896605,
+            59.941728
+        ],
+        "m3u8": "https://video.interra.ru/glaz.naroda.48-96160aaa09/index.m3u8?token=3.9CzUU5u-AAAAAAAAAEsAAAAAAAAAAJJQBHdEhiU9vJNpfTYkNKLzmstk",
+        "thumbnail": "/media/cameras/60.gif?t=1692904187.573789",
+        "url": "/60/g-pervouralsk-perekriostok-vatutina-volodarskogo/"
+    },
+    {
+        "id": 44,
+        "full_address": "г. Первоуральск, перекрёсток Ватутина-Гагарина",
+        "latitude": "56.893412",
+        "longitude": "59.941192",
+        "coords": [
+            56.893412,
+            59.941192
+        ],
+        "m3u8": "https://video.interra.ru/glaz.naroda.33-fad92591aa/index.m3u8?token=3.9CzUU5u-AAAAAAAAAEsAAAAAAAAAAIa8SSqK1QMAsi8pjhoKshKM6xE8",
+        "thumbnail": "/media/cameras/44.gif?t=1692904187.5741954",
+        "url": "/44/g-pervouralsk-perekriostok-vatutina-gagarina/"
+    },
+    {
+        "id": 65,
+        "full_address": "г. Первоуральск, перекрёсток Чкалова-Ильича",
+        "latitude": "56.904597",
+        "longitude": "59.948616",
+        "coords": [
+            56.904597,
+            59.948616
+        ],
+        "m3u8": "https://video.interra.ru/glaz.naroda.3-50c57ffd3e/index.m3u8?token=3.9CzUU5u-AAAAAAAAAEsAAAAAAAAAAEzXxV8plI46SBNwkpSd2yhh2ukr",
+        "thumbnail": "/media/cameras/65.gif?t=1692904187.5746276",
+        "url": "/65/g-pervouralsk-perekriostok-chkalova-ilicha/"
+    },
+    {
+        "id": 64,
+        "full_address": "г. Первоуральск, перекрёсток Чкалова-Герцена",
+        "latitude": "56.901638",
+        "longitude": "59.948208",
+        "coords": [
+            56.901638,
+            59.948208
+        ],
+        "m3u8": "https://video.interra.ru/glaz.naroda.45-b9b0186773/index.m3u8?token=3.9CzUU5u-AAAAAAAAAEsAAAAAAAAAAKOgh_KQet820Aojm4hVAre5zr_Y",
+        "thumbnail": "/media/cameras/64.gif?t=1692904187.5750346",
+        "url": "/64/g-pervouralsk-perekriostok-chkalova-gertsena/"
+    },
+    {
+        "id": 77,
+        "full_address": "г. Первоуральск, перекрёсток Чкалова-Папанинцев",
+        "latitude": "56.899195",
+        "longitude": "59.947843",
+        "coords": [
+            56.899195,
+            59.947843
+        ],
+        "m3u8": "https://video.interra.ru/glaz.naroda.61-93ff24e89c/index.m3u8?token=3.9CzUU5u-AAAAAAAAAEsAAAAAAAAAAOIKxHk6pLXSg7uzNTYQiziq1vv0",
+        "thumbnail": "/media/cameras/77.gif?t=1692904187.5754406",
+        "url": "/77/g-pervouralsk-perekriostok-chkalova-papanintsev/"
+    },
+    {
+        "id": 19,
+        "full_address": "г. Первоуральск, перекрёсток Ленина-Береговая",
+        "latitude": "56.914045",
+        "longitude": "59.947819",
+        "coords": [
+            56.914045,
+            59.947819
+        ],
+        "m3u8": "https://video.interra.ru/glaz.naroda.4-f9c1801660/index.m3u8?token=3.9CzUU5u-AAAAAAAAAEsAAAAAAAAAAC6_-QWK7Oa_TX1NSSJE_HeyndsS",
+        "thumbnail": "/media/cameras/19.gif?t=1692904187.5758476",
+        "url": "/19/g-pervouralsk-perekriostok-lenina-beregovaia/"
+    },
+    {
+        "id": 20,
+        "full_address": "г. Первоуральск, перекрёсток Ленина-Чекистов",
+        "latitude": "56.911272",
+        "longitude": "59.949549",
+        "coords": [
+            56.911272,
+            59.949549
+        ],
+        "m3u8": "https://video.interra.ru/glaz.naroda.16-897b63c02e/index.m3u8?token=3.9CzUU5u-AAAAAAAAAEsAAAAAAAAAAHfcNBWdZQidGwgTapgnrm7onPjz",
+        "thumbnail": "/media/cameras/20.gif?t=1692904187.576342",
+        "url": "/20/g-pervouralsk-perekriostok-lenina-chekistov/"
+    },
+    {
+        "id": 84,
+        "full_address": "г. Первоуральск, перекрёсток Ленина-Ильича",
+        "latitude": "56.904910",
+        "longitude": "59.953200",
+        "coords": [
+            56.90491,
+            59.9532
+        ],
+        "m3u8": "https://video.interra.ru/glaz.naroda.65-9259fce158/index.m3u8?token=3.9CzUU5u-AAAAAAAAAEsAAAAAAAAAAD4jfac0sy8Ay91TN-JfzCG_2kIT",
+        "thumbnail": "/media/cameras/84.gif?t=1692904187.576753",
+        "url": "/84/g-pervouralsk-perekriostok-lenina-ilicha/"
+    },
+    {
+        "id": 80,
+        "full_address": "г. Первоуральск, перекрёсток Ленина-Ильича-Трубников",
+        "latitude": "56.904714",
+        "longitude": "59.953680",
+        "coords": [
+            56.904714,
+            59.95368
+        ],
+        "m3u8": "https://video.interra.ru/glaz.naroda.37-7fdf4aae90/index.m3u8?token=3.9CzUU5u-AAAAAAAAAEsAAAAAAAAAAMtG4TISG-aM51pFWZXAzETyJjBk",
+        "thumbnail": "/media/cameras/80.gif?t=1692904187.5771601",
+        "url": "/80/g-pervouralsk-perekriostok-lenina-ilicha-trubnikov/"
+    },
+    {
+        "id": 48,
+        "full_address": "г. Первоуральск, перекрёсток Трубников-Герцена",
+        "latitude": "56.901422",
+        "longitude": "59.952629",
+        "coords": [
+            56.901422,
+            59.952629
+        ],
+        "m3u8": "https://video.interra.ru/glaz.naroda.28-375f2cc29e/index.m3u8?token=3.9CzUU5u-AAAAAAAAAEsAAAAAAAAAAIoZ6VpaxgZ4XY5ziRR2M3WlfZ8G",
+        "thumbnail": "/media/cameras/48.gif?t=1692904187.5775697",
+        "url": "/48/g-pervouralsk-perekriostok-trubnikov-gertsena/"
+    },
+    {
+        "id": 18,
+        "full_address": "г. Первоуральск, перекрёсток Трубников-Папанинцев",
+        "latitude": "56.899270",
+        "longitude": "59.952324",
+        "coords": [
+            56.89927,
+            59.952324
+        ],
+        "m3u8": "https://video.interra.ru/glaz.naroda.30-9c8902aa36/index.m3u8?token=3.9CzUU5u-AAAAAAAAAEsAAAAAAAAAAJBCgbnYpxS3mek33e5gRgkpUovi",
+        "thumbnail": "/media/cameras/18.gif?t=1692904187.577979",
+        "url": "/18/g-pervouralsk-perekriostok-trubnikov-papanintsev/"
+    },
+    {
+        "id": 68,
+        "full_address": "г. Первоуральск, городок на Трубников 18",
+        "latitude": "56.898275",
+        "longitude": "59.950793",
+        "coords": [
+            56.898275,
+            59.950793
+        ],
+        "m3u8": "https://video.interra.ru/glaz.naroda.55-54ef54f9e3/index.m3u8?token=3.9CzUU5u-AAAAAAAAAEsAAAAAAAAAAA6yaKOUb-_vpPiSUHnDpjB6uoWg",
+        "thumbnail": "/media/cameras/68.gif?t=1692904187.5783873",
+        "url": "/68/g-pervouralsk-gorodok-na-trubnikov-18/"
+    },
+    {
+        "id": 83,
+        "full_address": "г. Первоуральск, перекрёсток Трубников-Школьная",
+        "latitude": "56.897020",
+        "longitude": "59.951950",
+        "coords": [
+            56.89702,
+            59.95195
+        ],
+        "m3u8": "https://video.interra.ru/glaz.naroda.66-b159aa74ae/index.m3u8?token=3.9CzUU5u-AAAAAAAAAEsAAAAAAAAAAJNlXnd-BYmT1KeOk-BeOUlyW6eH",
+        "thumbnail": "/media/cameras/83.gif?t=1692904187.5787966",
+        "url": "/83/g-pervouralsk-perekriostok-trubnikov-shkolnaia/"
+    },
+    {
+        "id": 17,
+        "full_address": "г. Первоуральск, ул. Трубников, д. 48А",
+        "latitude": "56.896239",
+        "longitude": "59.954899",
+        "coords": [
+            56.896239,
+            59.954899
+        ],
+        "m3u8": "https://video.interra.ru/glaz.naroda.2-d44ac2f9a1/index.m3u8?token=3.9CzUU5u-AAAAAAAAAEsAAAAAAAAAAOC0Xneu_dgkqi3C2-89b1pnDz3Q",
+        "thumbnail": "/media/cameras/17.gif?t=1692904187.5792031",
+        "url": "/17/g-pervouralsk-ul-trubnikov-d-48a/"
+    },
+    {
+        "id": 16,
+        "full_address": "г. Первоуральск, ул. Трубников, д. 48Б",
+        "latitude": "56.895814",
+        "longitude": "59.953545",
+        "coords": [
+            56.895814,
+            59.953545
+        ],
+        "m3u8": "https://video.interra.ru/glaz.naroda.1-b9bf240c31/index.m3u8?token=3.9CzUU5u-AAAAAAAAAEsAAAAAAAAAAEEzR5RzVwcToaA1c7TY5HFolQih",
+        "thumbnail": "/media/cameras/16.gif?t=1692904187.57963",
+        "url": "/16/g-pervouralsk-ul-trubnikov-d-48b/"
+    },
+    {
+        "id": 40,
+        "full_address": "г. Первоуральск, перекрёсток Трубников-Гагарина",
+        "latitude": "56.892938",
+        "longitude": "59.951341",
+        "coords": [
+            56.892938,
+            59.951341
+        ],
+        "m3u8": "https://video.interra.ru/glaz.naroda.24-69cceddd29/index.m3u8?token=3.9CzUU5u-AAAAAAAAAEsAAAAAAAAAAMazOHIUsRy3Mt-UDLgR0K3hi9ET",
+        "thumbnail": "/media/cameras/40.gif?t=1692904187.580037",
+        "url": "/40/g-pervouralsk-perekriostok-trubnikov-gagarina/"
+    },
+    {
+        "id": 88,
+        "full_address": "г. Первоуральск, ул. Трубников, д. 38А",
+        "latitude": "56.890510",
+        "longitude": "59.952325",
+        "coords": [
+            56.89051,
+            59.952325
+        ],
+        "m3u8": "https://video.interra.ru/glaz.naroda.67-0d8dc38740/index.m3u8?token=3.9CzUU5u-AAAAAAAAAEsAAAAAAAAAAK_iImkXZ2emOfQcgYkfUq1nDbya",
+        "thumbnail": "/media/cameras/88.gif?t=1692904187.5805054",
+        "url": "/88/g-pervouralsk-ul-trubnikov-d-38a/"
+    },
+    {
+        "id": 69,
+        "full_address": "г. Первоуральск, городок на Комсомольской 19Б",
+        "latitude": "56.894730",
+        "longitude": "59.957242",
+        "coords": [
+            56.89473,
+            59.957242
+        ],
+        "m3u8": "https://video.interra.ru/glaz.naroda.54-672bb88d81/index.m3u8?token=3.9CzUU5u-AAAAAAAAAEsAAAAAAAAAAIF_evtxqlooQVMfr6uLbeynWN_N",
+        "thumbnail": "/media/cameras/69.gif?t=1692904187.580915",
+        "url": "/69/g-pervouralsk-gorodok-na-komsomolskoi-19b/"
+    },
+    {
+        "id": 72,
+        "full_address": "г. Первоуральск, городок на Комсомольской 17",
+        "latitude": "56.894706",
+        "longitude": "59.958840",
+        "coords": [
+            56.894706,
+            59.95884
+        ],
+        "m3u8": "https://video.interra.ru/glaz.naroda.60-ac7e667e2f/index.m3u8?token=3.9CzUU5u-AAAAAAAAAEsAAAAAAAAAAN5isg9x7newf0_WfYnSIn1oDw4X",
+        "thumbnail": "/media/cameras/72.gif?t=1692904187.5813777",
+        "url": "/72/g-pervouralsk-gorodok-na-komsomolskoi-17/"
+    },
+    {
+        "id": 27,
+        "full_address": "г. Первоуральск, п. Хромпик, круговой перекрёсток",
+        "latitude": "56.894299",
+        "longitude": "59.962867",
+        "coords": [
+            56.894299,
+            59.962867
+        ],
+        "m3u8": "https://video.interra.ru/glaz.naroda.12-d08cad7467/index.m3u8?token=3.9CzUU5u-AAAAAAAAAEsAAAAAAAAAAKvyPiFClCXW59V62gPZ54Tb3LK8",
+        "thumbnail": "/media/cameras/27.gif?t=1692904187.5820193",
+        "url": "/27/g-pervouralsk-p-khrompik-krugovoi-perekriostok/"
+    },
+    {
+        "id": 76,
+        "full_address": "г. Первоуральск, городок на Комсомольской 5",
+        "latitude": "56.891237",
+        "longitude": "59.963850",
+        "coords": [
+            56.891237,
+            59.96385
+        ],
+        "m3u8": "https://video.interra.ru/glaz.naroda.53-1bb594c9df/index.m3u8?token=3.9CzUU5u-AAAAAAAAAEsAAAAAAAAAABJx-TnvRsPFMrRQUiIEnVZQoPPz",
+        "thumbnail": "/media/cameras/76.gif?t=1692904187.5824707",
+        "url": "/76/g-pervouralsk-gorodok-na-komsomolskoi-5/"
+    },
+    {
+        "id": 59,
+        "full_address": "г. Первоуральск, городок на Береговой 20",
+        "latitude": "56.917225",
+        "longitude": "59.948894",
+        "coords": [
+            56.917225,
+            59.948894
+        ],
+        "m3u8": "https://video.interra.ru/glaz.naroda.44-32385082cf/index.m3u8?token=3.9CzUU5u-AAAAAAAAAEsAAAAAAAAAAIwbBQOmcTMZvsUX7k2S3GDZHYqe",
+        "thumbnail": "/media/cameras/59.gif?t=1692904187.5828831",
+        "url": "/59/g-pervouralsk-gorodok-na-beregovoi-20/"
+    },
+    {
+        "id": 67,
+        "full_address": "г. Первоуральск, городок на Бульваре Юности 24",
+        "latitude": "56.918109",
+        "longitude": "59.952596",
+        "coords": [
+            56.918109,
+            59.952596
+        ],
+        "m3u8": "https://video.interra.ru/glaz.naroda.56-a233a0e26a/index.m3u8?token=3.9CzUU5u-AAAAAAAAAEsAAAAAAAAAANNcgBzXP78QH5ReNKy-uHuuRP5d",
+        "thumbnail": "/media/cameras/67.gif?t=1692904187.58329",
+        "url": "/67/g-pervouralsk-gorodok-na-bulvare-iunosti-24/"
+    },
+    {
+        "id": 66,
+        "full_address": "г. Первоуральск, городок на Береговой 56",
+        "latitude": "56.920586",
+        "longitude": "59.953207",
+        "coords": [
+            56.920586,
+            59.953207
+        ],
+        "m3u8": "https://video.interra.ru/glaz.naroda.51-379e48c3ca/index.m3u8?token=3.9CzUU5u-AAAAAAAAAEsAAAAAAAAAAEFhl-Cj5Uqxwn9SCt_xZIDsaB32",
+        "thumbnail": "/media/cameras/66.gif?t=1692904187.5836995",
+        "url": "/66/g-pervouralsk-gorodok-na-beregovoi-56/"
+    },
+    {
+        "id": 54,
+        "full_address": "г. Первоуральск, перекрёсток Данилова-Чекистов",
+        "latitude": "56.912025",
+        "longitude": "59.954366",
+        "coords": [
+            56.912025,
+            59.954366
+        ],
+        "m3u8": "https://video.interra.ru/glaz.naroda.41-689af1f0f5/index.m3u8?token=3.9CzUU5u-AAAAAAAAAEsAAAAAAAAAAIk2Oi2v6utpI-VnnCkOoTecKOBo",
+        "thumbnail": "/media/cameras/54.gif?t=1692904187.584108",
+        "url": "/54/g-pervouralsk-perekriostok-danilova-chekistov/"
+    },
+    {
+        "id": 56,
+        "full_address": "г. Первоуральск, перекрёсток Данилова-Краснодонцев",
+        "latitude": "56.907438",
+        "longitude": "59.953583",
+        "coords": [
+            56.907438,
+            59.953583
+        ],
+        "m3u8": "https://video.interra.ru/glaz.naroda.40-70e440be67/index.m3u8?token=3.9CzUU5u-AAAAAAAAAEsAAAAAAAAAAHiw7qBs2t__8Eh8QuInL9_7TbC9",
+        "thumbnail": "/media/cameras/56.gif?t=1692904187.5845635",
+        "url": "/56/g-pervouralsk-perekriostok-danilova-krasnodontsev/"
+    },
+    {
+        "id": 41,
+        "full_address": "г. Первоуральск, перекрёсток Строителей-Громовой",
+        "latitude": "56.911850",
+        "longitude": "59.957496",
+        "coords": [
+            56.91185,
+            59.957496
+        ],
+        "m3u8": "https://video.interra.ru/glaz.naroda.18-5d5aa2fe13/index.m3u8?token=3.9CzUU5u-AAAAAAAAAEsAAAAAAAAAAO_LrHz5W9KkkYQHjF2usKCNFkq2",
+        "thumbnail": "/media/cameras/41.gif?t=1692904187.5849714",
+        "url": "/41/g-pervouralsk-perekriostok-stroitelei-gromovoi/"
+    },
+    {
+        "id": 73,
+        "full_address": "г. Первоуральск, городок на Строителей 18",
+        "latitude": "56.910408",
+        "longitude": "59.958829",
+        "coords": [
+            56.910408,
+            59.958829
+        ],
+        "m3u8": "https://video.interra.ru/glaz.naroda.57-9d2cbe0603/index.m3u8?token=3.9CzUU5u-AAAAAAAAAEsAAAAAAAAAAAdfooZ6iTIEeERYVDlkjiCi8aXE",
+        "thumbnail": "/media/cameras/73.gif?t=1692904187.585407",
+        "url": "/73/g-pervouralsk-gorodok-na-stroitelei-18/"
+    },
+    {
+        "id": 52,
+        "full_address": "г. Первоуральск, перекрёсток Строителей-Краснодонцев",
+        "latitude": "56.907283",
+        "longitude": "59.956689",
+        "coords": [
+            56.907283,
+            59.956689
+        ],
+        "m3u8": "https://video.interra.ru/glaz.naroda.39-1360aa09c3/index.m3u8?token=3.9CzUU5u-AAAAAAAAAEsAAAAAAAAAALTmT7aXbt8EQvVoTSh6S6o0Yq3h",
+        "thumbnail": "/media/cameras/52.gif?t=1692904187.5858152",
+        "url": "/52/g-pervouralsk-perekriostok-stroitelei-krasnodontsev/"
+    },
+    {
+        "id": 45,
+        "full_address": "г. Первоуральск, перекрёсток Вайнера-Береговая",
+        "latitude": "56.918555",
+        "longitude": "59.957542",
+        "coords": [
+            56.918555,
+            59.957542
+        ],
+        "m3u8": "https://video.interra.ru/glaz.naroda.35-34558b3c59/index.m3u8?token=3.9CzUU5u-AAAAAAAAAEsAAAAAAAAAAITInK__BfhI-SNrKd4BoSBIdiy6",
+        "thumbnail": "/media/cameras/45.gif?t=1692904187.5862224",
+        "url": "/45/g-pervouralsk-perekriostok-vainera-beregovaia/"
+    },
+    {
+        "id": 81,
+        "full_address": "г. Первоуральск, Строительство мини-парка на Вайнера 33",
+        "latitude": "56.913248",
+        "longitude": "59.961093",
+        "coords": [
+            56.913248,
+            59.961093
+        ],
+        "m3u8": "https://video.interra.ru/glaz.naroda.63-22970c3eb7/index.m3u8?token=3.9CzUU5u-AAAAAAAAAEsAAAAAAAAAAA9y43fUBRClS0Bt8uaB9A34JigY",
+        "thumbnail": "/media/cameras/81.gif?t=1692904187.5866344",
+        "url": "/81/g-pervouralsk-stroitelstvo-mini-parka-na-vainera-33/"
+    },
+    {
+        "id": 29,
+        "full_address": "г. Первоуральск, перекрёсток Вайнера-Кольцевая",
+        "latitude": "56.912579",
+        "longitude": "59.963601",
+        "coords": [
+            56.912579,
+            59.963601
+        ],
+        "m3u8": "https://video.interra.ru/glaz.naroda.13-8ca559e5bd/index.m3u8?token=3.9CzUU5u-AAAAAAAAAEsAAAAAAAAAAHnTWKNTMOM5rCvtiNGNm0myL4_i",
+        "thumbnail": "/media/cameras/29.gif?t=1692904187.58707",
+        "url": "/29/g-pervouralsk-perekriostok-vainera-koltsevaia/"
+    },
+    {
+        "id": 46,
+        "full_address": "г. Первоуральск, перекрёсток Вайнера-Громовой",
+        "latitude": "56.911503",
+        "longitude": "59.963164",
+        "coords": [
+            56.911503,
+            59.963164
+        ],
+        "m3u8": "https://video.interra.ru/glaz.naroda.31-eea5bf8987/index.m3u8?token=3.9CzUU5u-AAAAAAAAAEsAAAAAAAAAAHOknDMgtjdyik3MonZ0V0XHxttc",
+        "thumbnail": "/media/cameras/46.gif?t=1692904187.5874808",
+        "url": "/46/g-pervouralsk-perekriostok-vainera-gromovoi/"
+    },
+    {
+        "id": 49,
+        "full_address": "г. Первоуральск, перекрёсток Вайнера-Краснодонцев",
+        "latitude": "56.906952",
+        "longitude": "59.962333",
+        "coords": [
+            56.906952,
+            59.962333
+        ],
+        "m3u8": "https://video.interra.ru/glaz.naroda.34-2e2f52f277/index.m3u8?token=3.9CzUU5u-AAAAAAAAAEsAAAAAAAAAAKoTLdlQ49cUdhpTIjMbEaD81ObK",
+        "thumbnail": "/media/cameras/49.gif?t=1692904187.5878866",
+        "url": "/49/g-pervouralsk-perekriostok-vainera-krasnodontsev/"
+    },
+    {
+        "id": 36,
+        "full_address": "г. Первоуральск, Детская площадка (Вайнера 7)",
+        "latitude": "56.906189",
+        "longitude": "59.960580",
+        "coords": [
+            56.906189,
+            59.96058
+        ],
+        "m3u8": "https://video.interra.ru/glaz.naroda.22-b2d0a595f3/index.m3u8?token=3.9CzUU5u-AAAAAAAAAEsAAAAAAAAAACTaWmEp4khv2gd3-im3FufakOUl",
+        "thumbnail": "/media/cameras/36.gif?t=1692904187.5884037",
+        "url": "/36/g-pervouralsk-detskaia-ploshchadka-vainera-7/"
+    },
+    {
+        "id": 37,
+        "full_address": "г. Первоуральск, Спортивная площадка (Вайнера 5)",
+        "latitude": "56.905688",
+        "longitude": "59.960489",
+        "coords": [
+            56.905688,
+            59.960489
+        ],
+        "m3u8": "https://video.interra.ru/glaz.naroda.23-3da0ddbcfc/index.m3u8?token=3.9CzUU5u-AAAAAAAAAEsAAAAAAAAAADOK1mWtvdTw5zUYvStJVMTQnypl",
+        "thumbnail": "/media/cameras/37.gif?t=1692904187.5888176",
+        "url": "/37/g-pervouralsk-sportivnaia-ploshchadka-vainera-5/"
+    },
+    {
+        "id": 47,
+        "full_address": "г. Первоуральск, ул. Вайнера, выезд от магазина СОМ",
+        "latitude": "56.904673",
+        "longitude": "59.961973",
+        "coords": [
+            56.904673,
+            59.961973
+        ],
+        "m3u8": "https://video.interra.ru/glaz.naroda.32-22975f2b2d/index.m3u8?token=3.9CzUU5u-AAAAAAAAAEsAAAAAAAAAAK1URRjrl3ZVkEB2-TSQx9RWcfJ4",
+        "thumbnail": "/media/cameras/47.gif?t=1692904187.5892248",
+        "url": "/47/g-pervouralsk-ul-vainera-vyezd-ot-magazina-som/"
+    },
+    {
+        "id": 34,
+        "full_address": "г. Первоуральск, Рынок",
+        "latitude": "56.903867",
+        "longitude": "59.960904",
+        "coords": [
+            56.903867,
+            59.960904
+        ],
+        "m3u8": "https://video.interra.ru/glaz.naroda.15-f1aebe0b86/index.m3u8?token=3.9CzUU5u-AAAAAAAAAEsAAAAAAAAAAE6FGwzY-dN05B6KQEcPQwJRO-If",
+        "thumbnail": "/media/cameras/34.gif?t=1692904187.5896533",
+        "url": "/34/g-pervouralsk-rynok/"
+    },
+    {
+        "id": 51,
+        "full_address": "г. Первоуральск, перекрёсток Вайнера-Ильича",
+        "latitude": "56.904058",
+        "longitude": "59.959162",
+        "coords": [
+            56.904058,
+            59.959162
+        ],
+        "m3u8": "https://video.interra.ru/glaz.naroda.36-f4d80dd3cf/index.m3u8?token=3.9CzUU5u-AAAAAAAAAEsAAAAAAAAAADTcF098EjzS7rQiDF-YOCAglQAS",
+        "thumbnail": "/media/cameras/51.gif?t=1692904187.5900617",
+        "url": "/51/g-pervouralsk-perekriostok-vainera-ilicha/"
+    },
+    {
+        "id": 82,
+        "full_address": "г. Первоуральск, городок на Трактовой 35",
+        "latitude": "56.903595",
+        "longitude": "59.906001",
+        "coords": [
+            56.903595,
+            59.906001
+        ],
+        "m3u8": "https://video.interra.ru/glaz.naroda.64-0b8cf0f593/index.m3u8?token=3.9CzUU5u-AAAAAAAAAEsAAAAAAAAAADPF1jT7GXygr0ZcAt4hb_BtU5H1",
+        "thumbnail": "/media/cameras/82.gif?t=1692904187.5904667",
+        "url": "/82/g-pervouralsk-gorodok-na-traktovoi-35/"
+    },
+    {
+        "id": 99,
+        "full_address": "г. Первоуральск, перекрёсток на улице Сантехизделий вблизи дома №28",
+        "latitude": "56.898451",
+        "longitude": "59.879831",
+        "coords": [
+            56.898451,
+            59.879831
+        ],
+        "m3u8": "https://video.interra.ru/glaz.naroda.68-470580056f/index.m3u8?token=3.9CzUU5u-AAAAAAAAAEsAAAAAAAAAAAIZMKpITECzm_bsql7jK8SaZjKw",
+        "thumbnail": "/media/cameras/99.gif?t=1692904187.5909033",
+        "url": "/99/g-pervouralsk-perekriostok-na-ulitse-santekhizdelii-vblizi-doma-28/"
+    },
+    {
+        "id": 25,
+        "full_address": "г. Первоуральск, п. Динас, круговой перекрёсток",
+        "latitude": "56.895938",
+        "longitude": "59.886182",
+        "coords": [
+            56.895938,
+            59.886182
+        ],
+        "m3u8": "https://video.interra.ru/glaz.naroda.11-067f37bc81/index.m3u8?token=3.9CzUU5u-AAAAAAAAAEsAAAAAAAAAAPHda2mNPXsjZy7VEGak5e4sOBnT",
+        "thumbnail": "/media/cameras/25.gif?t=1692904187.591564",
+        "url": "/25/g-pervouralsk-p-dinas-krugovoi-perekriostok/"
+    },
+    {
+        "id": 79,
+        "full_address": "г. Первоуральск, перекрёсток Ильича - 50 лет СССР",
+        "latitude": "56.890557",
+        "longitude": "59.888491",
+        "coords": [
+            56.890557,
+            59.888491
+        ],
+        "m3u8": "https://video.interra.ru/glaz.naroda.62-60daf9cda0/index.m3u8?token=3.9CzUU5u-AAAAAAAAAEsAAAAAAAAAACVZ-BLGA3sQS9m7AZXB5Nqz6BUm",
+        "thumbnail": "/media/cameras/79.gif?t=1692904187.5919871",
+        "url": "/79/g-pervouralsk-perekriostok-ilicha-50-let-sssr/"
+    },
+    {
+        "id": 39,
+        "full_address": "г. Первоуральск, п. Динас, площадь",
+        "latitude": "56.886816",
+        "longitude": "59.889676",
+        "coords": [
+            56.886816,
+            59.889676
+        ],
+        "m3u8": "https://video.interra.ru/glaz.naroda.26-024252e0b0/index.m3u8?token=3.9CzUU5u-AAAAAAAAAEsAAAAAAAAAAKTr6BLVi6H9m3oSl_WGJJvn-1Rt",
+        "thumbnail": "/media/cameras/39.gif?t=1692904187.5924623",
+        "url": "/39/g-pervouralsk-p-dinas-ploshchad/"
+    },
+    {
+        "id": 58,
+        "full_address": "г. Первоуральск, Талица, площадь",
+        "latitude": "56.881508",
+        "longitude": "60.002775",
+        "coords": [
+            56.881508,
+            60.002775
+        ],
+        "m3u8": "https://video.interra.ru/glaz.naroda.43-87d4fbf6cc/index.m3u8?token=3.9CzUU5u-AAAAAAAAAEsAAAAAAAAAAAXUr_rLHrrmCNr2AiAJsQAjpdsY",
+        "thumbnail": "/media/cameras/58.gif?t=1692904187.5930736",
+        "url": "/58/g-pervouralsk-talitsa-ploshchad/"
+    },
+    {
+        "id": 26,
+        "full_address": "г. Первоуральск, перекрёсток Талица - Сакко и Ванцетти",
+        "latitude": "56.882933",
+        "longitude": "60.010363",
+        "coords": [
+            56.882933,
+            60.010363
+        ],
+        "m3u8": "https://video.interra.ru/glaz.naroda.17-49dca37237/index.m3u8?token=3.9CzUU5u-AAAAAAAAAEsAAAAAAAAAAH29iQD9IXRCc-cgdRIXudyocrpu",
+        "thumbnail": "/media/cameras/26.gif?t=1692904187.5935206",
+        "url": "/26/g-pervouralsk-perekriostok-talitsa-sakko-i-vantsetti/"
+    },
+    {
+        "id": 53,
+        "full_address": "г. Первоуральск, перекрёсток Энгельса-Фурманова-Бурильщиков",
+        "latitude": "56.871846",
+        "longitude": "59.974687",
+        "coords": [
+            56.871846,
+            59.974687
+        ],
+        "m3u8": "https://video.interra.ru/glaz.naroda.42-097dc52569/index.m3u8?token=3.9CzUU5u-AAAAAAAAAEsAAAAAAAAAAA_mpHJ8uHP2H9Q1Zbhd5732id8N",
+        "thumbnail": "/media/cameras/53.gif?t=1692904187.5939329",
+        "url": "/53/g-pervouralsk-perekriostok-engelsa-furmanova-burilshchikov/"
+    }
+]

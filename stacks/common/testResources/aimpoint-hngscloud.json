@@ -1,0 +1,38 @@
+{
+    "deviceID": "69dbfbbc-f921-11ec-9d19-dcf401e89454"
+  , "enabled": true
+  , "collRegions": ["ap-northeast-2"]
+  , "collectionType": "HNGCLD"
+  , "accessUrl": "https://weixin.hngscloud.com"
+  , "pollFrequency": 10
+  , "concatenate": true
+  , "convertToMP4": true
+  , "filenameBase": "dcf401e89454"
+  , "finalFileSuffix": "_{year}-{month}-{day}-{hour}-{mins}"
+  , "longLat": [111.50441743125694, 33.32545228532618]
+  , "bucketPrefixTemplate": "aTest/{deviceID}/{year}{month}{day}"
+  , "headers": {
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:91.0) Gecko/20100101 Firefox/91.0"
+    , "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8"
+    , "Accept-Encoding": "gzip, deflate"
+    , "Accept-Language": "en-US,en;q=0.5"
+    , "Cache-Control": "max-age=0"
+    , "Connection": "keep-alive"
+    , "DNT": "1"
+    , "Origin": "https://weixin.hngscloud.com"
+    , "Referer": "https://weixin.hngscloud.com/"
+    , "Sec-Fetch-Dest": "empty"
+    , "Sec-Fetch-Mode": "cors"
+    , "Sec-Fetch-Site": "same-site"
+    }
+  , "devNotes": {
+      "startedOn": "January 2023"
+    , "country": "china"
+    , "road": "G40沪陕高速"
+    , "region": "西峡县"
+    , "name": "G40西峡收费站绿色通道K1234+707"
+    , "setBy": "edward22"
+    , "notes": "From automatic parser"
+    , "freqNote": "Playlist points to about 10 seconds worth of data"
+    }
+}

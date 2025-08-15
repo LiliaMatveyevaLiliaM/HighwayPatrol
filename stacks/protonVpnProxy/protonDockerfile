@@ -1,0 +1,99 @@
+# For testing as a local docker container, run these from the stacks/ directory
+# docker build -t <yourImageName> -f protonVpnProxy/protonDockerfile --no-cache .
+# docker run -it <yourImageName>
+# 
+# To get inside the image use:
+# docker run -it --entrypoint /bin/bash <yourImageName>
+
+FROM public.ecr.aws/ubuntu/ubuntu:22.04_stable
+
+# MITMproxy version
+ARG MITMPROXY_VERSION=10.1.1
+ARG CONTAINER_PORT
+
+# Set some defaults
+# These envVars are overidden on AWS ECS execution
+ENV ENV_FOR_DYNACONF test
+
+# Grab 'em if they were sent
+ARG ENV_FOR_DYNACONF
+ENV ENV_FOR_DYNACONF $ENV_FOR_DYNACONF
+
+RUN echo "CONTAINER_PORT: ${CONTAINER_PORT}"
+
+# Avoid tzdata prompting for timezone
+ENV TZ=Etc/UTC
+RUN ln -snf /usr/share/zoneinfo/$TZ /etc/localtime && echo $TZ > /etc/timezone
+
+# Update packages
+RUN apt update
+
+# Ensure fully automated installation
+RUN echo iptables-persistent iptables-persistent/autosave_v4 boolean true | debconf-set-selections && \
+    echo iptables-persistent iptables-persistent/autosave_v6 boolean true | debconf-set-selections
+
+# Install Python3 and necessary dependencies
+RUN apt install -y software-properties-common && \
+    add-apt-repository -y ppa:deadsnakes/ppa && \
+    apt install -y python3.9 && \
+    apt install -y python3-pip && \
+    apt install -y python3-setuptools && \
+    apt install -y openvpn && \
+    apt install -y awscli && \
+    apt install -y curl && \
+    apt install -y jq && \
+    apt install -y iptables-persistent && \
+    apt install -y git
+
+RUN apt-get update && \
+    apt-get install openresolv   
+
+RUN curl -s "https://raw.githubusercontent.com/ProtonVPN/scripts/master/update-resolv-conf.sh" -o "/etc/openvpn/update-resolv-conf" && \
+    chmod a+x "/etc/openvpn/update-resolv-conf"
+
+
+# Copy source, scripts, Proton OVPN files, etc.
+# For now, for deployment, need to manually copy
+# the OVPN files from S3 resources/ into stacks/ecsResources
+# TODO: Consider grabbing needed resources from S3 during deployment
+#       Would need to send bucket name from settings so we don't hard-code
+COPY ecsResources/* ./src/
+COPY protonVpnProxy/* ./src/
+# Important to NOT include the '*' here so it keeps the directory structure
+COPY common/src/python/ ./src/
+COPY systemResources/deploymentSettings.yaml ./src/
+
+
+RUN mv ./src/bootstrapProtonVpnProxy.sh ./bootstrapProtonVpnProxy.sh
+RUN mv ./src/protonContainerRequirements.txt ./protonContainerRequirements.txt
+
+RUN chmod a+x ./bootstrapProtonVpnProxy.sh && \
+    chmod a+x ./src/logError.py
+
+# Configure Python and install dependencies
+ENV PYTHONDONTWRITEBYTECODE=1
+ENV PYTHONUNBUFFERED=1
+RUN pip install --no-cache-dir -r protonContainerRequirements.txt
+
+# Create MITMproxy user; install binaries
+ENV MITMPROXY_BINARY=mitmdump
+ENV MITMPROXY_USER=mitmproxy
+RUN useradd -mU ${MITMPROXY_USER} && \
+    apt install -y gosu && \
+    cd /usr/local/bin && \
+    curl -s https://downloads.mitmproxy.org/${MITMPROXY_VERSION}/mitmproxy-${MITMPROXY_VERSION}-linux.tar.gz -o mitmproxy-linux.tgz && \
+    tar xvf mitmproxy-linux.tgz && \
+    rm -f mitmproxy-linux.tgz && \
+    chmod a+rx mitm*
+EXPOSE ${CONTAINER_PORT}
+
+# After the MITM user is created, move our shared CA certs there so it uses them
+# If we leave it on /src it breaks because that directory belongs to root
+RUN mkdir -p /home/${MITMPROXY_USER}/.mitmproxy/
+RUN mv ./src/mitmproxy-ca.pem /home/${MITMPROXY_USER}/.mitmproxy/mitmproxy-ca-cert.pem
+RUN chown ${MITMPROXY_USER} -R /home/${MITMPROXY_USER}/.mitmproxy/
+
+# This command is expected to be overidden when the job is submitted
+CMD ["./bootstrapProtonVpnProxy.sh", \
+    "-secret", "awsSecretName" \
+]

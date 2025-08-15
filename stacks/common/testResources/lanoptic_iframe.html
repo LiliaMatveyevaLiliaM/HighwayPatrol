@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="ru">
+	<head>
+		<link rel="stylesheet" type="text/css" href="/css/font-awesome/css/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/js/jquery-ui/jquery-ui.css" />
+<link rel="stylesheet" type="text/css" href="/css/fpst.ui.css" />
+<script type="text/javascript" src="/assets/6e91687e/JsTrans.js"></script>
+<script type="text/javascript" src="/assets/6e91687e/JsTrans.dictionary.cd099140e0.js"></script>
+<script type="text/javascript" src="/js/jquery.min.js"></script>
+<script type="text/javascript" src="/js/jquery-ui/jquery-ui.min.js"></script>
+<script type="text/javascript" src="/js/flv.min.js"></script>
+<script type="text/javascript" src="/js/fpst.min.js"></script>
+<script type="text/javascript" src="/js/fpst.ui.js"></script>
+<title></title>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+		<style>
+			#container {
+				position: relative;
+				display: inline-block;
+				border: 1px solid green;
+			}
+			#container * {
+				-moz-box-sizing: border-box;
+				-webkit-box-sizing: border-box;
+				box-sizing: border-box;
+			}
+			#image {
+				z-index: 9;
+				text-align: center;
+				border: 1px solid blue;
+			}
+			#play {
+				background: url('/images/play-icon.png') center center no-repeat;
+				margin: -120px 0px 0 0;
+				height: 140px;
+				position: relative;
+				z-index: 10;
+			}
+		</style>
+	</head>
+	<body style="padding: 0px; margin: 0px;">
+	<div class="jf-player_wrapper jf-flex-center">
+		<div style="width:640px; height:360px" class="jf-flex-center">
+				<div>
+					<video poster="https://video.lanoptic.ru/site/screenshot.html?guid=0a5e76df02d293d3192d" muted="muted"></video>
+					<div class="jf-controls_state">
+						<i class="fa fa-spin fa-spinner fa-lg jf-preload"></i>
+						<div style="display:inline-block; cursor:pointer"><i class="fa fa-play-circle-o fa-lg jf-play" title="Воспроизведение" style="display:none"></i><i class="fa fa-pause-circle-o fa-lg jf-pause" title="Пауза" style="display:none"></i></div>
+					</div>
+					<div class="jf-controls_av"><a class="jf-volume" href=""><div class="slider"></div><i class="fa fa-volume-off" title="Громкость"></i></a><a class="jf-fullscreen" href=""><i class="fa fa-arrows-alt" title="Полноэкранный режим"></i></a></div>
+					<img src="/images/logo.png"/></img>
+				</div>
+		</div>
+	</div>
+	<script>
+		(function(app, jq) {
+			var hasAudio = false;
+			var autoplay = false;
+			var protocol = "flv" && !app.utils.ua.isIE() ? "flv" : 'hls';
+			var container = jq('[class*="jf-player_wrapper"] > div');
+			if (hasAudio) {
+				container.find('[class*="jf-slider"]').slider().parent().show();
+			} else {
+				container.find('[class*="jf-slider"]').parent().remove();
+			}
+			container.videoplayer({
+				protocol: protocol,
+				autoplay: autoplay,
+				hasAudio: hasAudio,
+				volume: -1,
+				overlay: container.find('img').get(0)
+			});
+			container.videoplayer('play', 'https://video.lanoptic.ru:18080/rtsp/1716404/10cd3211cbaad2fe4213');
+		})(jFpst, jQuery);
+	</script> 
+	</body>
+</html>

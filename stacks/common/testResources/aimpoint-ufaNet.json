@@ -1,0 +1,21 @@
+{
+    "deviceID": "001-999-206"
+  , "enabled": true
+  , "collRegions": ["us-east-1"]
+  , "collectionType": "UFANET"
+  , "accessUrl": "http://maps.ufanet.ru/ufa#001-999-206"
+  , "pollFrequency": 28
+  , "concatenate": true
+  , "filenameBase": "{deviceID}"
+  , "longLat": [54.755647911, 55.967753218]
+  , "finalFileSuffix": "_{year}-{month}-{day}-{hour}-{mins}-{secs}"
+  , "bucketPrefixTemplate": "aTest/{deviceID}/{year}{month}{day}"
+  , "headers": {
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:91.0) Gecko/20100101 Firefox/91.0"
+    , "Accept": "*/*"
+    , "DNT": "1"
+    , "Connection": "keep-alive"
+    , "Pragma": "no-cache"
+    , "Cache-Control": "no-cache"
+    }
+}

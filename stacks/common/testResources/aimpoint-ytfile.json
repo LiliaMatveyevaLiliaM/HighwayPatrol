@@ -1,0 +1,17 @@
+{
+    "deviceID": "bunny"
+  , "enabled": true
+  , "collRegions": ["us-east-1"]
+  , "collectionType": "YTFILE"
+  , "accessUrl": "https://www.youtube.com/watch?v=EngW7tLk6R8"
+  , "longLat": [0, 0]
+  , "filenameBase": "{deviceID}"
+  , "finalFileSuffix": "_{epoch}"
+  , "bucketPrefixTemplate": "aTest/{deviceID}/{year}{month}{day}"
+  , "devNotes": {
+      "givenUrl": "https://www.youtube.com/watch?v=EngW7tLk6R8"
+    , "startedOn": ""
+    , "setBy": ""
+    , "notes": ""
+    }
+}

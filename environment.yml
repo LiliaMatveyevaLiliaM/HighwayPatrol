@@ -1,0 +1,8 @@
+name: hpatrol
+channels:
+  - defaults
+dependencies:
+  - python=3.13
+  - pip
+  - pip:
+    - -r devRequirements.txt

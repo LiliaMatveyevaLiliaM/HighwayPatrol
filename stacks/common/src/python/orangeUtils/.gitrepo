@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = git@git.opensource.gov:Mendeleev/orangeDevUtils.git
+	branch = master
+	commit = c9c25dc6856ed6903f882a03bd9826124735c62e
+	parent = c8500ecb90df055b6690c73ca9678209ad18ac4d
+	method = merge
+	cmdver = 0.4.3

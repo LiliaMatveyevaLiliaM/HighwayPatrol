@@ -1,0 +1,8 @@
+{
+    "notes": "Options are on, off, or decoy"
+  , "selections": {
+      "brst101-1-c1": "on"
+    , "brst101-2-c1": "off"
+    , "gml1": "decoy"
+    }
+}

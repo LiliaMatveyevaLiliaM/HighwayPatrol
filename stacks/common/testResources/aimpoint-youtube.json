@@ -1,0 +1,42 @@
+{
+    "deviceID": "gorillas"
+  , "enabled": true
+  , "collRegions": ["us-east-1"]
+  , "pollFrequency": 20
+  , "collectionType": "YOUTUB"
+  , "accessUrl": "https://www.youtube.com/watch?v=yfSyjwY6zSQ"
+  , "concatenate": true
+  , "singleCollector": false
+  , "convertToMP4": false
+  , "waitFraction": 0.1
+  , "longLat": [0, 0]
+  , "filenameBase": "{deviceID}"
+  , "finalFileSuffix": "_{epoch}"
+  , "bucketPrefixTemplate": "aTest/{deviceID}/{year}{month}{day}"
+  , "extractAudio": {
+      "enabled": true
+    , "deliveryKey": "ytaudios"
+    }
+  , "headers": {
+      "User-Agent": "User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:91.0) Gecko/20100101 Firefox/91.0"
+    , "Accept": "*/*"
+    , "Origin": ""
+    , "Sec-Fetch-Site": "same-site"
+    , "Sec-Fetch-Mode": "cors"
+    , "Connection": "keep-alive"
+    , "Accept-Language": "en-US,en;q=0.9"
+    , "Sec-Fetch-Dest": "empty"
+    , "Referer": ""
+    , "Accept-Encoding": "gzip, deflate, br"
+    , "DNT": "1"
+    , "Pragma": "no-cache"
+    , "Cache-Control": "no-cache"
+    }
+  , "devNotes": {
+      "givenUrl": "webcamera24.com/camera/usa/south-las-vegas-blvd"
+    , "startedOn": ""
+    , "setBy": ""
+    , "notes": ""
+    , "playlistRegexNotes": ""
+    }
+}

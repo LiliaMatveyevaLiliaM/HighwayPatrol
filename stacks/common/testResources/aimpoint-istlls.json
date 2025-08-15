@@ -1,0 +1,31 @@
+{
+    "deviceID": "00136"
+  , "enabled": true
+  , "collRegions": ["sa-east-1"]
+  , "collectionType": "ISTLLS"
+  , "accessUrl": "https://141.ir/map_services/cameras/136"
+  , "pollFrequency": 120
+  , "longLat": [0, 0]
+  , "filenameBase": "141ir-{deviceID}"
+  , "finalFileSuffix": "_{year}{month}{day}"
+  , "bucketPrefixTemplate": "aTest/{deviceID}/{year}{month}"
+  , "headers": {
+      "Host": "141.ir"
+    , "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0"
+    , "Accept": "*/*"
+    , "Accept-Language": "en-US,en;q=0.5"
+    , "DNT": "1"
+    , "Accept-Encoding": "gzip, deflate"
+    , "Connection": "keep-alive"
+    , "Referer": "https://141.ir/"
+    , "Sec-Fetch-Dest": "empty"
+    , "Sec-Fetch-Mode": "cors"
+    , "Sec-Fetch-Site": "same-origin"
+  }
+  , "devNotes": {
+      "givenUrl": "https://141.ir/cameras"
+    , "startedOn": "March 2025 on HP; overall since 2014 under task Iodine"
+    , "missionTLDN": "ir"
+    , "setBy": "reynaldn"
+    }
+}

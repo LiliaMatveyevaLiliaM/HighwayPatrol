@@ -1,0 +1,314 @@
+[
+    {
+        "id": 1,
+        "name": "Петрозаводск",
+        "key": "ptz",
+        "public_key": "ptz",
+        "latitude": "61.7864635",
+        "longitude": "34.4192200",
+        "center": {
+            "latitude": "61.7864635",
+            "longitude": "34.4192200"
+        },
+        "ymap_zoom": 14
+    },
+    {
+        "id": 3,
+        "name": "Кондопога",
+        "key": "kg",
+        "public_key": "kg",
+        "latitude": "62.2134740",
+        "longitude": "34.2835160",
+        "center": {
+            "latitude": "62.2134740",
+            "longitude": "34.2835160"
+        },
+        "ymap_zoom": 14
+    },
+    {
+        "id": 5,
+        "name": "Костомукша",
+        "key": "ks",
+        "public_key": "ks",
+        "latitude": "64.5880665",
+        "longitude": "30.5977055",
+        "center": {
+            "latitude": "64.5880665",
+            "longitude": "30.5977055"
+        },
+        "ymap_zoom": 14
+    },
+    {
+        "id": 7,
+        "name": "Сортавала",
+        "key": "st",
+        "public_key": "st",
+        "latitude": "61.6995040",
+        "longitude": "30.6850985",
+        "center": {
+            "latitude": "61.6995040",
+            "longitude": "30.6850985"
+        },
+        "ymap_zoom": 14
+    },
+    {
+        "id": 9,
+        "name": "Сегежа",
+        "key": "sg",
+        "public_key": "sg",
+        "latitude": "63.7423170",
+        "longitude": "34.3051650",
+        "center": {
+            "latitude": "63.7423170",
+            "longitude": "34.3051650"
+        },
+        "ymap_zoom": 14
+    },
+    {
+        "id": 11,
+        "name": "Медвежьегорск",
+        "key": "mg",
+        "public_key": "mg",
+        "latitude": "62.9126070",
+        "longitude": "34.4648855",
+        "center": {
+            "latitude": "62.9126070",
+            "longitude": "34.4648855"
+        },
+        "ymap_zoom": 14
+    },
+    {
+        "id": 13,
+        "name": "Апатиты",
+        "key": "ap",
+        "public_key": "ap",
+        "latitude": "67.5850890",
+        "longitude": "33.4138250",
+        "center": {
+            "latitude": "67.5850890",
+            "longitude": "33.4138250"
+        },
+        "ymap_zoom": 14
+    },
+    {
+        "id": 15,
+        "name": "Питкяранта",
+        "key": "ptk",
+        "public_key": "ptk",
+        "latitude": "61.5632465",
+        "longitude": "31.4705495",
+        "center": {
+            "latitude": "61.5632465",
+            "longitude": "31.4705495"
+        },
+        "ymap_zoom": 14
+    },
+    {
+        "id": 17,
+        "name": "Кандалакша",
+        "key": "kndl",
+        "public_key": "kndl",
+        "latitude": "67.1632115",
+        "longitude": "32.3976415",
+        "center": {
+            "latitude": "67.1632115",
+            "longitude": "32.3976415"
+        },
+        "ymap_zoom": 14
+    },
+    {
+        "id": 19,
+        "name": "Суоярви",
+        "key": "suo",
+        "public_key": "suo",
+        "latitude": "62.0984595",
+        "longitude": "32.3656395",
+        "center": {
+            "latitude": "62.0984595",
+            "longitude": "32.3656395"
+        },
+        "ymap_zoom": 14
+    },
+    {
+        "id": 23,
+        "name": "Лахденпохья",
+        "key": "ldh",
+        "public_key": "ldh",
+        "latitude": "61.5271180",
+        "longitude": "30.1541175",
+        "center": {
+            "latitude": "61.5271180",
+            "longitude": "30.1541175"
+        },
+        "ymap_zoom": 14
+    },
+    {
+        "id": 25,
+        "name": "Северодвинск",
+        "key": "it_svd",
+        "public_key": "svd",
+        "latitude": "64.5814270",
+        "longitude": "39.8339270",
+        "center": {
+            "latitude": "64.5814270",
+            "longitude": "39.8339270"
+        },
+        "ymap_zoom": 14
+    },
+    {
+        "id": 27,
+        "name": "Санкт-Петербург",
+        "key": "spb",
+        "public_key": "spb",
+        "latitude": "59.9392620",
+        "longitude": "30.0923225",
+        "center": {
+            "latitude": "59.9392620",
+            "longitude": "30.0923225"
+        },
+        "ymap_zoom": 11
+    },
+    {
+        "id": 31,
+        "name": "Мурманск",
+        "key": "mrsk",
+        "public_key": "mrsk",
+        "latitude": "68.9732775",
+        "longitude": "33.1135005",
+        "center": {
+            "latitude": "68.9732775",
+            "longitude": "33.1135005"
+        },
+        "ymap_zoom": 14
+    },
+    {
+        "id": 33,
+        "name": "Архангельск",
+        "key": "arh",
+        "public_key": "arh",
+        "latitude": "64.5622575",
+        "longitude": "40.5460535",
+        "center": {
+            "latitude": "64.5622575",
+            "longitude": "40.5460535"
+        },
+        "ymap_zoom": 14
+    },
+    {
+        "id": 35,
+        "name": "Саранск",
+        "key": "srsk",
+        "public_key": "srsk",
+        "latitude": "54.2063605",
+        "longitude": "45.1756200",
+        "center": {
+            "latitude": "54.2063605",
+            "longitude": "45.1756200"
+        },
+        "ymap_zoom": 11
+    },
+    {
+        "id": 37,
+        "name": "Красное Село",
+        "key": "kr_sel",
+        "public_key": "kr_sel",
+        "latitude": "59.7157790",
+        "longitude": "30.0860210",
+        "center": {
+            "latitude": "59.7157790",
+            "longitude": "30.0860210"
+        },
+        "ymap_zoom": 14
+    },
+    {
+        "id": 41,
+        "name": "Мга",
+        "key": "mga",
+        "public_key": "mga",
+        "latitude": "59.7532805",
+        "longitude": "31.0368380",
+        "center": {
+            "latitude": "59.7532805",
+            "longitude": "31.0368380"
+        },
+        "ymap_zoom": 14
+    },
+    {
+        "id": 43,
+        "name": "Тихвин",
+        "key": "thv",
+        "public_key": "thv",
+        "latitude": "59.6401035",
+        "longitude": "33.5234690",
+        "center": {
+            "latitude": "59.6401035",
+            "longitude": "33.5234690"
+        },
+        "ymap_zoom": 14
+    },
+    {
+        "id": 46,
+        "name": "Надвоицы",
+        "key": "ndv",
+        "public_key": "ndv",
+        "latitude": "63.8965400",
+        "longitude": "34.2495055",
+        "center": {
+            "latitude": "63.8965400",
+            "longitude": "34.2495055"
+        },
+        "ymap_zoom": 14
+    },
+    {
+        "id": 47,
+        "name": "Надым",
+        "key": "ndm",
+        "public_key": "ndm",
+        "latitude": "65.5339691",
+        "longitude": "72.5348786",
+        "center": {
+            "latitude": "65.5339691",
+            "longitude": "72.5348786"
+        },
+        "ymap_zoom": 14
+    },
+    {
+        "id": 48,
+        "name": "Полярные Зори",
+        "key": "rel_pz",
+        "public_key": "pz",
+        "latitude": "67.3728814",
+        "longitude": "32.4987553",
+        "center": {
+            "latitude": "67.3728814",
+            "longitude": "32.4987553"
+        },
+        "ymap_zoom": 14
+    },
+    {
+        "id": 49,
+        "name": "Пангоды",
+        "key": "png",
+        "public_key": "png",
+        "latitude": "65.8532485",
+        "longitude": "74.4891295",
+        "center": {
+            "latitude": "65.8532485",
+            "longitude": "74.4891295"
+        },
+        "ymap_zoom": 14
+    },
+    {
+        "id": 50,
+        "name": "Заполярный",
+        "key": "zpl",
+        "public_key": "zpl",
+        "latitude": "66.4525110",
+        "longitude": "73.8599940",
+        "center": {
+            "latitude": "66.4525110",
+            "longitude": "73.8599940"
+        },
+        "ymap_zoom": 14
+    }
+]

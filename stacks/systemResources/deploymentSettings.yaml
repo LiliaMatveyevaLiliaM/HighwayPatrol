@@ -1,0 +1,52 @@
+default:
+    PERMISSIONS_BOUNDARY: ose.boundary.DeveloperFull
+
+    # Proxy port for VPN containers
+    PROXY_LISTEN_PORT: "8080"
+    # As of 11.25.24 ProtonVPN allows at most 10 connections per account
+    # If more are needed, another account must be purchased
+    # Proton VPN mapping of country names to codes in protonVpnCountryCodes.py
+    PROXY_COUNTRIES:
+    - Russia
+    - Turkey
+    - Belarus
+    - Moldova
+    - Georgia
+    - Argentina
+    - Hong Kong
+    - Azerbaijan
+    - South Korea
+
+
+prod:
+    # For thorium-ch-prod
+    AUDIT_ACCOUNT: 980426670992
+    VPC_NAME: "thorium-ch-prod1 us-east-1"
+    FULL_NAT_SUBNETS: 
+        - subnet-0380967cbae9bcd31
+        - subnet-0ddff0c0ee82e2b6b
+    ECS_SUBNET: subnet-0380967cbae9bcd31
+    EC2_KEYPAIR: noNeedInProd
+    WHIRL_SG: sg-06f23527f6ff61a6a
+    SEC_GROUP: sg-0d9004647b7137386 # default
+
+test:
+    # For mendeleev-ch-test
+    AUDIT_ACCOUNT: 920735991196
+    VPC_NAME: "mendeleev-ch-test1 us-east-1"
+    FULL_NAT_SUBNETS: 
+        - subnet-090f7295a71fb1d08
+        - subnet-053252dbc15decf66
+    ECS_SUBNET: subnet-053252dbc15decf66
+    EC2_KEYPAIR: hpVPN-testKey
+    WHIRL_SG: sg-001642ba0ceca6878
+    SEC_GROUP: sg-0ce7ee8d0c2608e64 # m-ch-test default secgroup
+
+dev:
+    # For mendeleev-dev
+    # Note that in mendeleev-dev, the containers don't have AWS access
+    AUDIT_ACCOUNT: 920735991196
+    VPC_NAME: "TGW-Development-mendeleev-dev"
+    ECS_SUBNET: subnet-0384460d8e0751796
+    EC2_KEYPAIR: raysNewKeys
+    SEC_GROUP: sg-0f904f1fcc1815fcc  # Ray's dev machine

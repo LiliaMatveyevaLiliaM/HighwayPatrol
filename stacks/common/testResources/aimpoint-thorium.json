@@ -1,0 +1,40 @@
+{
+    "deviceID": "cam00102",
+    "enabled": true,
+    "dummy": false,
+    "collRegions": [
+        "eu-north-1"
+    ],
+    "collectionType": "M3U",
+    "accessUrl": "https://cdn.cams.is74.ru/hls/playlists/ts.m3u8?quality=sub&uuid=52f0a27a-94b9-4b29-b92f-1d1c88138d39",
+    "pollFrequency": 30,
+    "singleCollector": false,
+    "concatenate": true,
+    "convertToMP4": false,
+    "filenameBase": "thorium-{deviceID}",
+    "finalFileSuffix": "_{year}-{month}-{day}-{hour}-{mins}",
+    "longLat": [
+        "61.387032",
+        "55.18394"
+    ],
+    "bucketPrefixTemplate": "aTest/{deviceID}/{year}{month}{day}",
+    "deliveryKey": "post",
+    "headers": {
+        "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:91.0) Gecko/20100101 Firefox/91.0",
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
+        "Accept-Encoding": "gzip, deflate",
+        "Accept-Language": "en-US,en;q=0.5",
+        "Connection": "keep-alive",
+        "Cache-Control": "max-age=0"
+    },
+    "devNotes": {
+        "startedOn": "February 2024 in HP; overall Aug 30, 2021 under task Thorium",
+        "country": "russia",
+        "name": "Свердловский - Победы",
+        "uuid": "52f0a27a-94b9-4b29-b92f-1d1c88138d39",
+        "address": "Челябинск, пр-кт. Победы, д. 192",
+        "setBy": "edward22",
+        "notes": "From automatic parser",
+        "freqNote": "Playlist file points to about 30 seconds worth of data"
+    }
+}

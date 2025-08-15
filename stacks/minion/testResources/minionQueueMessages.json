@@ -1,0 +1,12 @@
+[
+    {
+        "bagAndZip": {
+            "selected": "xenon_SW103F",
+            "wrkBucket": "highwaypatrol-ch-test",
+            "dstBucket": "xenon-ch-test",
+            "zipFileName": "xenon_SW103F_2023_04_20.zip",
+            "bucketPrefix": "stills/2023/04/20/xenon_SW103F",
+            "deliveryKey": ["data", "norData"]
+        }
+    }
+]

@@ -1,0 +1,25 @@
+# This file lists libraries required during development
+# Notice that a different set of libraries are used during system operation
+# Those other ones are in the lambdaRequirements.txt file
+
+bs4
+m3u8
+moto
+pytz
+boto3
+awscli
+brotli
+base36
+pycurl
+keyring
+requests
+dynaconf
+xmltodict
+pyopenssl
+websockets
+aws-cdk-lib
+ec2-metadata
+fake_useragent
+yt-dlp==2024.4.9
+playwright==1.51.0
+aws_cdk.aws_lambda_python_alpha

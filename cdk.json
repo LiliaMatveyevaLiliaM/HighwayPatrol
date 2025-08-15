@@ -1,0 +1,48 @@
+{
+    "app": "python3 app.py"
+  , "requireApproval": "never"
+  , "context": {
+      "zurichRegion": "Europe (Zurich)"
+    , "seoulRegion": "Asia Pacific (Seoul)"
+    , "stockholmRegion": "Europe (Stockholm)"
+    , "frankfurtRegion": "Europe (Frankfurt)"
+    , "novaRegion": "United States (N. Virginia)"
+    , "singaporeRegion": "Asia Pacific (Singapore)"
+    , "processingRegion": "United States (N. Virginia)"
+    , "collectionRegion": ["United States (N. Virginia)"]
+    , "NOTcollectionRegion": [
+          "United States (N. Virginia)"
+        , "South America (Sao Paulo)"
+        , "Europe (Ireland)"
+        , "Europe (Paris)"
+        , "Africa (Cape Town)"
+        , "Europe (Stockholm)"
+        , "Europe (Milan)"
+        , "Europe (Spain)"
+        , "Middle East (Bahrain)"
+        , "Middle East (UAE)"
+        , "Europe (Frankfurt)"
+        , "Europe (Zurich)"
+        , "Asia Pacific (Singapore)"
+        , "Asia Pacific (Jakarta)"
+        , "Asia Pacific (Seoul)"
+      ]
+    , "stackNames": [
+          "-nova"
+        , "-seoul"
+        , "-zurich"
+        , "-singapore"
+        , "-stockholm"
+        , "-frankfurt"
+        , "-processing"
+        , "-monitoring"
+        , "-vpcLambdas"
+        , "-vpnLambdas"
+    ]
+    , "aws-cdk:enableDiffNoFail": "true"
+    , "@aws-cdk/core:stackRelativeExports": "true"
+    , "@aws-cdk/core:newStyleStackSynthesis": "true"
+    , "description": "Collects camera feeds given aimpoints"
+    , "devNotes": "Multi-region deployments on thorium-ch-prod"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "deviceID": "testID2",
+  "accessUrl": "200",
+  "filenameBase": "testStillSuccess",
+  "collectionType": "STILLS",
+  "pollFrequency": 999,
+  "bucketPrefixTemplate": "stillsTest"
+}
