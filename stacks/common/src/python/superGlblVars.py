@@ -76,4 +76,5 @@ lambdaContext = None
 
 # Our stack name for the Dispatcher to call the correct Collector
 # This is used internally and during deployment as a CDK parameter
-baseStackName = "highwayPatrol"
+# baseStackName = "highwayPatrol"
+baseStackName = "hpWHtest"
