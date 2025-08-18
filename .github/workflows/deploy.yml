@@ -37,24 +37,29 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Echo PWD
+        run: pwd
+
       - name: Use NodeJS
         uses: actions/setup-node@v4
         with:
           node-version: "22"
 
       - name: Configure AWS Credentials
-        uses: aws-actions/configure-aws-credentials@v1
+        uses: aws-actions/configure-aws-credentials@v4
         with:
           role-to-assume: ${{ secrets.IAMROLE_GITHUB }}
           role-session-name: GitHub-Action-Role
           aws-region: ${{ env.AWS_REGION }}
 
-      - name: Install AWS CDK
+      - name: Install CDK
         run: 'npm install -g aws-cdk'
 
       - name: Install Requirements 
-        run: 'pip3 install -r requirements.txt'
+        run: 'pip3 install -r devRequirements.txt'
 
       - name: CDK Deploy
         run: |
-          cdk deploy \* --require-approval never
+        #   cdk deploy \* --require-approval never
+        run: 'runCdk.sh -p thorium-ch-prod -s all -a synth'
+
