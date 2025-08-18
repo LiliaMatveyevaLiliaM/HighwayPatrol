@@ -60,6 +60,6 @@ jobs:
 
       - name: CDK Deploy
         run: |
+          runCdk.sh -p thorium-ch-prod -s all -a synth
         #   cdk deploy \* --require-approval never
-        run: 'runCdk.sh -p thorium-ch-prod -s all -a synth'
 
