@@ -1,0 +1,60 @@
+name: Hello Github Actions
+run-name: ${{ github.actor }} says "Hello, World!"
+on: [push]
+jobs:
+        Say-Hello:
+                runs-on: ubuntu-latest
+                steps:
+                        - run: echo "Hello, World!"
+
+
+# name: Deploy AWS CDK Project
+
+# # Note that this requires a GitHub secret to be set before running.
+# # IAMROLE_GITHUB needs to be set to the ARN of the GitHub role defined
+# # in the target AWS account.
+
+# on:
+#   push:
+#     branches: [ master ]
+#   pull_request:
+#     branches: [ master ]
+
+#   # Allows for running this workflow manually from the Actions tab
+#   workflow_dispatch:
+
+# env:
+#   AWS_REGION: "us-east-1"
+
+# permissions:
+#   id-token: write  # Required for requesting the JWT
+#   contents: read   # Required for actions/checkout
+
+# jobs:
+#   aws_cdk:
+#     runs-on: ubuntu-latest
+#     steps:
+#       - name: Checkout
+#         uses: actions/checkout@v4
+
+#       - name: Use NodeJS
+#         uses: actions/setup-node@v4
+#         with:
+#           node-version: "22"
+
+#       - name: Configure AWS Credentials
+#         uses: aws-actions/configure-aws-credentials@v1
+#         with:
+#           role-to-assume: ${{ secrets.IAMROLE_GITHUB }}
+#           role-session-name: GitHub-Action-Role
+#           aws-region: ${{ env.AWS_REGION }}
+
+#       - name: Install AWS CDK
+#         run: 'npm install -g aws-cdk'
+
+#       - name: Install Requirements 
+#         run: 'pip3 install -r requirements.txt'
+
+#       - name: CDK Deploy
+#         run: |
+#           cdk deploy \* --require-approval never
