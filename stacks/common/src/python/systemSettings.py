@@ -69,8 +69,8 @@ if config["mode"] == SystemMode.PROD:
     config["defaultDstBucket"] = "thorium-ch-prod"
 else:
     config["awsProfile"] = "mendeleev-ch-test"
-    config["defaultWrkBucket"] = "highwaypatrol-ch-test"
-    config["defaultDstBucket"] = "highwaypatrol-ch-test"
+    config["defaultWrkBucket"] = "whPatrol-test"
+    config["defaultDstBucket"] = "whPatrol-test"
 
 # Here order matters; this MUST go after the config["awsProfile"] specifications above
 if onLambda:
