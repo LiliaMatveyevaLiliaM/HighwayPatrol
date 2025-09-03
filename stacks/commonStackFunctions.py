@@ -177,6 +177,9 @@ def printAllAccounts(region) -> dict:
 def getAccountInfo(env: Environment, profile: str) -> dict:
 
     try:
+        logger.debug("*******************")
+        logger.debug(f"profile_name={profile}, region_name={env.region}")
+        logger.debug("*******************")
         session = boto3.Session(profile_name=profile, region_name=env.region)
         sts_client = session.client("sts")
         accountId = sts_client.get_caller_identity()["Account"]

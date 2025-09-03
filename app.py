@@ -34,11 +34,17 @@ stockholmRegion = getRegionCode(app.node.try_get_context("stockholmRegion"))
 collectionRegion = getRegionCode(app.node.try_get_context("collectionRegion"))
 processingRegion = getRegionCode(app.node.try_get_context("processingRegion"))
 
+print(f"---profile: {profile}")
+print(f"---description: {description}")
+print(f"---baseStackName: {baseStackName}")
+print(f"---selectedStack: {selectedStack}")
+print(f"---novaRegion: {novaRegion}")
+
 
 try:
     # This is the account#
     deploymentAccount = os.environ.get("CDK_DEPLOY_ACCOUNT", os.environ["CDK_DEFAULT_ACCOUNT"])
-    # print(f"\n\n---deploymentAccount: {deploymentAccount}")  
+    print(f"\n\n---deploymentAccount: {deploymentAccount}")  
 except KeyError as err:
     print(f"\nERROR: Environment variable {err} not found")
     print(f"ERROR: Verify correct account was used; specified account was '{profile}'")
