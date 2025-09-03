@@ -76,7 +76,7 @@ class HPatrolInitStack(Stack):
         logger.info(f"Region: {regionName}")
 
         # # Just for debugging; enable when necessary
-        # csf.printAllAccounts(regionName)
+        csf.printAllAccounts(regionName)
 
         try:
             self.botoSession = boto3.Session(profile_name=profile, region_name=regionName)

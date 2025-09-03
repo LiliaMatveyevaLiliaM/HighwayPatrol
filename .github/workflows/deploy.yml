@@ -31,7 +31,7 @@ permissions:
   contents: read   # Required for actions/checkout
 
 jobs:
-  aws_cdk:
+  deployCDK:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -39,6 +39,9 @@ jobs:
 
       - name: Echo PWD
         run: pwd
+
+      - name: Echo EnvVars
+        run: set
 
       - name: Use NodeJS
         uses: actions/setup-node@v4
