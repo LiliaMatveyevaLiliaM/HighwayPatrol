@@ -73,4 +73,4 @@ jobs:
 
       - name: CDK Deploy Collection
         run: |
-          cdk deploy --context baseStackName=hpWHtest --context selectedStack=hpWHtest-collection --exclusively --asset-parallelism true --concurrency 50 hpWHtest-collection
+          cdk deploy --context baseStackName=hpWHtest --context selectedStack=hpWHtest-collection-us-east-1 --exclusively --asset-parallelism true --concurrency 50 hpWHtest-collection-us-east-1
