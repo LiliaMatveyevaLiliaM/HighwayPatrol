@@ -105,9 +105,9 @@ class HPatrolProcessingStack(Stack):
 
 
     def _createQueues(self) -> None:
-        self._createBaggingQueue()
+        # self._createBaggingQueue()
         self._createDispatchQueue()
-        self._createTranscodingQueue()
+        # self._createTranscodingQueue()
 
 
     def _createBaggingQueue(self) -> None:
@@ -153,12 +153,12 @@ class HPatrolProcessingStack(Stack):
         ffmpegLayer = csf.addFfmpegLayer(self, accountNumber, region)
         logger.info("Lambda layers created")
 
-        self._createMinionLambda()
-        self._createDroverLambda()
-        self._createMarshalLambda()
+        # self._createMinionLambda()
+        # self._createDroverLambda()
+        # self._createMarshalLambda()
         self._createSchedulerLambda()
         self._createDispatcherLambda()
-        self._createTranscoderLambda(ffmpegLayer)
+        # self._createTranscoderLambda(ffmpegLayer)
 
 
     def _createSchedulerLambda(self) -> None:
