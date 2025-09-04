@@ -185,12 +185,12 @@ class HPatrolProcessingStack(Stack):
         )
         logger.info("Scheduler lambda defined")
 
-        # Connect the Subscription Filters for the Audit Service
-        csf.makeLogSubscriptionFilter(
-            stackObj=self,
-            executionMode=executionMode,
-            auditAccount=cdkConfig["AUDIT_ACCOUNT"],
-            lambdaObj=theLambda)
+        # # Connect the Subscription Filters for the Audit Service
+        # csf.makeLogSubscriptionFilter(
+        #     stackObj=self,
+        #     executionMode=executionMode,
+        #     auditAccount=cdkConfig["AUDIT_ACCOUNT"],
+        #     lambdaObj=theLambda)
 
         # Create the "fireing" rule
         # AWS cron expressions have the following format:
@@ -240,12 +240,12 @@ class HPatrolProcessingStack(Stack):
         )
         logger.info("Dispatcher lambda defined")
 
-        # Connect the Subscription Filters for the Audit Service
-        csf.makeLogSubscriptionFilter(
-            stackObj=self,
-            executionMode=executionMode,
-            auditAccount=cdkConfig["AUDIT_ACCOUNT"],
-            lambdaObj=theLambda)
+        # # Connect the Subscription Filters for the Audit Service
+        # csf.makeLogSubscriptionFilter(
+        #     stackObj=self,
+        #     executionMode=executionMode,
+        #     auditAccount=cdkConfig["AUDIT_ACCOUNT"],
+        #     lambdaObj=theLambda)
 
 
     def _createMarshalLambda(self) -> None:
