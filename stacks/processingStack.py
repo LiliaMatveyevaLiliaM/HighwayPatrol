@@ -94,9 +94,9 @@ class HPatrolProcessingStack(Stack):
         #     logger.error("Will now exit... (this may hang; go ahead and Ctrl+C)")
         #     return None
 
-        # Apply the BoundaryPolicy to the entire stack
-        boundaryPolicy = ManagedPolicy.from_managed_policy_name(self, "permissions_boundary", "ose.boundary.DeveloperFull")
-        PermissionsBoundary.of(self).apply(boundaryPolicy)
+        # # Apply the BoundaryPolicy to the entire stack
+        # boundaryPolicy = ManagedPolicy.from_managed_policy_name(self, "permissions_boundary", "ose.boundary.DeveloperFull")
+        # PermissionsBoundary.of(self).apply(boundaryPolicy)
 
         self._lambdaRole = csf.createLambdaRoles(self, cdkConfig)
         self._createQueues()
