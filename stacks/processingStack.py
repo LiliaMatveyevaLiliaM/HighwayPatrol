@@ -85,14 +85,14 @@ class HPatrolProcessingStack(Stack):
         # # Just for debugging; enable when necessary
         # csf.printAllAccounts(regionName)
 
-        try:
-            self.botoSession = boto3.Session(profile_name=profile, region_name=regionName)
-            # Now test if credentials are valid
-            self.botoSession.client("kms").list_aliases()
-        except Exception as exc:
-            logger.error(exc)
-            logger.error("Will now exit... (this may hang; go ahead and Ctrl+C)")
-            return None
+        # try:
+        #     self.botoSession = boto3.Session(profile_name=profile, region_name=regionName)
+        #     # Now test if credentials are valid
+        #     self.botoSession.client("kms").list_aliases()
+        # except Exception as exc:
+        #     logger.error(exc)
+        #     logger.error("Will now exit... (this may hang; go ahead and Ctrl+C)")
+        #     return None
 
         # Apply the BoundaryPolicy to the entire stack
         boundaryPolicy = ManagedPolicy.from_managed_policy_name(self, "permissions_boundary", "ose.boundary.DeveloperFull")
