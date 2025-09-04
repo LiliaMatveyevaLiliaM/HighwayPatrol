@@ -71,6 +71,6 @@ jobs:
         #   cdk synth --profile thorium-ch-prod --context profile=thorium-ch-prod --context baseStackName=hpWHtest --context selectedStack=hpWHtest-init --exclusively --asset-parallelism true --concurrency 50 hpWHtest-init
 
       - name: CDK Deploy Collection
-        run: |
-          runCdk.sh -p None -s collection -a deploy
+        run: './runCdk.sh -p None -s collection -a deploy'
+        # run: |
         # cdk deploy --context baseStackName=hpWHtest --context selectedStack=hpWHtest-collection --exclusively --asset-parallelism true --concurrency 50 hpWHtest-collection
