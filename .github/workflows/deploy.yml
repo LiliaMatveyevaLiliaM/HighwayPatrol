@@ -31,17 +31,17 @@ permissions:
   contents: read   # Required for actions/checkout
 
 jobs:
-  deployCDK:
+  deployToWH:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Echo PWD
-        run: pwd
+      # - name: Echo PWD
+      #   run: pwd
 
-      - name: Echo EnvVars
-        run: set
+      # - name: Echo EnvVars
+      #   run: set
 
       - name: Use NodeJS
         uses: actions/setup-node@v4
@@ -61,9 +61,10 @@ jobs:
       - name: Install Requirements 
         run: 'pip3 install -r devRequirements.txt'
 
-      - name: CDK Deploy
+      - name: CDK Deploy CollectionCore
         run: |
-          cdk deploy --context baseStackName=hpWHtest --context selectedStack=hpWHtest-init --exclusively --asset-parallelism true --concurrency 50 hpWHtest-init
+          cdk deploy --context baseStackName=hpWHtest --context selectedStack=hpWHtest-processing --exclusively --asset-parallelism true --concurrency 50 hpWHtest-processing
+        # cdk deploy --context baseStackName=hpWHtest --context selectedStack=hpWHtest-init --exclusively --asset-parallelism true --concurrency 50 hpWHtest-init
         # cdk synth --context baseStackName=hpWHtest --context selectedStack=hpWHtest-init --exclusively --asset-parallelism true --concurrency 50 hpWHtest-init
 
         #   runCdk.sh -p thorium-ch-prod -s all -a synth
