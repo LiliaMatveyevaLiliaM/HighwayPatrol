@@ -9,7 +9,7 @@
     , "novaRegion": "United States (N. Virginia)"
     , "singaporeRegion": "Asia Pacific (Singapore)"
     , "processingRegion": "United States (N. Virginia)"
-    , "collectionRegion": "us-east-1"
+    , "collectionRegion": ["us-east-1"]
     , "NOTcollectionRegion": [
           "United States (N. Virginia)"
         , "South America (Sao Paulo)"

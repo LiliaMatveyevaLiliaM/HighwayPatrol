@@ -133,7 +133,7 @@ done
 # Activate Conda environment from script
 eval "$(conda shell.bash hook)"
 # Note that the environment name used is from environment.yml
-conda activate hpatrol
+# conda activate hpatrol
 
 case ${ACTION} in
     deploy)
