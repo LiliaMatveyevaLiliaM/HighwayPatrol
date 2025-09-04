@@ -35,7 +35,8 @@ f_allStacksCmd() {
     # Loop for other-than-collection stacks
     for stack in $STACKS
     do
-        f_cdkCmd ${ACTION} --profile $AWS_ACCOUNT --context profile=$AWS_ACCOUNT --context baseStackName=$BASE_STACK_NAME --context selectedStack="$BASE_STACK_NAME""$stack" --asset-parallelism true --concurrency 50 "$BASE_STACK_NAME""$stack"
+        f_cdkCmd ${ACTION} --context baseStackName=$BASE_STACK_NAME --context selectedStack="$BASE_STACK_NAME""$stack" --asset-parallelism true --concurrency 50 "$BASE_STACK_NAME""$stack"
+        # f_cdkCmd ${ACTION} --profile $AWS_ACCOUNT --context profile=$AWS_ACCOUNT --context baseStackName=$BASE_STACK_NAME --context selectedStack="$BASE_STACK_NAME""$stack" --asset-parallelism true --concurrency 50 "$BASE_STACK_NAME""$stack"
     done
 
     # Loop for collection stack in all regions
@@ -58,7 +59,8 @@ f_singleCollectionStackCmd() {
         echo "ERROR: Region '${1}' not found; exiting"
         exit 1
     fi
-    f_cdkCmd ${ACTION} --profile $AWS_ACCOUNT --context profile=$AWS_ACCOUNT --context collectionRegion="$regionCode" --context baseStackName="$BASE_STACK_NAME" --context selectedStack="$BASE_STACK_NAME""-collection" --exclusively --asset-parallelism true --concurrency 50 "$BASE_STACK_NAME""-collection-""$regionCode"
+    f_cdkCmd ${ACTION} --context collectionRegion="$regionCode" --context baseStackName="$BASE_STACK_NAME" --context selectedStack="$BASE_STACK_NAME""-collection" --exclusively --asset-parallelism true --concurrency 50 "$BASE_STACK_NAME""-collection-""$regionCode"
+    # f_cdkCmd ${ACTION} --profile $AWS_ACCOUNT --context profile=$AWS_ACCOUNT --context collectionRegion="$regionCode" --context baseStackName="$BASE_STACK_NAME" --context selectedStack="$BASE_STACK_NAME""-collection" --exclusively --asset-parallelism true --concurrency 50 "$BASE_STACK_NAME""-collection-""$regionCode"
 }
 
 
@@ -146,7 +148,8 @@ case ${ACTION} in
             region="${STACK_NAME#${BASE_STACK_NAME}-collection-}"
             f_singleCollectionStackCmd "$region"
         else
-            f_cdkCmd ${ACTION} --profile $AWS_ACCOUNT --context profile=$AWS_ACCOUNT --context baseStackName=$BASE_STACK_NAME --context selectedStack=$STACK_NAME --exclusively --asset-parallelism true --concurrency 50 ${STACK_NAME}
+            f_cdkCmd ${ACTION} --context baseStackName=$BASE_STACK_NAME --context selectedStack=$STACK_NAME --exclusively --asset-parallelism true --concurrency 50 ${STACK_NAME}
+            # f_cdkCmd ${ACTION} --profile $AWS_ACCOUNT --context profile=$AWS_ACCOUNT --context baseStackName=$BASE_STACK_NAME --context selectedStack=$STACK_NAME --exclusively --asset-parallelism true --concurrency 50 ${STACK_NAME}
         fi
     ;;
     synth)
@@ -158,11 +161,13 @@ case ${ACTION} in
             region=${STACK_NAME#${BASE_STACK_NAME}-collection-}
             f_singleCollectionStackCmd $region
         else
-            f_cdkCmd ${ACTION} --profile $AWS_ACCOUNT --context profile=$AWS_ACCOUNT --context baseStackName=$BASE_STACK_NAME --context selectedStack=$STACK_NAME --exclusively --asset-parallelism true --concurrency 50 ${STACK_NAME}
+            f_cdkCmd ${ACTION} --context baseStackName=$BASE_STACK_NAME --context selectedStack=$STACK_NAME --exclusively --asset-parallelism true --concurrency 50 ${STACK_NAME}
+            # f_cdkCmd ${ACTION} --profile $AWS_ACCOUNT --context profile=$AWS_ACCOUNT --context baseStackName=$BASE_STACK_NAME --context selectedStack=$STACK_NAME --exclusively --asset-parallelism true --concurrency 50 ${STACK_NAME}
         fi
     ;;
     list)
-        f_cdkCmd ${ACTION} --profile $AWS_ACCOUNT --context profile=$AWS_ACCOUNT --context baseStackName=$BASE_STACK_NAME --context selectedStack=$STACK_NAME
+        f_cdkCmd ${ACTION} --context baseStackName=$BASE_STACK_NAME --context selectedStack=$STACK_NAME
+        # f_cdkCmd ${ACTION} --profile $AWS_ACCOUNT --context profile=$AWS_ACCOUNT --context baseStackName=$BASE_STACK_NAME --context selectedStack=$STACK_NAME
     ;;
     destroy)
         if [[ ${STACK_NAME} =~ (-init)$ ]]; then
@@ -180,7 +185,8 @@ case ${ACTION} in
             region=${STACK_NAME#${BASE_STACK_NAME}-collection-}
             f_singleCollectionStackCmd $region
         else
-            f_cdkCmd ${ACTION} --profile $AWS_ACCOUNT --context profile=$AWS_ACCOUNT --context baseStackName=$BASE_STACK_NAME --context selectedStack=$STACK_NAME --exclusively ${STACK_NAME}
+            f_cdkCmd ${ACTION} --context baseStackName=$BASE_STACK_NAME --context selectedStack=$STACK_NAME --exclusively ${STACK_NAME}
+            # f_cdkCmd ${ACTION} --profile $AWS_ACCOUNT --context profile=$AWS_ACCOUNT --context baseStackName=$BASE_STACK_NAME --context selectedStack=$STACK_NAME --exclusively ${STACK_NAME}
         fi
     ;;
     *)
