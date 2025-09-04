@@ -1,5 +1,5 @@
 default:
-    PERMISSIONS_BOUNDARY: ose.boundary.DeveloperFull
+    # PERMISSIONS_BOUNDARY: ose.boundary.DeveloperFull
 
     # Proxy port for VPN containers
     PROXY_LISTEN_PORT: "8080"

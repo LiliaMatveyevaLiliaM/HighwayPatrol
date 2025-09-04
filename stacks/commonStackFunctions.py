@@ -68,18 +68,19 @@ def initCdkSettings() -> dict:
         filter_strategy=None,
         ignore_unknown_envvars=True,
     )
+ 
 
-
+        # permissions_boundary=ManagedPolicy.from_managed_policy_name(
+        #     stackObjRef, 
+        #     "lambdaBoundary", 
+        #     cdkConfig["PERMISSIONS_BOUNDARY"]
+        #     ),
 def createLambdaRoles(stackObjRef, cdkConfig) -> None:
     # Create the Lambda Roles
     lambdaRole = Role(stackObjRef,
         f"{projectName}LambdaRole",
         assumed_by=ServicePrincipal("lambda.amazonaws.com"),
-        permissions_boundary=ManagedPolicy.from_managed_policy_name(
-            stackObjRef, 
-            "lambdaBoundary", 
-            cdkConfig["PERMISSIONS_BOUNDARY"]
-            ),
+        permissions_boundary=None,
         managed_policies=[
             ManagedPolicy.from_aws_managed_policy_name("AmazonS3FullAccess"),
             ManagedPolicy.from_aws_managed_policy_name("AmazonSQSFullAccess"),
