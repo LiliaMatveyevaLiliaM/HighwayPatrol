@@ -88,13 +88,13 @@ def createLambdaRoles(stackObjRef, cdkConfig) -> None:
             ManagedPolicy.from_aws_managed_policy_name("CloudWatchFullAccess"),
             ManagedPolicy.from_aws_managed_policy_name("AWSCloudFormationReadOnlyAccess"),
             ManagedPolicy.from_aws_managed_policy_name("service-role/AWSLambdaSQSQueueExecutionRole"),
-            ManagedPolicy.from_aws_managed_policy_name("service-role/AWSLambdaVPCAccessExecutionRole"),
-            ManagedPolicy.from_managed_policy_name(
-                stackObjRef, 
-                "lambda_key_access_policy", 
-                managed_policy_name="KMS_Key_User")
+            ManagedPolicy.from_aws_managed_policy_name("service-role/AWSLambdaVPCAccessExecutionRole")
         ]
     )
+            # ManagedPolicy.from_managed_policy_name(
+            #     stackObjRef, 
+            #     "lambda_key_access_policy", 
+            #     managed_policy_name="KMS_Key_User")
     logger.info("Lambda roles defined")
     return lambdaRole
 
