@@ -158,13 +158,13 @@ class HPatrolCollectionStack(Stack):
         )
         logger.info("Stills lambda defined")
 
-        # Connect the Subscription Filters for the Audit Service
-        csf.makeLogSubscriptionFilter(
-            stackObj=self,
-            executionMode=executionMode,
-            auditAccount=cdkConfig["AUDIT_ACCOUNT"],
-            lambdaObj=theLambda
-        )
+        # # Connect the Subscription Filters for the Audit Service
+        # csf.makeLogSubscriptionFilter(
+        #     stackObj=self,
+        #     executionMode=executionMode,
+        #     auditAccount=cdkConfig["AUDIT_ACCOUNT"],
+        #     lambdaObj=theLambda
+        # )
 
 
     def _createVideosLambda(self, ffprobeLayer, ytdlpLayer, pycurlLayer) -> None:
@@ -197,13 +197,13 @@ class HPatrolCollectionStack(Stack):
         )
         logger.info("Videos lambda defined")
 
-        # Connect the Subscription Filters for the Audit Service
-        csf.makeLogSubscriptionFilter(
-            stackObj=self,
-            executionMode=executionMode,
-            auditAccount=cdkConfig["AUDIT_ACCOUNT"],
-            lambdaObj=theLambda
-        )
+        # # Connect the Subscription Filters for the Audit Service
+        # csf.makeLogSubscriptionFilter(
+        #     stackObj=self,
+        #     executionMode=executionMode,
+        #     auditAccount=cdkConfig["AUDIT_ACCOUNT"],
+        #     lambdaObj=theLambda
+        # )
 
 
     def _createStreamingVideosLambda(self, ffmpegLayer) -> None:
@@ -234,13 +234,13 @@ class HPatrolCollectionStack(Stack):
         )
         logger.info("Streaming Videos lambda defined")
 
-        # Connect the Subscription Filters for the Audit Service
-        csf.makeLogSubscriptionFilter(
-            stackObj=self,
-            executionMode=executionMode,
-            auditAccount=cdkConfig["AUDIT_ACCOUNT"],
-            lambdaObj=theLambda
-        )
+        # # Connect the Subscription Filters for the Audit Service
+        # csf.makeLogSubscriptionFilter(
+        #     stackObj=self,
+        #     executionMode=executionMode,
+        #     auditAccount=cdkConfig["AUDIT_ACCOUNT"],
+        #     lambdaObj=theLambda
+        # )
 
 
     # Not working yet; kept here for future improvement
