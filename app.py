@@ -182,7 +182,7 @@ if selectedStack == collectionStackName or selectedStack == allStacks:
         profile=profile,
         baseStackName=baseStackName,
         description=description,
-        stackName=f"{collectionStackName}-{stackRegion}",
+        stackName="hpWHtest-collection-us-east-1",
         env=Environment(
             account=deploymentAccount,
             region=stackRegion
