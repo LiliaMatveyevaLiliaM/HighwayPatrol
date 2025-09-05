@@ -10,6 +10,7 @@ constructs>=10.0.0,<11.0.0
 bs4
 m3u8
 moto
+cffi
 pytz
 boto3
 awscli
