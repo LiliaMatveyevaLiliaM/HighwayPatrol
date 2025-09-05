@@ -54,12 +54,12 @@ f_allCollectionStacksCmd() {
 
 
 f_singleCollectionStackCmd() {
-    regionCode=$(python3 -c "import sys, stacks.common.src.python.orangeUtils.utils as ut; print(ut.getRegionCode(sys.argv[1]))" "$1")
-    if [ -z "$regionCode" ]; then
-        echo "ERROR: Region '${1}' not found; exiting"
-        exit 1
-    fi
-    f_cdkCmd ${ACTION} --context collectionRegion="$regionCode" --context baseStackName="$BASE_STACK_NAME" --context selectedStack="$BASE_STACK_NAME""-collection" --exclusively --asset-parallelism true --concurrency 50 "$BASE_STACK_NAME""-collection-""$regionCode"
+    # regionCode=$(python3 -c "import sys, stacks.common.src.python.orangeUtils.utils as ut; print(ut.getRegionCode(sys.argv[1]))" "$1")
+    # if [ -z "$regionCode" ]; then
+    #     echo "ERROR: Region '${1}' not found; exiting"
+    #     exit 1
+    # fi
+    f_cdkCmd ${ACTION} --context collectionRegion="us-east-1" --context baseStackName="$BASE_STACK_NAME" --context selectedStack="$BASE_STACK_NAME""-collection" --exclusively --asset-parallelism true --concurrency 50 "$BASE_STACK_NAME""-collection-us-east-1"
     # f_cdkCmd ${ACTION} --profile $AWS_ACCOUNT --context profile=$AWS_ACCOUNT --context collectionRegion="$regionCode" --context baseStackName="$BASE_STACK_NAME" --context selectedStack="$BASE_STACK_NAME""-collection" --exclusively --asset-parallelism true --concurrency 50 "$BASE_STACK_NAME""-collection-""$regionCode"
 }
 
