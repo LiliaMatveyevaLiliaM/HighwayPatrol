@@ -174,7 +174,8 @@ if selectedStack == zurichStackName or selectedStack == allStacks:
     )
 
 
-if selectedStack == collectionStackName or selectedStack == allStacks:
+# if selectedStack == collectionStackName or selectedStack == allStacks:
+if selectedStack == "hpWHtest-collection-us-east-1" or selectedStack == allStacks:
     stackRegion = app.node.try_get_context("collectionRegion")
     print(f"\n\n---HPatrolCollectionStack ({stackRegion})---")
     HPatrolCollectionStack(
