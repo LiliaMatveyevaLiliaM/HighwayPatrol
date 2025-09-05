@@ -1,4 +1,5 @@
-aws-cdk-lib==2.189.0
+# aws-cdk-lib==2.189.0
+aws-cdk-lib
 constructs>=10.0.0,<11.0.0
 
 
@@ -21,7 +22,7 @@ dynaconf
 xmltodict
 pyopenssl
 websockets
-aws-cdk
+# aws-cdk
 # ec2-metadata
 fake_useragent
 yt-dlp==2024.4.9
