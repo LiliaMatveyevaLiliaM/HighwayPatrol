@@ -251,7 +251,7 @@ def addFfprobeLayer(selfObj, accountNumber: str, region: str) -> LayerVersion:
     # Layer zip file in the main resources directory; filename "ffprobe-lambdaLayer.zip"
     logger.debug("Connecting FFPROBE layer")
 
-    ffprobeLayerArn = f"arn:aws:lambda:{region}:{accountNumber}:layer:ffprobe:1"
+    ffprobeLayerArn = f"arn:aws:lambda:{region}:{accountNumber}:layer:hPatrol_ffprobe:2"
     return LayerVersion.from_layer_version_arn(
         selfObj,
         selfObj.stackName + "-ffprobe",
@@ -290,7 +290,7 @@ def addFfmpegLayer(selfObj, accountNumber: str, region: str) -> LayerVersion:
 
     # TODO: Remove hardcoded layer version
     #   Implement function to determine latest lambda layer version to use
-    ffmpegLayerArn = f"arn:aws:lambda:{region}:{accountNumber}:layer:ffmpeg:2"
+    ffmpegLayerArn = f"arn:aws:lambda:{region}:{accountNumber}:layer:hPatrol_ffmpeg:2"
     return LayerVersion.from_layer_version_arn(
         selfObj,
         selfObj.stackName + "-ffmpeg",
