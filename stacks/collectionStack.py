@@ -115,6 +115,7 @@ class HPatrolCollectionStack(Stack):
         ytdlpLayer = csf.createYtdlDependencyLayer(self)
         reqsFile = f"{self.cwd}/stacks/systemResources/lambdaRequirements.txt"
         self._dependsLayer = csf.createDependenciesLayerBin(self, reqsFile)
+        self._dependsLayer = csf.createDependenciesLayer(self, reqsFile)
         ffprobeLayer = csf.addFfprobeLayer(self, accountNumber, region)
         ffmpegLayer = csf.addFfmpegLayer(self, accountNumber, region)
         pycurlLayer = csf.addPycurlLayer(self)
