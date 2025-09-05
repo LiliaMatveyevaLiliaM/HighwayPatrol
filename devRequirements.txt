@@ -21,7 +21,7 @@ dynaconf
 xmltodict
 pyopenssl
 websockets
-aws-cdk-lib
+aws-cdk
 # ec2-metadata
 fake_useragent
 yt-dlp==2024.4.9
