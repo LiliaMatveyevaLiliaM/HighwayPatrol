@@ -65,17 +65,18 @@ f_singleCollectionStackCmd() {
 
 
 f_cdkCmd() {
-    CDK_PYTHON_VERSION=$(python -c 'from importlib import metadata; print(metadata.version("aws-cdk-lib"))')
+    # CDK_PYTHON_VERSION=$(python -c 'from importlib import metadata; print(metadata.version("aws-cdk-lib"))')
 
-    if ! [[ $CDK_PYTHON_VERSION =~ ^[0-9]+\.[0-9]+\.[0-9]+ ]];
-    then
-        echo "ERROR: Cannot determine CDK_PYTHON_VERSION! Found CDK_PYTHON_VERSION=${CDK_PYTHON_VERSION} Exiting!"
-        exit 1
-    fi
+    # if ! [[ $CDK_PYTHON_VERSION =~ ^[0-9]+\.[0-9]+\.[0-9]+ ]];
+    # then
+    #     echo "ERROR: Cannot determine CDK_PYTHON_VERSION! Found CDK_PYTHON_VERSION=${CDK_PYTHON_VERSION} Exiting!"
+    #     exit 1
+    # fi
 
     # "npx" runs a command from a local or remote npm package
     # --yes is to suppress the prompt asking to install packages if necessary
-    CDK_CMD="npx --yes -p aws-cdk@${CDK_PYTHON_VERSION} cdk ${*}"
+    # CDK_CMD="npx --yes -p aws-cdk@${CDK_PYTHON_VERSION} cdk ${*}"
+    CDK_CMD="cdk ${*}"
 
     unset AWS_ACCESS_KEY_ID AWS_SECRET_ACCESS_KEY AWS_SESSION_TOKEN AWS_PROFILE
     unset CDK_DEPLOY_ACCOUNT CDK_DEPLOY_REGION CDK_DEFAULT_ACCOUNT CDK_DEFAULT_REGION
